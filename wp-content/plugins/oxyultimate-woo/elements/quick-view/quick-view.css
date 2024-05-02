@@ -1,0 +1,182 @@
+body.oxygen-builder-body .oxy-quick-view {
+	display: block;
+	width: 100%;
+}
+.oxy-quick-view {
+	--panel-height:  350px;
+}
+.oxy-quick-view .quick-view-content-wrap,
+.quick-view-content-wrap .woocommerce-notices-wrapper,
+body:not(.oxygen-builder-body) .oxy-quick-view .qv-pc {
+	display: none;
+	visibility: hidden;
+	text-align: left;
+}
+.oxy-quick-view .quick-view-content-wrap.qv-enabled {
+	display: block;
+	visibility: visible;
+}
+.oxy-quick-view .qv-back-drop {
+	position: fixed;
+	background: rgba(8, 7, 7, 82%);
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	z-index: 10050;
+}
+.oxy-quick-view .quick-view-content,
+.qv-spinner {
+	background-color: #fff;
+	display: block;
+	position: fixed;
+	left: 50%;
+	top: 50%;
+	margin: 0 auto;
+	max-width: 750px;
+	width: 100%;
+}
+.oxy-quick-view .quick-view-content {
+	visibility: hidden;
+	transform: translate(-50%, -55%);
+	transition: all 900ms;
+}
+.quick-view-content.qv-box-fadein,
+.qv-builder-preview .quick-view-content,
+.qv-spinner {
+	visibility: visible;
+	transform: translate(-50%, -50%);
+	z-index: 10051;
+}
+.quick-view-content {
+	z-index: 10052;
+}
+body:not(.oxygen-builder-body) .qv-back-drop {
+	opacity: 0;
+	visibility: hidden;
+}
+body:not(.oxygen-builder-body) .qv-enabled .qv-back-drop {
+	visibility: visible;
+}
+.oxy-quick-view .quick-view-content > .oxy-product-builder,
+.oxy-quick-view .quick-view-content > .ct-section,
+.oxy-quick-view .quick-view-content > .ct-section .ct-section-inner-wrap,
+.oxy-quick-view .qv-content-wrap > .oxy-product-builder,
+.oxy-quick-view .qv-content-wrap > .ct-section,
+.oxy-quick-view .qv-content-wrap > .ct-section .ct-section-inner-wrap {
+	max-width: 100%!important;
+	width: 100%!important;
+}
+.oxy-quick-view .quick-view-content > .oxy-product-builder,
+.qv-content-wrap,
+.qv-off-canvas .qv-content-wrap > .oxy-product-builder {
+	overflow-y: auto;
+  	overflow-x: hidden;
+	height:  100%;
+}
+.close-quick-view {
+	background-color: #fff;
+	border-radius: 50px;
+	box-shadow: 3px -1px 10px #565656;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: -18px;
+	right: -18px;
+	width: 35px;
+}
+.close-quick-view svg {
+	width: 16px;
+	height: 16px;
+	fill: currentColor;
+}
+.qv-off-canvas .close-quick-view {
+	top: 3px;
+	right: 3px;
+}
+.oxy-quick-view .oxy-product-images div.images {
+	width: 100%!important;
+}
+.oxy-quick-view .oxy-product-images div.images .flex-control-thumbs li,
+.oxy-quick-view .oxy-product-images .woocommerce-product-gallery__wrapper,
+.oxy-quick-view .oxy-product-images div.flex-viewport{
+	border: none!important;
+}
+.oxy-quick-view .oxy-product-images div.images .flex-control-thumbs {
+	display: grid!important;
+	grid-template-columns: repeat( auto-fit, minmax(64px, 1fr) );
+	gap: 5px;
+	margin-top: 5px!important;
+}
+.oxy-quick-view .oxy-product-images div.images .flex-control-thumbs li {
+	width: auto!important;
+}
+body.qv-remove-scroll {
+	overflow: hidden!important;
+}
+/* Off Canvas */
+.quick-view-content.qv-off-canvas {
+	max-width: 300px;
+	height: 100%!important;
+	left: auto;
+	right: 0;
+	top: 0;
+	pointer-events: auto;
+	transition: all 0.5s ease;
+}
+.oxy-quick-view .quick-view-content.qv-ofc {
+	-webkit-transform: translateX(100%);
+	-moz-transform: translateX(100%);
+	transform: translateX(100%);
+}
+.quick-view-content.qv-off-canvas.qv-box-fadein,
+.qv-builder-preview .quick-view-content.qv-off-canvas {
+	-webkit-transform: none!important;
+	-ms-transform: none!important;
+	-moz-transform: none!important;
+	transform: none!important;
+}
+
+.qv-notice-box {
+	background-color: #cbff9b;
+	border: 2px solid #54cc14;
+	color: #002300;
+	display: block;
+	font-size: 14px;
+	line-height: 1.325;
+	opacity: 0;
+	padding: 25px;
+	position: fixed;
+	right: 30px;
+	bottom: 30px;
+	max-width: 350px;
+	width: 100%;
+	transform: translateY(100%);
+	transition: all 0.25s ease-in;
+	transition-delay: 1s;
+	z-index: 10055;
+}
+.qv-notice-box.on {
+	opacity: 1;
+	transform: translateY(0);
+}
+@media only screen and (max-width: 768px) {
+	.oxy-quick-view .quick-view-content:not(.qv-off-canvas) {
+		opacity: 0;
+		transform: translate(-50%, -50%);
+		position: fixed;
+		width: calc(100% - 24px);
+		max-width: 100%!important;
+	}
+	.oxy-quick-view .quick-view-content:not(.qv-off-canvas).qv-box-fadein{
+		opacity: 1;
+	}
+	.quick-view-content:not(.qv-off-canvas) .close-quick-view {
+		top: -10px;
+		right: -10px;
+	}
+}

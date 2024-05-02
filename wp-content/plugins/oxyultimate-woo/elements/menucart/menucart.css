@@ -1,0 +1,209 @@
+.single_add_to_cart_button.disabled {
+  pointer-events: none;
+}
+.oxy-ou-minicart .oumc-cart-items {
+    position: absolute;
+    top: 60px;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 9999;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.oxy-ou-minicart .oumc-wrapper {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    position: relative;
+}
+
+.oxy-ou-minicart .product-image {
+  display: inline-block;
+  float: left;
+}
+
+.oxy-ou-minicart .product-content {
+  overflow: auto;
+}
+
+.oxy-ou-minicart .product-content .product-title {
+  padding-right: 20px;
+}
+
+.oxy-ou-minicart .widget_shopping_cart_content {
+    width: 260px;
+    background-color: #fcfcfc;
+    border: 1px solid #efefef;
+    padding: 13px 15px 0;
+}
+
+.oxy-ou-minicart .oumc-wrapper:hover .oumc-cart-items,
+.oxy-ou-minicart .oumc-cart-items.show-menucart {
+  top: 50px;
+  opacity: 1;
+  visibility: visible;
+}
+
+.oxy-ou-minicart,
+.oxy-ou-minicart .mini_cart_item {
+  position: relative;
+}
+
+.oumc-cart-btn,
+.oxy-ou-minicart .cart-items-num {
+  display: inline-block;
+  position: relative;
+  text-decoration: none!important;
+}
+
+.oumc-type-bubble .cart-items-num {
+    position: absolute;
+    top: 0;
+    color: #fff;
+    text-align: center;
+    background-color: #2b2c28;
+    border-radius: 50px;
+}
+
+.oumc-type-bubble .cart-counter {
+    width: 15px;
+    height: 15px;
+    line-height: 15px;
+    font-size: 10px;
+    text-align: center;
+}
+
+.oxy-ou-minicart .cart-counter {
+  display: table;
+  vertical-align: middle;
+}
+
+.oxy-ou-minicart a.remove {
+  background-color: transparent!important;
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  height: auto;
+  width: auto;
+  text-decoration: none;
+}
+
+.oxy-ou-minicart a.remove svg {
+  width: 11px;
+  height: 11px;
+  fill: currentColor;
+}
+
+.oxy-ou-minicart a.remove:hover,
+.oumc-cart-items .product_list_widget a.remove:hover {
+  background-color: transparent!important;
+  color: #666!important;
+  text-decoration: none!important;
+}
+
+.oxy-ou-minicart ul.cart_list li img,
+.oxy-ou-minicart ul.product_list_widget li img {
+  width: 47px;
+  float: left;
+  margin-left: 0;
+  margin-right: 10px;
+}
+
+.oxy-ou-minicart ul.cart_lis li.mini_cart_item,
+.oxy-ou-minicart ul.product_list_widget li.mini_cart_item {
+  padding: 6px 0;
+  border-bottom: 1px solid #ccc;
+}
+
+.cart-price {
+  font-size: 14px;
+  display: inline-block;
+}
+
+.oxy-ou-minicart .quantity {
+  font-size: 14px;
+  display: table;
+}
+
+.price-align-left {
+  margin-right: 8px;
+  float: left;
+}
+
+.price-align-right {
+  float: right;
+}
+
+.oxy-ou-minicart .woocommerce-mini-cart__buttons a.button {
+  border-radius: 0;
+  display: inline-block;
+  padding: 10px;
+  text-align: center;
+  width: 48%;
+}
+
+.oxy-ou-minicart .woocommerce-mini-cart__buttons .button.checkout,
+.oxy-ou-minicart .price-align-right {
+  margin-left: 8px;
+}
+
+.oxy-ou-minicart .woocommerce-mini-cart__empty-message {
+  padding: 0 20px;
+}
+
+.oumc-cart-btn svg {
+  fill: currentColor;
+  width: 20px;
+  height: 20px;
+}
+
+.oumc-cart-btn:hover svg {
+  fill: currentColor;
+}
+
+.oumc-cart-items ul.product_list_widget li dl {
+    padding-left: 8px;
+    font-size: 13px;
+    line-height: 1.425;
+    display: inline-block;
+}
+
+.oumc-cart-items .product_list_widget .mini_cart_item .variation dt {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  float: left;
+}
+
+.oumc-cart-items .product_list_widget .mini_cart_item .variation dd,
+.oumc-cart-items .product_list_widget .mini_cart_item .variation dd p {
+  margin: 0;
+  padding: 0 0 0 4px;
+  display: inline-block;
+  float: left;
+  color: #777;
+}
+
+.oumc-cart-items .qty-price-wrap,
+.oumc-cart-items .coupon-code-wrap,
+.oumc-cart-items .oucc-coupon-row,
+.oumc-cart-items .order-total-row,
+.oumc-cart-items .price-label {
+  display: none;
+}
+
+.oxy-ou-minicart .woocommerce-mini-cart__buttons .button.ouocc-shop-button {
+    display: none!important;
+}
+
+.subtotal-wrap {
+  display: inline-block;
+  width: 100%;
+  text-align: left;
+}
+
+.oumc-cart-items .total .woocommerce-Price-amount {float: right;}

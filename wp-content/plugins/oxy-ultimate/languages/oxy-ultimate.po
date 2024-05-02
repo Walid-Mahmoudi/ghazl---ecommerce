@@ -1,0 +1,5413 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: oxy-ultimate\n"
+"POT-Creation-Date: 2020-11-15 08:54+0530\n"
+"PO-Revision-Date: 2020-11-15 08:54+0530\n"
+"Last-Translator: \n"
+"Language-Team: oxy-ultimate\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:15 includes/admin.php:243
+msgid "ACF Gallery Accordion"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:32
+#: elements/ou-css-grid/grid-area.php:153
+#: elements/ou-css-grid/ou-css-grid.php:177
+#: elements/ou-icon-list/ou-icon-list.php:41
+#: elements/ou-image-panels/ou-image-panels.php:73
+msgid "Layout"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:40
+msgid "Setting Gallery"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:44
+#: elements/ou-ultimate-video/ou-ultimate-video.php:36
+msgid "Source"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:47
+#: elements/ou-gallery-slider/ou-gallery-slider.php:81
+#: elements/ou-gallery/ou-gallery.php:83
+msgid "Same Post/Page"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:48
+#: elements/ou-gallery-slider/ou-gallery-slider.php:82
+#: elements/ou-gallery/ou-gallery.php:84
+msgid "Other"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:58
+#: elements/ou-gallery-slider/ou-gallery-slider.php:93
+#: elements/ou-gallery/ou-gallery.php:94
+msgid "Enter Post/Page ID"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:70
+#: elements/ou-gallery-slider/ou-gallery-slider.php:104
+#: elements/ou-gallery/ou-gallery.php:105
+msgid "Gallery Field Name"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:87
+#: elements/ou-image-panels/ou-panel-item.php:57
+msgid "Image Position"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:97
+#: elements/ou-ff-styler/ou-ff-styler.php:140
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1361
+#: elements/ou-image-panels/ou-panel-item.php:67
+msgid "Position Left"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:108
+#: elements/ou-countdown/ou-countdown.php:572
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1369
+#: elements/ou-image-panels/ou-panel-item.php:78
+msgid "Position Right"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:121
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:136
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:236
+#: elements/ou-before-after-image/ou-before-after-image.php:87
+#: elements/ou-before-after-image/ou-before-after-image.php:112
+#: elements/ou-classic-accordion/ou-classic-accordion.php:52
+#: elements/ou-classic-accordion/ou-classic-accordion.php:67
+#: elements/ou-classic-accordion/ou-classic-accordion.php:240
+#: elements/ou-classic-accordion/ou-classic-accordion.php:254
+#: elements/ou-classic-accordion/ou-classic-accordion.php:319
+#: elements/ou-classic-accordion/ou-classic-accordion.php:339
+#: elements/ou-comment-form/ou-comment-form.php:195
+#: elements/ou-comment-form/ou-comment-form.php:207
+#: elements/ou-comment-form/ou-comment-form.php:245
+#: elements/ou-content-slider/ou-content-slider.php:110
+#: elements/ou-content-slider/ou-content-slider.php:121
+#: elements/ou-content-slider/ou-content-slider.php:133
+#: elements/ou-content-slider/ou-content-slider.php:379
+#: elements/ou-content-slider/ou-content-slider.php:402
+#: elements/ou-content-slider/ou-content-slider.php:412
+#: elements/ou-content-slider/ou-content-slider.php:432
+#: elements/ou-content-slider/ou-content-slider.php:444
+#: elements/ou-content-slider/ou-content-slider.php:457
+#: elements/ou-content-slider/ou-content-slider.php:687
+#: elements/ou-countdown/ou-countdown.php:165
+#: elements/ou-countdown/ou-countdown.php:214
+#: elements/ou-countdown/ou-countdown.php:247
+#: elements/ou-countdown/ou-countdown.php:280
+#: elements/ou-countdown/ou-countdown.php:313
+#: elements/ou-countdown/ou-countdown.php:346
+#: elements/ou-countdown/ou-countdown.php:379
+#: elements/ou-countdown/ou-countdown.php:523
+#: elements/ou-countdown/ou-countdown.php:605
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:122
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:137
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:290
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:303
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:366
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:386
+#: elements/ou-ff-styler/ou-ff-styler.php:254
+#: elements/ou-ff-styler/ou-ff-styler.php:1335
+#: elements/ou-fforms-styler/ou-fforms-styler.php:48
+#: elements/ou-fforms-styler/ou-fforms-styler.php:60
+#: elements/ou-fforms-styler/ou-fforms-styler.php:72
+#: elements/ou-gallery-slider/ou-gallery-slider.php:185
+#: elements/ou-gallery-slider/ou-gallery-slider.php:260
+#: elements/ou-gallery-slider/ou-gallery-slider.php:272
+#: elements/ou-gallery-slider/ou-gallery-slider.php:286
+#: elements/ou-gallery-slider/ou-gallery-slider.php:552
+#: elements/ou-gallery-slider/ou-gallery-slider.php:577
+#: elements/ou-gallery-slider/ou-gallery-slider.php:587
+#: elements/ou-gallery-slider/ou-gallery-slider.php:602
+#: elements/ou-gallery-slider/ou-gallery-slider.php:615
+#: elements/ou-gallery-slider/ou-gallery-slider.php:629
+#: elements/ou-gallery-slider/ou-gallery-slider.php:865
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1071
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1268
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1282
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1298
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1473
+#: elements/ou-gallery/ou-gallery.php:215
+#: elements/ou-gallery/ou-gallery.php:225
+#: elements/ou-gallery/ou-gallery.php:245
+#: elements/ou-gf-styler/ou-gf-styler.php:49
+#: elements/ou-gf-styler/ou-gf-styler.php:62
+#: elements/ou-gf-styler/ou-gf-styler.php:75
+#: elements/ou-gf-styler/ou-gf-styler.php:301
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:103
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:116
+#: elements/ou-hotspot/marker.php:316
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:121
+#: elements/ou-icon-list/ou-icon-list-item.php:106
+#: elements/ou-image-panels/ou-image-panels.php:85
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:63
+#: elements/ou-tooltip/ou-tooltip.php:88
+#: elements/ou-ultimate-video/ou-ultimate-video.php:107
+#: elements/ou-ultimate-video/ou-ultimate-video.php:119
+#: elements/ou-ultimate-video/ou-ultimate-video.php:131
+#: elements/ou-ultimate-video/ou-ultimate-video.php:171
+#: elements/ou-ultimate-video/ou-ultimate-video.php:185
+#: elements/ou-ultimate-video/ou-ultimate-video.php:291
+#: elements/ou-ultimate-video/ou-ultimate-video.php:331
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:47
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:59
+msgid "Yes"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:121
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:137
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:226
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:236
+#: elements/ou-before-after-image/ou-before-after-image.php:86
+#: elements/ou-before-after-image/ou-before-after-image.php:113
+#: elements/ou-classic-accordion/ou-classic-accordion.php:53
+#: elements/ou-classic-accordion/ou-classic-accordion.php:66
+#: elements/ou-classic-accordion/ou-classic-accordion.php:240
+#: elements/ou-classic-accordion/ou-classic-accordion.php:254
+#: elements/ou-classic-accordion/ou-classic-accordion.php:319
+#: elements/ou-classic-accordion/ou-classic-accordion.php:339
+#: elements/ou-comment-form/ou-comment-form.php:195
+#: elements/ou-comment-form/ou-comment-form.php:207
+#: elements/ou-comment-form/ou-comment-form.php:245
+#: elements/ou-content-slider/ou-content-slider.php:111
+#: elements/ou-content-slider/ou-content-slider.php:122
+#: elements/ou-content-slider/ou-content-slider.php:134
+#: elements/ou-content-slider/ou-content-slider.php:380
+#: elements/ou-content-slider/ou-content-slider.php:401
+#: elements/ou-content-slider/ou-content-slider.php:413
+#: elements/ou-content-slider/ou-content-slider.php:433
+#: elements/ou-content-slider/ou-content-slider.php:443
+#: elements/ou-content-slider/ou-content-slider.php:456
+#: elements/ou-content-slider/ou-content-slider.php:686
+#: elements/ou-countdown/ou-countdown.php:165
+#: elements/ou-countdown/ou-countdown.php:214
+#: elements/ou-countdown/ou-countdown.php:247
+#: elements/ou-countdown/ou-countdown.php:280
+#: elements/ou-countdown/ou-countdown.php:313
+#: elements/ou-countdown/ou-countdown.php:346
+#: elements/ou-countdown/ou-countdown.php:379
+#: elements/ou-countdown/ou-countdown.php:523
+#: elements/ou-countdown/ou-countdown.php:605
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:123
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:136
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:290
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:303
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:366
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:386
+#: elements/ou-ff-styler/ou-ff-styler.php:254
+#: elements/ou-ff-styler/ou-ff-styler.php:1335
+#: elements/ou-fforms-styler/ou-fforms-styler.php:48
+#: elements/ou-fforms-styler/ou-fforms-styler.php:60
+#: elements/ou-fforms-styler/ou-fforms-styler.php:72
+#: elements/ou-gallery-slider/ou-gallery-slider.php:185
+#: elements/ou-gallery-slider/ou-gallery-slider.php:261
+#: elements/ou-gallery-slider/ou-gallery-slider.php:273
+#: elements/ou-gallery-slider/ou-gallery-slider.php:285
+#: elements/ou-gallery-slider/ou-gallery-slider.php:553
+#: elements/ou-gallery-slider/ou-gallery-slider.php:576
+#: elements/ou-gallery-slider/ou-gallery-slider.php:588
+#: elements/ou-gallery-slider/ou-gallery-slider.php:603
+#: elements/ou-gallery-slider/ou-gallery-slider.php:614
+#: elements/ou-gallery-slider/ou-gallery-slider.php:628
+#: elements/ou-gallery-slider/ou-gallery-slider.php:864
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1070
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1267
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1281
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1299
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1472
+#: elements/ou-gallery/ou-gallery.php:215
+#: elements/ou-gallery/ou-gallery.php:225
+#: elements/ou-gallery/ou-gallery.php:245
+#: elements/ou-gf-styler/ou-gf-styler.php:49
+#: elements/ou-gf-styler/ou-gf-styler.php:62
+#: elements/ou-gf-styler/ou-gf-styler.php:75
+#: elements/ou-gf-styler/ou-gf-styler.php:301
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:104
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:116
+#: elements/ou-hotspot/marker.php:315
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:121
+#: elements/ou-icon-list/ou-icon-list-item.php:106
+#: elements/ou-image-panels/ou-image-panels.php:85
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:62
+#: elements/ou-tooltip/ou-tooltip.php:87
+#: elements/ou-ultimate-video/ou-ultimate-video.php:108
+#: elements/ou-ultimate-video/ou-ultimate-video.php:120
+#: elements/ou-ultimate-video/ou-ultimate-video.php:132
+#: elements/ou-ultimate-video/ou-ultimate-video.php:172
+#: elements/ou-ultimate-video/ou-ultimate-video.php:186
+#: elements/ou-ultimate-video/ou-ultimate-video.php:292
+#: elements/ou-ultimate-video/ou-ultimate-video.php:332
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:47
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:59
+msgid "No"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:128
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1464
+#: elements/ou-image-panels/ou-panel-item.php:101
+#: elements/ou-ultimate-image/ou-ultimate-image.php:50
+msgid "Lightbox"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:133
+#: elements/ou-ultimate-video/ou-ultimate-video.php:328
+msgid "Enable Lightbox"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:146
+#: elements/ou-classic-accordion/ou-classic-accordion.php:259
+#: elements/ou-content-slider/ou-content-slider.php:93
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:308
+#: elements/ou-gallery-slider/ou-gallery-slider.php:242
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1481
+#: elements/ou-image-panels/ou-panel-item.php:130
+msgid "Animation Effect"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:150
+#: elements/ou-classic-accordion/ou-classic-accordion.php:265
+#: elements/ou-content-slider/ou-content-slider.php:647
+#: elements/ou-countdown/ou-countdown.php:451
+#: elements/ou-countdown/ou-countdown.php:467
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:314
+#: elements/ou-ff-styler/ou-ff-styler.php:1047
+#: elements/ou-gallery-slider/ou-gallery-slider.php:822
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1485
+#: elements/ou-image-panels/ou-panel-item.php:98
+#: elements/ou-image-panels/ou-panel-item.php:134
+#: elements/ou-ultimate-image/ou-ultimate-image.php:48
+#: elements/ou-ultimate-image/ou-ultimate-image.php:100
+#: elements/ou-ultimate-image/ou-ultimate-image.php:111
+msgid "None"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:151
+#: elements/ou-animated-heading/ou-animated-heading.php:132
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1486
+#: elements/ou-image-panels/ou-panel-item.php:135
+#: elements/ou-ultimate-image/ou-ultimate-image.php:112
+msgid "Zoom"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:152
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1487
+#: elements/ou-image-panels/ou-panel-item.php:136
+#: elements/ou-ultimate-image/ou-ultimate-image.php:113
+msgid "Newspaper"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:153
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1488
+#: elements/ou-image-panels/ou-panel-item.php:137
+#: elements/ou-ultimate-image/ou-ultimate-image.php:114
+msgid "Move Horizontal"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:154
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1489
+#: elements/ou-image-panels/ou-panel-item.php:138
+#: elements/ou-ultimate-image/ou-ultimate-image.php:115
+msgid "Move from Top"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:155
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1490
+#: elements/ou-image-panels/ou-panel-item.php:139
+#: elements/ou-ultimate-image/ou-ultimate-image.php:116
+msgid "3d Unfold"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:156
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1491
+#: elements/ou-image-panels/ou-panel-item.php:140
+#: elements/ou-ultimate-image/ou-ultimate-image.php:117
+msgid "Zoom Out"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:165
+#: elements/ou-comment-form/ou-comment-form.php:372
+#: elements/ou-dual-button/ou-dual-button.php:70
+#: elements/ou-dual-button/ou-dual-button.php:179
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:76
+#: elements/ou-image-panels/ou-image-panels.php:94
+msgid "Hover Animation"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:185
+#: elements/ou-gallery-slider/ou-gallery-slider.php:521
+msgid "Transform Scale"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:189
+#: elements/ou-image-panels/ou-image-panels.php:118
+msgid "Scale X"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:198
+#: elements/ou-image-panels/ou-image-panels.php:127
+msgid "Scale Y"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:207
+#: elements/ou-image-panels/ou-image-panels.php:136
+msgid "Scale Z"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:214
+msgid "Image Box Shadow"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:219
+#: elements/ou-image-panels/ou-panel-item.php:150
+msgid "Caption Settings"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:223
+#: elements/ou-image-panels/ou-panel-item.php:154
+msgid "Caption Appearance"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:226
+#: elements/ou-countdown/ou-countdown.php:59
+#: elements/ou-gallery-slider/ou-gallery-slider.php:218
+#: elements/ou-image-panels/ou-panel-item.php:157
+#: elements/ou-ultimate-video/ou-ultimate-video.php:343
+msgid "Default"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:226
+#: elements/ou-content-slider/ou-content-slider.php:439
+#: elements/ou-gallery-slider/ou-gallery-slider.php:610
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:143
+#: elements/ou-image-panels/ou-panel-item.php:157
+#: elements/ou-show-more-less/ou-show-more-less.php:628
+msgid "Show on Hover"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:226
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:144
+#: elements/ou-image-panels/ou-panel-item.php:157
+#: elements/ou-show-more-less/ou-show-more-less.php:629
+msgid "Hide on Hover"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:233
+msgid "Display Description"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:252
+#: elements/ou-image-panels/ou-panel-item.php:179
+msgid "Vertical Alignment"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:268
+#: elements/ou-classic-accordion/ou-classic-accordion.php:111
+#: elements/ou-classic-accordion/ou-classic-accordion.php:206
+#: elements/ou-classic-accordion/ou-classic-accordion.php:463
+#: elements/ou-comment-form/ou-comment-form.php:105
+#: elements/ou-comment-form/ou-comment-form.php:133
+#: elements/ou-comment-form/ou-comment-form.php:165
+#: elements/ou-comment-form/ou-comment-form.php:289
+#: elements/ou-countdown/ou-countdown.php:647
+#: elements/ou-countdown/ou-countdown.php:691
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:169
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:257
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:505
+#: elements/ou-ff-styler/ou-ff-styler.php:59
+#: elements/ou-ff-styler/ou-ff-styler.php:368
+#: elements/ou-ff-styler/ou-ff-styler.php:389
+#: elements/ou-ff-styler/ou-ff-styler.php:783
+#: elements/ou-ff-styler/ou-ff-styler.php:1349
+#: elements/ou-fforms-styler/ou-fforms-styler.php:92
+#: elements/ou-fforms-styler/ou-fforms-styler.php:112
+#: elements/ou-fforms-styler/ou-fforms-styler.php:129
+#: elements/ou-fforms-styler/ou-fforms-styler.php:176
+#: elements/ou-fforms-styler/ou-fforms-styler.php:448
+#: elements/ou-fforms-styler/ou-fforms-styler.php:483
+#: elements/ou-fforms-styler/ou-fforms-styler.php:647
+#: elements/ou-fforms-styler/ou-fforms-styler.php:716
+#: elements/ou-gf-styler/ou-gf-styler.php:122
+#: elements/ou-gf-styler/ou-gf-styler.php:195
+#: elements/ou-hotspot/marker.php:367
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:161
+#: elements/ou-icon-list/ou-icon-list-item.php:163
+#: elements/ou-icon-list/ou-icon-list.php:100
+#: elements/ou-icon-list/ou-icon-list.php:160
+#: elements/ou-image-panels/ou-panel-item.php:189
+#: elements/ou-tooltip/ou-tooltip.php:156
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:165
+msgid "Spacing"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:273 elements/ou-cf7/ou-cf7.php:49
+#: elements/ou-cf7/ou-cf7.php:90 elements/ou-cf7/ou-cf7.php:155
+#: elements/ou-cf7/ou-cf7.php:204
+#: elements/ou-classic-accordion/ou-classic-accordion.php:115
+#: elements/ou-classic-accordion/ou-classic-accordion.php:468
+#: elements/ou-comment-form/ou-comment-form.php:109
+#: elements/ou-comment-form/ou-comment-form.php:137
+#: elements/ou-comment-form/ou-comment-form.php:169
+#: elements/ou-comment-form/ou-comment-form.php:293
+#: elements/ou-comment-form/ou-comment-form.php:418
+#: elements/ou-content-slider/ou-content-slider.php:494
+#: elements/ou-countdown/ou-countdown.php:410
+#: elements/ou-countdown/ou-countdown.php:667
+#: elements/ou-countdown/ou-countdown.php:696
+#: elements/ou-dual-button/ou-dual-button.php:329
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:173
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:510
+#: elements/ou-ff-styler/ou-ff-styler.php:63
+#: elements/ou-ff-styler/ou-ff-styler.php:174
+#: elements/ou-ff-styler/ou-ff-styler.php:596
+#: elements/ou-ff-styler/ou-ff-styler.php:726
+#: elements/ou-ff-styler/ou-ff-styler.php:787
+#: elements/ou-ff-styler/ou-ff-styler.php:1353
+#: elements/ou-ff-styler/ou-ff-styler.php:1398
+#: elements/ou-ff-styler/ou-ff-styler.php:1452
+#: elements/ou-ff-styler/ou-ff-styler.php:1561
+#: elements/ou-fforms-styler/ou-fforms-styler.php:97
+#: elements/ou-fforms-styler/ou-fforms-styler.php:117
+#: elements/ou-fforms-styler/ou-fforms-styler.php:134
+#: elements/ou-fforms-styler/ou-fforms-styler.php:230
+#: elements/ou-fforms-styler/ou-fforms-styler.php:453
+#: elements/ou-fforms-styler/ou-fforms-styler.php:487
+#: elements/ou-fforms-styler/ou-fforms-styler.php:552
+#: elements/ou-fforms-styler/ou-fforms-styler.php:621
+#: elements/ou-fforms-styler/ou-fforms-styler.php:652
+#: elements/ou-fforms-styler/ou-fforms-styler.php:721
+#: elements/ou-gallery-slider/ou-gallery-slider.php:669
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1388
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1454
+#: elements/ou-gallery/ou-gallery.php:254
+#: elements/ou-gf-styler/ou-gf-styler.php:126
+#: elements/ou-gf-styler/ou-gf-styler.php:144
+#: elements/ou-gf-styler/ou-gf-styler.php:199
+#: elements/ou-gf-styler/ou-gf-styler.php:411
+#: elements/ou-gf-styler/ou-gf-styler.php:448
+#: elements/ou-gf-styler/ou-gf-styler.php:519
+#: elements/ou-gf-styler/ou-gf-styler.php:620
+#: elements/ou-hotspot/marker.php:210 elements/ou-hotspot/marker.php:371
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:166
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:217
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:263
+#: elements/ou-icon-list/ou-icon-list-item.php:167
+#: elements/ou-icon-list/ou-icon-list-item.php:207
+#: elements/ou-icon-list/ou-icon-list.php:104
+#: elements/ou-icon-list/ou-icon-list.php:164
+#: elements/ou-icon-list/ou-icon-list.php:202
+#: elements/ou-image-panels/ou-panel-item.php:194
+#: elements/ou-show-more-less/ou-show-more-less.php:195
+#: elements/ou-show-more-less/ou-show-more-less.php:389
+#: elements/ou-show-more-less/ou-show-more-less.php:556
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:214
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:218
+#: elements/ou-tooltip/ou-tooltip.php:160
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:100
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:145
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:169
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:307
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:332
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:399
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:464
+msgid "Padding"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:277
+msgid "Title Typography"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:278
+msgid "Description Typography"
+msgstr ""
+
+#: elements/ou-acf-imgacrd/ou-acf-imgacrd.php:287
+msgid "Enter ACF Gallery Field Key."
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:10
+#: includes/admin.php:252
+msgid "Animated Heading"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:28
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:46
+#: elements/ou-image-panels/ou-image-panels.php:43
+msgid "Preview"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:31
+#: elements/ou-content-slider/ou-content-slider.php:662
+#: elements/ou-gallery-slider/ou-gallery-slider.php:838
+msgid "Enable"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:31
+#: elements/ou-content-slider/ou-content-slider.php:661
+#: elements/ou-gallery-slider/ou-gallery-slider.php:837
+msgid "Disable"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:39
+msgid "Heading Tag"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:42
+#: elements/ou-comment-form/ou-comment-form.php:32
+#: elements/ou-countdown/ou-countdown.php:177
+#: elements/ou-countdown/ou-countdown.php:625
+#: elements/ou-icon-list/ou-icon-list-item.php:61
+msgid "H1"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:43
+#: elements/ou-comment-form/ou-comment-form.php:32
+#: elements/ou-countdown/ou-countdown.php:178
+#: elements/ou-countdown/ou-countdown.php:626
+#: elements/ou-icon-list/ou-icon-list-item.php:62
+msgid "H2"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:44
+#: elements/ou-comment-form/ou-comment-form.php:32
+#: elements/ou-countdown/ou-countdown.php:179
+#: elements/ou-countdown/ou-countdown.php:627
+#: elements/ou-icon-list/ou-icon-list-item.php:63
+msgid "H3"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:45
+#: elements/ou-comment-form/ou-comment-form.php:32
+#: elements/ou-countdown/ou-countdown.php:180
+#: elements/ou-countdown/ou-countdown.php:628
+#: elements/ou-icon-list/ou-icon-list-item.php:64
+msgid "H4"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:46
+#: elements/ou-comment-form/ou-comment-form.php:32
+#: elements/ou-countdown/ou-countdown.php:181
+#: elements/ou-countdown/ou-countdown.php:629
+#: elements/ou-icon-list/ou-icon-list-item.php:65
+msgid "H5"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:47
+#: elements/ou-comment-form/ou-comment-form.php:32
+#: elements/ou-countdown/ou-countdown.php:182
+#: elements/ou-countdown/ou-countdown.php:630
+#: elements/ou-icon-list/ou-icon-list-item.php:66
+msgid "H6"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:58
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:43
+msgid "Before Text"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:64
+msgid "This text will be placed before the animated text."
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:70
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:215
+msgid "Animated Text"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:72
+msgid "Animated|Rotating"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:77
+msgid "Use pipeline('|') separator to add the multiple text."
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:83
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:65
+msgid "After Text"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:89
+msgid "This text will be placed after the animated text."
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:93
+#: elements/ou-icon-list/ou-icon-list-item.php:86
+msgid "Link"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:103
+msgid "Animated Text Link URL"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:107
+#: elements/ou-countdown/ou-countdown.php:501
+#: elements/ou-dual-button/ou-dual-button.php:59
+#: elements/ou-dual-button/ou-dual-button.php:168
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:56
+#: elements/ou-icon-list/ou-icon-list-item.php:92
+#: elements/ou-image-panels/ou-panel-item.php:120
+#: elements/ou-ultimate-image/ou-ultimate-image.php:86
+msgid "Target"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:110
+#: elements/ou-countdown/ou-countdown.php:504
+#: elements/ou-dual-button/ou-dual-button.php:62
+#: elements/ou-dual-button/ou-dual-button.php:171
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:59
+#: elements/ou-icon-list/ou-icon-list-item.php:95
+#: elements/ou-image-panels/ou-panel-item.php:123
+#: elements/ou-ultimate-image/ou-ultimate-image.php:89
+msgid "Same Window"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:110
+#: elements/ou-countdown/ou-countdown.php:504
+#: elements/ou-dual-button/ou-dual-button.php:62
+#: elements/ou-dual-button/ou-dual-button.php:171
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:59
+#: elements/ou-icon-list/ou-icon-list-item.php:95
+#: elements/ou-image-panels/ou-panel-item.php:123
+#: elements/ou-ultimate-image/ou-ultimate-image.php:89
+msgid "New Window"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:116
+#: elements/ou-hotspot/marker.php:390 elements/ou-hotspot/marker.php:393
+#: elements/ou-tooltip/ou-tooltip.php:101
+#: elements/ou-tooltip/ou-tooltip.php:104
+msgid "Animation"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:120
+#: elements/ou-countdown/ou-countdown.php:532
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:77
+#: elements/ou-show-more-less/ou-show-more-less.php:609
+msgid "Type"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:123
+msgid "Clip"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:124
+msgid "Loading Bar"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:125
+msgid "Push"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:126
+msgid "Rotate 1"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:127
+msgid "Rotate 2"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:128
+msgid "Rotate 3"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:129
+#: elements/ou-image-panels/ou-image-panels.php:114
+msgid "Scale"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:130
+#: elements/ou-content-slider/ou-content-slider.php:97
+#: elements/ou-gallery-slider/ou-gallery-slider.php:246
+msgid "Slide"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:131
+msgid "Typing"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:144
+msgid "Vertical Line Color"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:150
+msgid "Vertical Line Width"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:160
+msgid "Vertical Line Color(Blinking Line)"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:166
+msgid "Vertical Bar Width(Blinking Line)"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:177
+msgid "Loading Bar Color"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:186
+msgid "Loading Bar Width"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:195
+msgid "Delay"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:205
+msgid "Delay for Loading Bar Type"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:211
+msgid "This is for loading bar animaition."
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:216
+msgid "Delay for Letters Type"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:222
+msgid "This is for 'type', 'rotate-2', 'rotate-3', 'scale' animaition."
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:227
+msgid "Delay for Typing Animation"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:233
+#: elements/ou-animated-heading/ou-animated-heading.php:244
+msgid "This is for typing animaition."
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:238
+msgid "Selection Duration"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:249
+msgid "Clip Duration"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:255
+#: elements/ou-animated-heading/ou-animated-heading.php:266
+msgid "This is for clip animaition."
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:260
+msgid "Clip Delay"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:268
+msgid "Fonts for Headline"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:269
+msgid "Fonts for Animated Text"
+msgstr ""
+
+#: elements/ou-animated-heading/ou-animated-heading.php:270
+#: elements/ou-content-slider/ou-content-slider.php:525
+#: elements/ou-ff-styler/ou-ff-styler.php:116
+#: elements/ou-ff-styler/ou-ff-styler.php:695
+#: elements/ou-fforms-styler/ou-fforms-styler.php:321
+#: elements/ou-gallery-slider/ou-gallery-slider.php:700
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:202
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:208
+#: elements/ou-ultimate-video/ou-ultimate-video.php:382
+#: elements/ou-ultimate-video/ou-ultimate-video.php:435
+msgid "Hover Color"
+msgstr ""
+
+#: elements/ou-before-after-image/ou-before-after-image.php:11
+#: includes/admin.php:244
+msgid "Before After Image"
+msgstr ""
+
+#: elements/ou-before-after-image/ou-before-after-image.php:28
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 14px;\">Click on <span style=\"color:#ff7171;\">Apply "
+"Params</span> button at below and see the changes on builder editor.</div>"
+msgstr ""
+
+#: elements/ou-before-after-image/ou-before-after-image.php:42
+msgid "Before Image"
+msgstr ""
+
+#: elements/ou-before-after-image/ou-before-after-image.php:48
+msgid "Before Label"
+msgstr ""
+
+#: elements/ou-before-after-image/ou-before-after-image.php:66
+msgid "After Image"
+msgstr ""
+
+#: elements/ou-before-after-image/ou-before-after-image.php:72
+msgid "After Label"
+msgstr ""
+
+#: elements/ou-before-after-image/ou-before-after-image.php:83
+msgid "Always Show Label On Mobile"
+msgstr ""
+
+#: elements/ou-before-after-image/ou-before-after-image.php:96
+msgid "Orientation"
+msgstr ""
+
+#: elements/ou-before-after-image/ou-before-after-image.php:99
+msgid "Horizontal"
+msgstr ""
+
+#: elements/ou-before-after-image/ou-before-after-image.php:100
+msgid "Vertical"
+msgstr ""
+
+#: elements/ou-before-after-image/ou-before-after-image.php:109
+msgid "Move on Hover"
+msgstr ""
+
+#: elements/ou-before-after-image/ou-before-after-image.php:119
+msgid "Comparison Handle"
+msgstr ""
+
+#: elements/ou-before-after-image/ou-before-after-image.php:124
+msgid "Initial Offset"
+msgstr ""
+
+#: elements/ou-before-after-image/ou-before-after-image.php:132
+msgid "Triangle Width"
+msgstr ""
+
+#: elements/ou-before-after-image/ou-before-after-image.php:139
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:80
+msgid "Circle"
+msgstr ""
+
+#: elements/ou-before-after-image/ou-before-after-image.php:143
+#: elements/ou-cf7/ou-cf7.php:97 elements/ou-cf7/ou-cf7.php:162
+#: elements/ou-comment-form/ou-comment-form.php:319
+#: elements/ou-countdown/ou-countdown.php:422
+#: elements/ou-countdown/ou-countdown.php:649
+#: elements/ou-countdown/ou-countdown.php:708
+#: elements/ou-dual-button/ou-dual-button.php:278
+#: elements/ou-dual-button/ou-dual-button.php:335
+#: elements/ou-ff-styler/ou-ff-styler.php:299
+#: elements/ou-ff-styler/ou-ff-styler.php:748
+#: elements/ou-ff-styler/ou-ff-styler.php:1151
+#: elements/ou-ff-styler/ou-ff-styler.php:1210
+#: elements/ou-ff-styler/ou-ff-styler.php:1343
+#: elements/ou-ff-styler/ou-ff-styler.php:1404
+#: elements/ou-ff-styler/ou-ff-styler.php:1458
+#: elements/ou-ff-styler/ou-ff-styler.php:1490
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1088
+#: elements/ou-gf-styler/ou-gf-styler.php:325
+#: elements/ou-gf-styler/ou-gf-styler.php:468
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:162
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:179
+#: elements/ou-hotspot/marker.php:81
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:251
+#: elements/ou-show-more-less/ou-show-more-less.php:648
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:169
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:356
+msgid "Width"
+msgstr ""
+
+#: elements/ou-before-after-image/ou-before-after-image.php:153
+#: elements/ou-classic-accordion/ou-classic-accordion.php:356
+#: elements/ou-content-slider/ou-content-slider.php:532
+#: elements/ou-content-slider/ou-content-slider.php:670
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:403
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:406
+#: elements/ou-ff-styler/ou-ff-styler.php:1203
+#: elements/ou-gallery-slider/ou-gallery-slider.php:707
+#: elements/ou-gallery-slider/ou-gallery-slider.php:847
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1023
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:193
+#: elements/ou-hotspot/marker.php:137
+#: elements/ou-show-more-less/ou-show-more-less.php:265
+#: elements/ou-show-more-less/ou-show-more-less.php:466
+#: elements/ou-show-more-less/ou-show-more-less.php:662
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:78
+msgid "Position"
+msgstr ""
+
+#: elements/ou-before-after-image/ou-before-after-image.php:163
+msgid "Thickness"
+msgstr ""
+
+#: elements/ou-before-after-image/ou-before-after-image.php:173
+msgid "Radius"
+msgstr ""
+
+#: elements/ou-before-after-image/ou-before-after-image.php:180
+#: elements/ou-before-after-image/ou-before-after-image.php:186
+#: elements/ou-fancy-heading/ou-fancy-heading.php:51
+#: elements/ou-ff-styler/ou-ff-styler.php:194
+#: elements/ou-ff-styler/ou-ff-styler.php:415
+#: elements/ou-ff-styler/ou-ff-styler.php:690
+#: elements/ou-ff-styler/ou-ff-styler.php:1217
+#: elements/ou-ff-styler/ou-ff-styler.php:1239
+#: elements/ou-ff-styler/ou-ff-styler.php:1280
+#: elements/ou-ff-styler/ou-ff-styler.php:1357
+#: elements/ou-ff-styler/ou-ff-styler.php:1410
+#: elements/ou-ff-styler/ou-ff-styler.php:1464
+#: elements/ou-gf-styler/ou-gf-styler.php:227
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:155
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:171
+#: elements/ou-show-more-less/ou-show-more-less.php:216
+#: elements/ou-show-more-less/ou-show-more-less.php:410
+#: elements/ou-show-more-less/ou-show-more-less.php:640
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:192
+#: elements/ou-ultimate-video/ou-ultimate-video.php:376
+#: elements/ou-ultimate-video/ou-ultimate-video.php:430
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:184
+msgid "Color"
+msgstr ""
+
+#: elements/ou-before-after-image/ou-before-after-image.php:193
+#: elements/ou-cf7/ou-cf7.php:63 elements/ou-cf7/ou-cf7.php:102
+#: elements/ou-cf7/ou-cf7.php:177
+#: elements/ou-classic-accordion/ou-classic-accordion.php:132
+#: elements/ou-classic-accordion/ou-classic-accordion.php:151
+#: elements/ou-dual-button/ou-dual-button.php:108
+#: elements/ou-dual-button/ou-dual-button.php:219
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:190
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:209
+#: elements/ou-ff-styler/ou-ff-styler.php:52
+#: elements/ou-ff-styler/ou-ff-styler.php:198
+#: elements/ou-ff-styler/ou-ff-styler.php:644
+#: elements/ou-ff-styler/ou-ff-styler.php:1167
+#: elements/ou-ff-styler/ou-ff-styler.php:1424
+#: elements/ou-ff-styler/ou-ff-styler.php:1478
+#: elements/ou-fforms-styler/ou-fforms-styler.php:245
+#: elements/ou-gallery/ou-gallery.php:262
+#: elements/ou-gf-styler/ou-gf-styler.php:236
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:224
+#: elements/ou-ultimate-video/ou-ultimate-video.php:418
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:75
+msgid "Background Color"
+msgstr ""
+
+#: elements/ou-before-after-image/ou-before-after-image.php:199
+msgid "Triangle Color"
+msgstr ""
+
+#: elements/ou-before-after-image/ou-before-after-image.php:211
+msgid "Bar Color"
+msgstr ""
+
+#: elements/ou-cf7/ou-cf7.php:11 includes/admin.php:224
+msgid "Contact Form 7 Styler"
+msgstr ""
+
+#: elements/ou-cf7/ou-cf7.php:33
+msgid "Contact Form 7"
+msgstr ""
+
+#: elements/ou-cf7/ou-cf7.php:43
+#: elements/ou-comment-form/ou-comment-form.php:80
+#: elements/ou-ff-styler/ou-ff-styler.php:47
+#: elements/ou-fforms-styler/ou-fforms-styler.php:82
+#: elements/ou-gf-styler/ou-gf-styler.php:96
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:69
+msgid "Form Wrapper"
+msgstr ""
+
+#: elements/ou-cf7/ou-cf7.php:56
+#: elements/ou-classic-accordion/ou-classic-accordion.php:122
+#: elements/ou-classic-accordion/ou-classic-accordion.php:210
+#: elements/ou-classic-accordion/ou-classic-accordion.php:475
+#: elements/ou-comment-form/ou-comment-form.php:116
+#: elements/ou-comment-form/ou-comment-form.php:144
+#: elements/ou-comment-form/ou-comment-form.php:176
+#: elements/ou-countdown/ou-countdown.php:417
+#: elements/ou-countdown/ou-countdown.php:674
+#: elements/ou-countdown/ou-countdown.php:703
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:180
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:261
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:517
+#: elements/ou-ff-styler/ou-ff-styler.php:70
+#: elements/ou-ff-styler/ou-ff-styler.php:794
+#: elements/ou-ff-styler/ou-ff-styler.php:1320
+#: elements/ou-fforms-styler/ou-fforms-styler.php:104
+#: elements/ou-fforms-styler/ou-fforms-styler.php:124
+#: elements/ou-fforms-styler/ou-fforms-styler.php:141
+#: elements/ou-fforms-styler/ou-fforms-styler.php:460
+#: elements/ou-fforms-styler/ou-fforms-styler.php:493
+#: elements/ou-fforms-styler/ou-fforms-styler.php:659
+#: elements/ou-fforms-styler/ou-fforms-styler.php:728
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1395
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1405
+#: elements/ou-gf-styler/ou-gf-styler.php:133
+#: elements/ou-gf-styler/ou-gf-styler.php:455
+#: elements/ou-hotspot/marker.php:249
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:173
+#: elements/ou-icon-list/ou-icon-list-item.php:174
+#: elements/ou-icon-list/ou-icon-list-item.php:214
+#: elements/ou-icon-list/ou-icon-list.php:111
+#: elements/ou-icon-list/ou-icon-list.php:171
+#: elements/ou-icon-list/ou-icon-list.php:209
+#: elements/ou-show-more-less/ou-show-more-less.php:202
+#: elements/ou-show-more-less/ou-show-more-less.php:396
+#: elements/ou-show-more-less/ou-show-more-less.php:563
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:107
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:339
+msgid "Margin"
+msgstr ""
+
+#: elements/ou-cf7/ou-cf7.php:71 elements/ou-cf7/ou-cf7.php:128
+#: elements/ou-cf7/ou-cf7.php:192 elements/ou-cf7/ou-cf7.php:249
+#: elements/ou-comment-form/ou-comment-form.php:90
+#: elements/ou-comment-form/ou-comment-form.php:94
+#: elements/ou-comment-form/ou-comment-form.php:148
+#: elements/ou-comment-form/ou-comment-form.php:180
+#: elements/ou-comment-form/ou-comment-form.php:298
+#: elements/ou-comment-form/ou-comment-form.php:423
+#: elements/ou-content-slider/ou-content-slider.php:630
+#: elements/ou-dual-button/ou-dual-button.php:132
+#: elements/ou-dual-button/ou-dual-button.php:245
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:184
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:485
+#: elements/ou-ff-styler/ou-ff-styler.php:74
+#: elements/ou-ff-styler/ou-ff-styler.php:78
+#: elements/ou-ff-styler/ou-ff-styler.php:221
+#: elements/ou-ff-styler/ou-ff-styler.php:225
+#: elements/ou-ff-styler/ou-ff-styler.php:665
+#: elements/ou-ff-styler/ou-ff-styler.php:1384
+#: elements/ou-ff-styler/ou-ff-styler.php:1439
+#: elements/ou-ff-styler/ou-ff-styler.php:1498
+#: elements/ou-ff-styler/ou-ff-styler.php:1555
+#: elements/ou-fforms-styler/ou-fforms-styler.php:108
+#: elements/ou-fforms-styler/ou-fforms-styler.php:285
+#: elements/ou-fforms-styler/ou-fforms-styler.php:290
+#: elements/ou-fforms-styler/ou-fforms-styler.php:499
+#: elements/ou-fforms-styler/ou-fforms-styler.php:557
+#: elements/ou-fforms-styler/ou-fforms-styler.php:626
+#: elements/ou-fforms-styler/ou-fforms-styler.php:664
+#: elements/ou-fforms-styler/ou-fforms-styler.php:733
+#: elements/ou-gallery-slider/ou-gallery-slider.php:805
+#: elements/ou-gf-styler/ou-gf-styler.php:106
+#: elements/ou-gf-styler/ou-gf-styler.php:111
+#: elements/ou-gf-styler/ou-gf-styler.php:263
+#: elements/ou-gf-styler/ou-gf-styler.php:267
+#: elements/ou-gf-styler/ou-gf-styler.php:407
+#: elements/ou-gf-styler/ou-gf-styler.php:524
+#: elements/ou-gf-styler/ou-gf-styler.php:614
+#: elements/ou-hotspot/marker.php:287 elements/ou-hotspot/marker.php:375
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:177
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:246
+#: elements/ou-icon-list/ou-icon-list-item.php:151
+#: elements/ou-icon-list/ou-icon-list-item.php:270
+#: elements/ou-icon-list/ou-icon-list.php:150
+#: elements/ou-icon-list/ou-icon-list.php:265
+#: elements/ou-show-more-less/ou-show-more-less.php:240
+#: elements/ou-show-more-less/ou-show-more-less.php:364
+#: elements/ou-show-more-less/ou-show-more-less.php:434
+#: elements/ou-show-more-less/ou-show-more-less.php:589
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:222
+#: elements/ou-tooltip/ou-tooltip.php:165
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:86
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:222
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:303
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:345
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:404
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:458
+msgid "Border"
+msgstr ""
+
+#: elements/ou-cf7/ou-cf7.php:78 elements/ou-ff-styler/ou-ff-styler.php:92
+msgid "Form Label"
+msgstr ""
+
+#: elements/ou-cf7/ou-cf7.php:84 elements/ou-ff-styler/ou-ff-styler.php:169
+#: elements/ou-fforms-styler/ou-fforms-styler.php:224
+#: elements/ou-gf-styler/ou-gf-styler.php:184
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:153
+msgid "Input Fields"
+msgstr ""
+
+#: elements/ou-cf7/ou-cf7.php:108
+#: elements/ou-comment-form/ou-comment-form.php:266
+#: elements/ou-ff-styler/ou-ff-styler.php:203
+#: elements/ou-ff-styler/ou-ff-styler.php:649
+#: elements/ou-fforms-styler/ou-fforms-styler.php:251
+#: elements/ou-gf-styler/ou-gf-styler.php:242
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:202
+msgid "Focus Background Color"
+msgstr ""
+
+#: elements/ou-cf7/ou-cf7.php:114
+#: elements/ou-comment-form/ou-comment-form.php:281
+#: elements/ou-ff-styler/ou-ff-styler.php:213
+#: elements/ou-fforms-styler/ou-fforms-styler.php:263
+#: elements/ou-gf-styler/ou-gf-styler.php:254
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:208
+msgid "Placeholder Color"
+msgstr ""
+
+#: elements/ou-cf7/ou-cf7.php:120
+#: elements/ou-comment-form/ou-comment-form.php:253
+#: elements/ou-ff-styler/ou-ff-styler.php:188
+#: elements/ou-fforms-styler/ou-fforms-styler.php:270
+#: elements/ou-gf-styler/ou-gf-styler.php:189
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:159
+msgid "Textarea Height"
+msgstr ""
+
+#: elements/ou-cf7/ou-cf7.php:127 elements/ou-cf7/ou-cf7.php:191
+#: elements/ou-classic-accordion/ou-classic-accordion.php:179
+#: elements/ou-classic-accordion/ou-classic-accordion.php:214
+#: elements/ou-comment-form/ou-comment-form.php:150
+#: elements/ou-comment-form/ou-comment-form.php:181
+#: elements/ou-comment-form/ou-comment-form.php:232
+#: elements/ou-comment-form/ou-comment-form.php:297
+#: elements/ou-comment-form/ou-comment-form.php:422
+#: elements/ou-countdown/ou-countdown.php:435
+#: elements/ou-countdown/ou-countdown.php:678
+#: elements/ou-dual-button/ou-dual-button.php:131
+#: elements/ou-dual-button/ou-dual-button.php:244
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:238
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:265
+#: elements/ou-ff-styler/ou-ff-styler.php:102
+#: elements/ou-ff-styler/ou-ff-styler.php:245
+#: elements/ou-ff-styler/ou-ff-styler.php:1383
+#: elements/ou-ff-styler/ou-ff-styler.php:1438
+#: elements/ou-ff-styler/ou-ff-styler.php:1497
+#: elements/ou-ff-styler/ou-ff-styler.php:1554
+#: elements/ou-fforms-styler/ou-fforms-styler.php:310
+#: elements/ou-fforms-styler/ou-fforms-styler.php:556
+#: elements/ou-fforms-styler/ou-fforms-styler.php:625
+#: elements/ou-fforms-styler/ou-fforms-styler.php:663
+#: elements/ou-fforms-styler/ou-fforms-styler.php:702
+#: elements/ou-fforms-styler/ou-fforms-styler.php:732
+#: elements/ou-gf-styler/ou-gf-styler.php:287
+#: elements/ou-gf-styler/ou-gf-styler.php:406
+#: elements/ou-gf-styler/ou-gf-styler.php:523
+#: elements/ou-gf-styler/ou-gf-styler.php:613
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:211
+#: elements/ou-icon-list/ou-icon-list-item.php:178
+#: elements/ou-icon-list/ou-icon-list.php:175
+#: elements/ou-show-more-less/ou-show-more-less.php:239
+#: elements/ou-show-more-less/ou-show-more-less.php:433
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:216
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:302
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:403
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:457
+msgid "Typography"
+msgstr ""
+
+#: elements/ou-cf7/ou-cf7.php:132
+#: elements/ou-comment-form/ou-comment-form.php:276
+#: elements/ou-ff-styler/ou-ff-styler.php:231
+#: elements/ou-ff-styler/ou-ff-styler.php:671
+#: elements/ou-fforms-styler/ou-fforms-styler.php:296
+#: elements/ou-gf-styler/ou-gf-styler.php:273
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:228
+msgid "Focus Border Color"
+msgstr ""
+
+#: elements/ou-cf7/ou-cf7.php:143
+msgid "Inline Error"
+msgstr ""
+
+#: elements/ou-cf7/ou-cf7.php:150
+#: elements/ou-comment-form/ou-comment-form.php:305
+#: elements/ou-ff-styler/ou-ff-styler.php:1328
+#: elements/ou-gf-styler/ou-gf-styler.php:464
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:352
+msgid "Submit Button"
+msgstr ""
+
+#: elements/ou-cf7/ou-cf7.php:167
+#: elements/ou-comment-form/ou-comment-form.php:327
+#: elements/ou-dual-button/ou-dual-button.php:119
+#: elements/ou-dual-button/ou-dual-button.php:232
+#: elements/ou-ff-styler/ou-ff-styler.php:267
+#: elements/ou-ff-styler/ou-ff-styler.php:921
+#: elements/ou-ff-styler/ou-ff-styler.php:964
+#: elements/ou-ff-styler/ou-ff-styler.php:1361
+#: elements/ou-ff-styler/ou-ff-styler.php:1414
+#: elements/ou-ff-styler/ou-ff-styler.php:1468
+#: elements/ou-ff-styler/ou-ff-styler.php:1511
+#: elements/ou-gf-styler/ou-gf-styler.php:312
+#: elements/ou-gf-styler/ou-gf-styler.php:476
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:193
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:364
+msgid "Text Color"
+msgstr ""
+
+#: elements/ou-cf7/ou-cf7.php:172
+#: elements/ou-comment-form/ou-comment-form.php:336
+#: elements/ou-ff-styler/ou-ff-styler.php:733
+#: elements/ou-ff-styler/ou-ff-styler.php:1366
+#: elements/ou-ff-styler/ou-ff-styler.php:1419
+#: elements/ou-ff-styler/ou-ff-styler.php:1473
+#: elements/ou-fforms-styler/ou-fforms-styler.php:519
+#: elements/ou-fforms-styler/ou-fforms-styler.php:588
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1421
+#: elements/ou-gf-styler/ou-gf-styler.php:484
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:372
+msgid "Text Hover Color"
+msgstr ""
+
+#: elements/ou-cf7/ou-cf7.php:183
+#: elements/ou-dual-button/ou-dual-button.php:114
+#: elements/ou-dual-button/ou-dual-button.php:226
+#: elements/ou-ff-styler/ou-ff-styler.php:742
+#: elements/ou-ff-styler/ou-ff-styler.php:1375
+#: elements/ou-ff-styler/ou-ff-styler.php:1430
+#: elements/ou-ff-styler/ou-ff-styler.php:1484
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:231
+msgid "Background Hover Color"
+msgstr ""
+
+#: elements/ou-cf7/ou-cf7.php:193 elements/ou-cf7/ou-cf7.php:250
+#: elements/ou-classic-accordion/ou-classic-accordion.php:127
+#: elements/ou-classic-accordion/ou-classic-accordion.php:452
+#: elements/ou-comment-form/ou-comment-form.php:299
+#: elements/ou-comment-form/ou-comment-form.php:424
+#: elements/ou-countdown/ou-countdown.php:680
+#: elements/ou-countdown/ou-countdown.php:730
+#: elements/ou-dual-button/ou-dual-button.php:133
+#: elements/ou-dual-button/ou-dual-button.php:246
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:185
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:494
+#: elements/ou-ff-styler/ou-ff-styler.php:1386
+#: elements/ou-ff-styler/ou-ff-styler.php:1441
+#: elements/ou-ff-styler/ou-ff-styler.php:1500
+#: elements/ou-ff-styler/ou-ff-styler.php:1556
+#: elements/ou-fforms-styler/ou-fforms-styler.php:109
+#: elements/ou-fforms-styler/ou-fforms-styler.php:500
+#: elements/ou-fforms-styler/ou-fforms-styler.php:558
+#: elements/ou-fforms-styler/ou-fforms-styler.php:627
+#: elements/ou-fforms-styler/ou-fforms-styler.php:734
+#: elements/ou-gf-styler/ou-gf-styler.php:525
+#: elements/ou-gf-styler/ou-gf-styler.php:615
+#: elements/ou-hotspot/marker.php:289 elements/ou-hotspot/marker.php:376
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:247
+#: elements/ou-image-panels/ou-image-panels.php:143
+#: elements/ou-show-more-less/ou-show-more-less.php:242
+#: elements/ou-show-more-less/ou-show-more-less.php:366
+#: elements/ou-show-more-less/ou-show-more-less.php:436
+#: elements/ou-show-more-less/ou-show-more-less.php:591
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:224
+#: elements/ou-tooltip/ou-tooltip.php:166
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:346
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:405
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:459
+msgid "Box Shadow"
+msgstr ""
+
+#: elements/ou-cf7/ou-cf7.php:199 elements/ou-countdown/ou-countdown.php:481
+msgid "Message"
+msgstr ""
+
+#: elements/ou-cf7/ou-cf7.php:215
+msgid "Validation Errors"
+msgstr ""
+
+#: elements/ou-cf7/ou-cf7.php:231
+msgid "Errors"
+msgstr ""
+
+#: elements/ou-cf7/ou-cf7.php:247 elements/ou-ff-styler/ou-ff-styler.php:1537
+#: elements/ou-fforms-styler/ou-fforms-styler.php:707
+#: elements/ou-gf-styler/ou-gf-styler.php:612
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:440
+msgid "Success Message"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:9
+#: includes/admin.php:231
+msgid "Classic Accordion"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:31
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:28
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 14px;\">Click on <span style=\"color:#ff7171;\">Apply "
+"Params</span> button at below, if accordion content is not displaying "
+"properly on Builder editor.</div>"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:35
+#: elements/ou-content-slider/ou-content-slider.php:45
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:32
+#: elements/ou-show-more-less/ou-show-more-less.php:34
+msgid "Builder Editor Mode"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:36
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:33
+#: elements/ou-show-more-less/ou-show-more-less.php:35
+msgid "Expand"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:36
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:33
+#: elements/ou-show-more-less/ou-show-more-less.php:35
+msgid "Collapse"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:42
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:39
+#: elements/ou-show-more-less/ou-show-more-less.php:41
+msgid ""
+"Select <span style=\"color:#ff7171;\">\"Expand\"</span> option when you are "
+"editing the content."
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:49
+msgid "Expand on page load? "
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:63
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:133
+msgid "Enable FAQPage Google Schema Data"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:75
+msgid "Slide Transition Duration"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:82
+#: elements/ou-comment-form/ou-comment-form.php:125
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:153
+#: elements/ou-fancy-heading/ou-fancy-heading.php:33
+msgid "Heading"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:91
+#: elements/ou-classic-accordion/ou-classic-accordion.php:169
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:229
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1399
+msgid "Title"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:93
+#: elements/ou-classic-accordion/ou-classic-accordion.php:193
+msgid "Hit on Enter key to see the text on the Builder Editor."
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:106
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:164
+msgid "Hover/Active Transition Duration"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:129
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:187
+msgid "Config Hover Color"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:137
+#: elements/ou-classic-accordion/ou-classic-accordion.php:156
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:195
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:214
+msgid "Title Color"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:142
+#: elements/ou-classic-accordion/ou-classic-accordion.php:161
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:200
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:219
+#: elements/ou-ff-styler/ou-ff-styler.php:1175
+msgid "Border Color"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:148
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:206
+msgid "Config Active Color"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:173
+#: elements/ou-classic-accordion/ou-classic-accordion.php:200
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:233
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:251
+msgid "Tag"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:183
+#: elements/ou-classic-accordion/ou-classic-accordion.php:192
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:244
+msgid "Sub Title"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:216
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:267
+msgid "Hover/Active Color"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:219
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:270
+#: elements/ou-hotspot/marker.php:129
+msgid "Color on Hover"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:224
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:275
+msgid "Color on Active State"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:234
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:284
+msgid "Toggle Icon"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:237
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:287
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:118
+#: elements/ou-icon-list/ou-icon-list-item.php:104
+msgid "Display Icon"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:250
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:299
+msgid "Use Same Open Icon for Close Icon"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:266
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:315
+msgid "Vertical flip"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:267
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:316
+msgid "Horizontal flip"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:268
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:317
+#: elements/ou-fancy-heading/ou-fancy-heading.php:54
+msgid "Rotate"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:295
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:344
+msgid "Angle"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:308
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:357
+msgid "Animation Transition Duration"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:316
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:363
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:377
+msgid "Open Icon"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:318
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:365
+msgid "Open Icon Preview"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:330
+#: elements/ou-classic-accordion/ou-classic-accordion.php:350
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:397
+msgid "Select Icon"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:336
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:383
+msgid "Close Icon"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:338
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:385
+msgid "Close Icon Preview"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:362
+#: elements/ou-content-slider/ou-content-slider.php:582
+#: elements/ou-content-slider/ou-content-slider.php:617
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:409
+#: elements/ou-gallery-slider/ou-gallery-slider.php:757
+#: elements/ou-gallery-slider/ou-gallery-slider.php:792
+#: elements/ou-hotspot/marker.php:241 elements/ou-hotspot/marker.php:280
+#: elements/ou-hotspot/marker.php:343
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:142
+#: elements/ou-show-more-less/ou-show-more-less.php:267
+#: elements/ou-show-more-less/ou-show-more-less.php:468
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:189
+#: elements/ou-tooltip/ou-tooltip.php:64
+msgid "Left"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:362
+#: elements/ou-content-slider/ou-content-slider.php:589
+#: elements/ou-content-slider/ou-content-slider.php:624
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:409
+#: elements/ou-gallery-slider/ou-gallery-slider.php:764
+#: elements/ou-gallery-slider/ou-gallery-slider.php:799
+#: elements/ou-hotspot/marker.php:223 elements/ou-hotspot/marker.php:262
+#: elements/ou-hotspot/marker.php:337
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:142
+#: elements/ou-show-more-less/ou-show-more-less.php:267
+#: elements/ou-show-more-less/ou-show-more-less.php:468
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:189
+#: elements/ou-tooltip/ou-tooltip.php:58
+msgid "Right"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:370
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:417
+#: elements/ou-show-more-less/ou-show-more-less.php:275
+#: elements/ou-show-more-less/ou-show-more-less.php:287
+#: elements/ou-show-more-less/ou-show-more-less.php:311
+#: elements/ou-show-more-less/ou-show-more-less.php:476
+#: elements/ou-show-more-less/ou-show-more-less.php:488
+#: elements/ou-show-more-less/ou-show-more-less.php:512
+msgid "Gap Between Text & Icon"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:382
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:429
+#: elements/ou-show-more-less/ou-show-more-less.php:299
+#: elements/ou-show-more-less/ou-show-more-less.php:500
+msgid "Gap Between Icon & Text"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:392
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:439
+msgid "Size & Color"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:395
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:442
+msgid "Wrapper Background Color"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:400
+msgid "Wrapper Background Color of Active State"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:405
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:452
+#: elements/ou-show-more-less/ou-show-more-less.php:342
+#: elements/ou-show-more-less/ou-show-more-less.php:567
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:294
+msgid "Icon Color"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:410
+msgid "Icon olor on Hover State"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:415
+msgid "Icon Color on Active State"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:423
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:465
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:151
+#: elements/ou-icon-list/ou-icon-list-item.php:220
+#: elements/ou-icon-list/ou-icon-list.php:215
+#: elements/ou-show-more-less/ou-show-more-less.php:324
+#: elements/ou-show-more-less/ou-show-more-less.php:525
+msgid "Icon Size"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:434
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:476
+msgid "Icon Wrapper Width & Height"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:446
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:488
+msgid "Border Color - Active"
+msgstr ""
+
+#: elements/ou-classic-accordion/ou-classic-accordion.php:456
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:497
+msgid "Content"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:10
+msgid "OU Comment Form"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:29
+msgid "Title Reply HTML Tag"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:32
+#: elements/ou-countdown/ou-countdown.php:183
+#: elements/ou-countdown/ou-countdown.php:631
+msgid "DIV"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:40
+msgid "Title Reply Text"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:43
+msgid "Leave a Reply"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:50
+msgid "Title Reply To Text"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:53
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:60
+msgid "Cancel Reply Text"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:63
+msgid "Cancel reply"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:70
+msgid "Comment After Notes"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:101
+#: elements/ou-ff-styler/ou-ff-styler.php:85
+#: elements/ou-ff-styler/ou-ff-styler.php:241
+#: elements/ou-ff-styler/ou-ff-styler.php:680
+#: elements/ou-ff-styler/ou-ff-styler.php:1160
+#: elements/ou-fforms-styler/ou-fforms-styler.php:306
+#: elements/ou-gf-styler/ou-gf-styler.php:118
+#: elements/ou-gf-styler/ou-gf-styler.php:283
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:93
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:237
+msgid "Border Radius"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:157
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1400
+msgid "Description"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:188
+msgid "Form Labels"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:192
+msgid "Hide Label"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:203
+msgid "Display Label as Placeholder"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:204
+msgid "This effect will show at frontend"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:215
+#: elements/ou-fforms-styler/ou-fforms-styler.php:239
+#: elements/ou-gf-styler/ou-gf-styler.php:231
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:188
+msgid "Asterix Color"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:221
+msgid "Space Top"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:226
+msgid "Space Bottom"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:234
+msgid "Checkbox Label"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:236
+msgid "Form Fields"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:242
+msgid "Remove Website Field"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:259
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:179
+msgid "Colors"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:271
+#: elements/ou-ff-styler/ou-ff-styler.php:208
+#: elements/ou-ff-styler/ou-ff-styler.php:654
+#: elements/ou-fforms-styler/ou-fforms-styler.php:257
+#: elements/ou-gf-styler/ou-gf-styler.php:248
+msgid "Focus Text Color"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:309
+msgid "Submit Button Text"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:312
+msgid "Post Comment"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:345
+#: elements/ou-fforms-styler/ou-fforms-styler.php:527
+#: elements/ou-fforms-styler/ou-fforms-styler.php:596
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1429
+#: elements/ou-gf-styler/ou-gf-styler.php:492
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:380
+msgid "BG Color"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:354
+#: elements/ou-fforms-styler/ou-fforms-styler.php:535
+#: elements/ou-fforms-styler/ou-fforms-styler.php:604
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1437
+#: elements/ou-gf-styler/ou-gf-styler.php:501
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:389
+msgid "BG Hover Color"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:363
+#: elements/ou-fforms-styler/ou-fforms-styler.php:543
+#: elements/ou-fforms-styler/ou-fforms-styler.php:612
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1445
+#: elements/ou-gf-styler/ou-gf-styler.php:510
+msgid "Border Hover Color"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:376
+#: elements/ou-dual-button/ou-dual-button.php:74
+#: elements/ou-dual-button/ou-dual-button.php:183
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:80
+msgid "General"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:377
+#: elements/ou-dual-button/ou-dual-button.php:75
+#: elements/ou-dual-button/ou-dual-button.php:184
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:81
+msgid "Sweep top"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:378
+#: elements/ou-dual-button/ou-dual-button.php:76
+#: elements/ou-dual-button/ou-dual-button.php:185
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:82
+msgid "Sweep Bottom"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:379
+#: elements/ou-dual-button/ou-dual-button.php:77
+#: elements/ou-dual-button/ou-dual-button.php:186
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:83
+msgid "Sweep Left"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:380
+#: elements/ou-dual-button/ou-dual-button.php:78
+#: elements/ou-dual-button/ou-dual-button.php:187
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:84
+msgid "Sweep Right"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:381
+#: elements/ou-dual-button/ou-dual-button.php:79
+#: elements/ou-dual-button/ou-dual-button.php:188
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:85
+msgid "Bounce top"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:382
+#: elements/ou-dual-button/ou-dual-button.php:80
+#: elements/ou-dual-button/ou-dual-button.php:189
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:86
+msgid "Bounce Bottom"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:383
+#: elements/ou-dual-button/ou-dual-button.php:81
+#: elements/ou-dual-button/ou-dual-button.php:190
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:87
+msgid "Bounce Left"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:384
+#: elements/ou-dual-button/ou-dual-button.php:82
+#: elements/ou-dual-button/ou-dual-button.php:191
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:88
+msgid "Bounce Right"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:385
+#: elements/ou-dual-button/ou-dual-button.php:83
+#: elements/ou-dual-button/ou-dual-button.php:192
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:89
+msgid "Shutter In Horizontal"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:386
+#: elements/ou-dual-button/ou-dual-button.php:84
+#: elements/ou-dual-button/ou-dual-button.php:193
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:90
+msgid "Shutter Out Horizontal"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:387
+#: elements/ou-dual-button/ou-dual-button.php:85
+#: elements/ou-dual-button/ou-dual-button.php:194
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:91
+msgid "Shutter In Vertical"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:388
+#: elements/ou-dual-button/ou-dual-button.php:86
+#: elements/ou-dual-button/ou-dual-button.php:195
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:92
+msgid "Shutter Out Vertical"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:397
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:145
+#: elements/ou-gallery-slider/ou-gallery-slider.php:511
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1228
+#: elements/ou-gallery/ou-gallery.php:273
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:204
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:102
+#: elements/ou-show-more-less/ou-show-more-less.php:673
+msgid "Transition Duration"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:406
+msgid "Button Alignment"
+msgstr ""
+
+#: elements/ou-comment-form/ou-comment-form.php:426
+msgid "After Notes"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:13 includes/admin.php:233
+msgid "Content Slider"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:39
+msgid ""
+"Click on <span style=\"color:#ff7171;\">Apply Params</span> buttons, if "
+"content is not showing properly on builder editor. Autoplay effect is "
+"disable on builder editor."
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:49
+msgid ""
+"You would select the Editing option when you will edit the slider content. "
+"Click on Apply Params button to see the changes."
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:53
+msgid "Slider Content Source"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:54
+msgid "Products List"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:54
+msgid "Related Products"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:54
+msgid "Product Categories"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:57
+msgid ""
+"Click on Apply Params button after selecting the option. See setup guide at "
+"below."
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:59
+msgid "Setup Guide"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:72
+#: elements/ou-gallery-slider/ou-gallery-slider.php:225
+msgid "Slider Settings"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:75
+msgid ""
+"Click on <span style=\"color:#ff7171;\">Apply Params</span> buttons to see "
+"the changes on Builder editor."
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:81
+#: elements/ou-gallery-slider/ou-gallery-slider.php:229
+msgid "Slider Type"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:84
+#: elements/ou-gallery-slider/ou-gallery-slider.php:232
+msgid "Carousel"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:86
+#: elements/ou-gallery-slider/ou-gallery-slider.php:234
+msgid "Coverflow"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:98
+#: elements/ou-fancy-heading/ou-fancy-heading.php:53
+#: elements/ou-gallery-slider/ou-gallery-slider.php:247
+#: elements/ou-hotspot/marker.php:396 elements/ou-tooltip/ou-tooltip.php:107
+msgid "Fade"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:99
+#: elements/ou-gallery-slider/ou-gallery-slider.php:248
+msgid "Cube"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:106
+#: elements/ou-gallery-slider/ou-gallery-slider.php:256
+msgid "Centered Slide"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:117
+#: elements/ou-gallery-slider/ou-gallery-slider.php:268
+msgid "Infinite Loop"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:129
+#: elements/ou-gallery-slider/ou-gallery-slider.php:281
+msgid "Auto Height"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:141
+msgid "Slider Height"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:143
+msgid "Click on Apply Params button to see the changes."
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:153
+#: elements/ou-gallery-slider/ou-gallery-slider.php:306
+msgid "Multi Row Layout"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:156
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 13px;\">Number of slides per column, for multirow layout. "
+"slidesPerColumn > 1 is currently not compatible with loop mode "
+"(infiniteloop: true)</div>"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:162
+#: elements/ou-content-slider/ou-content-slider.php:214
+#: elements/ou-content-slider/ou-content-slider.php:263
+#: elements/ou-content-slider/ou-content-slider.php:313
+#: elements/ou-css-grid/ou-css-grid.php:74
+#: elements/ou-gallery-slider/ou-gallery-slider.php:315
+#: elements/ou-gallery-slider/ou-gallery-slider.php:365
+#: elements/ou-gallery-slider/ou-gallery-slider.php:415
+#: elements/ou-gallery-slider/ou-gallery-slider.php:462
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1151
+msgid "All Devices"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:173
+#: elements/ou-content-slider/ou-content-slider.php:224
+#: elements/ou-content-slider/ou-content-slider.php:275
+#: elements/ou-content-slider/ou-content-slider.php:323
+#: elements/ou-gallery-slider/ou-gallery-slider.php:327
+#: elements/ou-gallery-slider/ou-gallery-slider.php:377
+#: elements/ou-gallery-slider/ou-gallery-slider.php:427
+#: elements/ou-gallery-slider/ou-gallery-slider.php:473
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1106
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1163
+msgid "Large Devices (Range: 769px to 992px)"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:184
+#: elements/ou-content-slider/ou-content-slider.php:234
+#: elements/ou-content-slider/ou-content-slider.php:286
+#: elements/ou-content-slider/ou-content-slider.php:333
+#: elements/ou-gallery-slider/ou-gallery-slider.php:339
+#: elements/ou-gallery-slider/ou-gallery-slider.php:389
+#: elements/ou-gallery-slider/ou-gallery-slider.php:438
+#: elements/ou-gallery-slider/ou-gallery-slider.php:484
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1117
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1175
+msgid "Medium Devices (Range: 640px to 768px)"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:195
+#: elements/ou-content-slider/ou-content-slider.php:244
+#: elements/ou-content-slider/ou-content-slider.php:296
+#: elements/ou-content-slider/ou-content-slider.php:343
+#: elements/ou-gallery-slider/ou-gallery-slider.php:351
+#: elements/ou-gallery-slider/ou-gallery-slider.php:401
+#: elements/ou-gallery-slider/ou-gallery-slider.php:449
+#: elements/ou-gallery-slider/ou-gallery-slider.php:495
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1128
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1187
+msgid "Small Devices (Below 640px)"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:205
+#: elements/ou-gallery-slider/ou-gallery-slider.php:362
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1148
+msgid "Items per View"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:208
+#: elements/ou-content-slider/ou-content-slider.php:257
+#: elements/ou-content-slider/ou-content-slider.php:307
+#: elements/ou-content-slider/ou-content-slider.php:422
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 13px;\">Click on <span style=\"color:#ff7171;\">Apply "
+"Params</span> buttons to see the changes on Builder editor.</div>"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:254
+#: elements/ou-gallery-slider/ou-gallery-slider.php:412
+msgid "Slides to Scroll"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:271
+#: elements/ou-gallery-slider/ou-gallery-slider.php:423
+msgid "Set numbers of slides to move at a time."
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:305
+#: elements/ou-css-grid/grid-area.php:134
+#: elements/ou-css-grid/ou-css-grid.php:158
+#: elements/ou-dual-button/ou-dual-button.php:347
+msgid "Gap"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:355
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:116
+msgid "Transition"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:358
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 13px;\">Click on <span style=\"color:#ff7171;\">Apply "
+"Params</span> buttons to see the changes on Builder editor. Autoplay option "
+"is disabled for Builder editor.</div>"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:364
+#: elements/ou-dual-button/ou-dual-button.php:95
+#: elements/ou-dual-button/ou-dual-button.php:204
+#: elements/ou-gallery-slider/ou-gallery-slider.php:536
+msgid "Transition Speed"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:371
+#: elements/ou-content-slider/ou-content-slider.php:393
+#: elements/ou-gallery-slider/ou-gallery-slider.php:543
+#: elements/ou-gallery-slider/ou-gallery-slider.php:567
+msgid "Value unit for form field of time in mili seconds. Such as: \"1000 ms\""
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:375
+#: elements/ou-gallery-slider/ou-gallery-slider.php:548
+#: elements/ou-ultimate-video/ou-ultimate-video.php:104
+msgid "Auto Play"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:386
+#: elements/ou-gallery-slider/ou-gallery-slider.php:560
+msgid "Auto Play Speed"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:397
+#: elements/ou-gallery-slider/ou-gallery-slider.php:572
+msgid "Pause on Hover"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:408
+#: elements/ou-gallery-slider/ou-gallery-slider.php:583
+msgid "Pause on Interaction"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:419
+#: elements/ou-gallery-slider/ou-gallery-slider.php:594
+msgid "Navigation Arrow"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:428
+#: elements/ou-gallery-slider/ou-gallery-slider.php:598
+msgid "Show Navigation Arrows"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:452
+#: elements/ou-content-slider/ou-content-slider.php:682
+#: elements/ou-gallery-slider/ou-gallery-slider.php:624
+#: elements/ou-gallery-slider/ou-gallery-slider.php:860
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:58
+msgid "Hide on Devices"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:464
+#: elements/ou-content-slider/ou-content-slider.php:694
+#: elements/ou-gallery-slider/ou-gallery-slider.php:636
+#: elements/ou-gallery-slider/ou-gallery-slider.php:872
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1078
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:70
+msgid "Breakpoint"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:472
+#: elements/ou-fforms-styler/ou-fforms-styler.php:394
+#: elements/ou-gallery-slider/ou-gallery-slider.php:645
+#: elements/ou-hotspot/marker.php:48 elements/ou-hotspot/marker.php:106
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:114
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:130
+#: elements/ou-icon-list/ou-icon-list-item.php:101
+#: elements/ou-icon-list/ou-icon-list-item.php:115
+#: elements/ou-show-more-less/ou-show-more-less.php:252
+#: elements/ou-show-more-less/ou-show-more-less.php:256
+#: elements/ou-show-more-less/ou-show-more-less.php:453
+#: elements/ou-show-more-less/ou-show-more-less.php:457
+msgid "Icon"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:476
+#: elements/ou-gallery-slider/ou-gallery-slider.php:649
+msgid "Left Arrow"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:484
+#: elements/ou-gallery-slider/ou-gallery-slider.php:658
+msgid "Right Arrow"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:489
+#: elements/ou-gallery-slider/ou-gallery-slider.php:664
+msgid "Color & Size"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:500
+#: elements/ou-countdown/ou-countdown.php:545
+#: elements/ou-countdown/ou-countdown.php:586
+#: elements/ou-css-grid/grid-area.php:62
+#: elements/ou-css-grid/ou-css-grid.php:102
+#: elements/ou-ff-styler/ou-ff-styler.php:121
+#: elements/ou-ff-styler/ou-ff-styler.php:700
+#: elements/ou-gallery-slider/ou-gallery-slider.php:675
+#: elements/ou-hotspot/marker.php:118
+#: elements/ou-show-more-less/ou-show-more-less.php:321
+#: elements/ou-show-more-less/ou-show-more-less.php:522
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:166
+#: elements/ou-ultimate-image/ou-image.php:59
+#: elements/ou-ultimate-video/ou-ultimate-video.php:352
+msgid "Size"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:514
+#: elements/ou-ff-styler/ou-ff-styler.php:830
+#: elements/ou-gallery-slider/ou-gallery-slider.php:689
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:189
+#: elements/ou-icon-list/ou-icon-list-item.php:140
+#: elements/ou-icon-list/ou-icon-list-item.php:185
+#: elements/ou-icon-list/ou-icon-list-item.php:259
+#: elements/ou-icon-list/ou-icon-list.php:137
+#: elements/ou-icon-list/ou-icon-list.php:182
+#: elements/ou-icon-list/ou-icon-list.php:254
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:199
+#: elements/ou-ultimate-video/ou-ultimate-video.php:369
+msgid "Hover Background Color"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:535
+#: elements/ou-gallery-slider/ou-gallery-slider.php:710
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 14px;\">Click on the Apply Params button, if position value "
+"is not working properly.</div>"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:540
+#: elements/ou-gallery-slider/ou-gallery-slider.php:715
+msgid "Gap Above Images"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:551
+#: elements/ou-gallery-slider/ou-gallery-slider.php:726
+msgid "Gap Below Images"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:563
+#: elements/ou-gallery-slider/ou-gallery-slider.php:738
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7;line-height: 1.3;"
+"font-size:12px\">Bottom settings are for previous arrow button.</div>"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:565
+#: elements/ou-gallery-slider/ou-gallery-slider.php:740
+msgid "Previous Arrow"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:568
+#: elements/ou-content-slider/ou-content-slider.php:603
+#: elements/ou-gallery-slider/ou-gallery-slider.php:743
+#: elements/ou-gallery-slider/ou-gallery-slider.php:778
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1313
+#: elements/ou-hotspot/marker.php:214 elements/ou-hotspot/marker.php:253
+#: elements/ou-hotspot/marker.php:334
+#: elements/ou-show-more-less/ou-show-more-less.php:267
+#: elements/ou-show-more-less/ou-show-more-less.php:468
+#: elements/ou-tooltip/ou-tooltip.php:55
+msgid "Top"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:575
+#: elements/ou-content-slider/ou-content-slider.php:610
+#: elements/ou-gallery-slider/ou-gallery-slider.php:750
+#: elements/ou-gallery-slider/ou-gallery-slider.php:785
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1315
+#: elements/ou-gallery/ou-gallery.php:235 elements/ou-hotspot/marker.php:232
+#: elements/ou-hotspot/marker.php:271 elements/ou-hotspot/marker.php:340
+#: elements/ou-show-more-less/ou-show-more-less.php:267
+#: elements/ou-show-more-less/ou-show-more-less.php:468
+#: elements/ou-tooltip/ou-tooltip.php:61
+msgid "Bottom"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:598
+#: elements/ou-gallery-slider/ou-gallery-slider.php:773
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7;line-height: 1.3;"
+"font-size:12px\">Bottom settings are for next arrow button.</div>"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:600
+#: elements/ou-gallery-slider/ou-gallery-slider.php:775
+msgid "Next Arrow"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:631
+#: elements/ou-ff-styler/ou-ff-styler.php:1385
+#: elements/ou-ff-styler/ou-ff-styler.php:1440
+#: elements/ou-ff-styler/ou-ff-styler.php:1499
+#: elements/ou-gallery-slider/ou-gallery-slider.php:806
+#: elements/ou-hotspot/marker.php:288
+#: elements/ou-show-more-less/ou-show-more-less.php:241
+#: elements/ou-show-more-less/ou-show-more-less.php:365
+#: elements/ou-show-more-less/ou-show-more-less.php:435
+#: elements/ou-show-more-less/ou-show-more-less.php:590
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:223
+msgid "Hover Border"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:633
+#: elements/ou-gallery-slider/ou-gallery-slider.php:808
+msgid "Shadow"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:634
+#: elements/ou-gallery-slider/ou-gallery-slider.php:809
+msgid "Hover Shadow"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:638
+#: elements/ou-gallery-slider/ou-gallery-slider.php:813
+msgid "Pagination"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:639
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 14px;\">Click on <span style=\"color:#ff7171;\">Apply "
+"Params</span> buttons to see the changes on Builder editor.</div>"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:643
+#: elements/ou-gallery-slider/ou-gallery-slider.php:818
+msgid "Pagination Type"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:648
+#: elements/ou-gallery-slider/ou-gallery-slider.php:823
+msgid "Dots"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:649
+#: elements/ou-gallery-slider/ou-gallery-slider.php:824
+msgid "Fraction"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:650
+msgid "Progress"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:657
+#: elements/ou-gallery-slider/ou-gallery-slider.php:833
+msgid "Dynamic Dots"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:666
+#: elements/ou-gallery-slider/ou-gallery-slider.php:842
+msgid ""
+"Good to enable if you use dots pagination with a lot of slides. So it will "
+"keep only few bullets visible at the same time."
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:674
+#: elements/ou-gallery-slider/ou-gallery-slider.php:851
+msgid "Below Image"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:675
+#: elements/ou-gallery-slider/ou-gallery-slider.php:852
+#: elements/ou-gallery/ou-gallery.php:235
+msgid "Overlay"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:704
+#: elements/ou-gallery-slider/ou-gallery-slider.php:883
+msgid "Dots/Fraction Position"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:705
+#: elements/ou-gallery-slider/ou-gallery-slider.php:884
+msgid "It will work when you will choose the position \"Below Image\"."
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:721
+#: elements/ou-gallery-slider/ou-gallery-slider.php:901
+msgid "Active Background Color"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:727
+#: elements/ou-gallery-slider/ou-gallery-slider.php:908
+msgid "Dots Opacity"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:735
+#: elements/ou-gallery-slider/ou-gallery-slider.php:916
+msgid "Dots Width"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:742
+#: elements/ou-gallery-slider/ou-gallery-slider.php:923
+msgid "Active Dots Width"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:749
+#: elements/ou-gallery-slider/ou-gallery-slider.php:930
+msgid "Dots Height"
+msgstr ""
+
+#: elements/ou-content-slider/ou-content-slider.php:756
+#: elements/ou-gallery-slider/ou-gallery-slider.php:948
+msgid "Dots Round Corners"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:13 includes/admin.php:234
+msgid "Countdown"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:30
+msgid "Config"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:35
+msgid "Timer Type"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:37
+msgid "Fixed"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:37
+msgid "Evergreen"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:52
+msgid "Time Zone"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:57
+msgid "Date Time Source"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:59
+msgid "ACF"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:59
+msgid "ACF Option Page"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:67
+#: elements/ou-countdown/ou-countdown.php:78
+msgid "Date/Time Picker Field Name"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:89
+#: elements/ou-countdown/ou-countdown.php:208
+msgid "Year"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:100
+#: elements/ou-countdown/ou-countdown.php:241
+msgid "Month"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:111
+#: elements/ou-countdown/ou-countdown.php:274
+msgid "Day"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:122
+#: elements/ou-countdown/ou-countdown.php:307
+msgid "Hour"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:133
+msgid "Minutes"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:144
+msgid "Seconds"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:158
+msgid "Labels"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:163
+msgid "Show Labels"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:174
+msgid "Labels Tag"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:184
+#: elements/ou-countdown/ou-countdown.php:632
+msgid "P"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:195
+msgid "Label Position"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:198
+msgid "Below Digit"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:199
+msgid "Above Digit"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:200
+msgid "Right Side of Digit"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:201
+msgid "Left Side of Digit"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:212
+msgid "Show Year"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:223
+#: elements/ou-countdown/ou-countdown.php:256
+#: elements/ou-countdown/ou-countdown.php:289
+#: elements/ou-countdown/ou-countdown.php:322
+#: elements/ou-countdown/ou-countdown.php:355
+#: elements/ou-countdown/ou-countdown.php:388
+msgid "Label in Singular"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:233
+#: elements/ou-countdown/ou-countdown.php:266
+#: elements/ou-countdown/ou-countdown.php:299
+#: elements/ou-countdown/ou-countdown.php:332
+#: elements/ou-countdown/ou-countdown.php:365
+#: elements/ou-countdown/ou-countdown.php:398
+msgid "Label in Plural"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:245
+msgid "Show Month"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:278
+msgid "Show Day"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:311
+msgid "Show Hour"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:340
+msgid "Minute"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:344
+msgid "Show Minutes"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:373
+msgid "Second"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:377
+msgid "Show Seconds"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:405
+msgid "Spacing & Color"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:436
+#: elements/ou-countdown/ou-countdown.php:679
+#: elements/ou-countdown/ou-countdown.php:729
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:218
+msgid "Borders"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:444
+msgid "Action"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:448
+#: elements/ou-countdown/ou-countdown.php:464
+msgid "Action after time expires"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:452
+#: elements/ou-countdown/ou-countdown.php:468
+msgid "Hide Timer"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:453
+#: elements/ou-countdown/ou-countdown.php:470
+msgid "Display Message"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:454
+#: elements/ou-countdown/ou-countdown.php:471
+msgid "Redirect to URL"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:469
+msgid "Reset Timer"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:496
+msgid "Redirect URL"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:516
+msgid "Separator"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:521
+msgid "Display between blocks"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:534
+msgid "Colon"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:534
+msgid "Line"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:560
+#: elements/ou-ff-styler/ou-ff-styler.php:130
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1345
+msgid "Position Top"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:603
+msgid "Hide on mobile"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:617
+msgid "Digit Styles"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:622
+msgid "Digit Tag"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:657
+#: elements/ou-countdown/ou-countdown.php:716 elements/ou-hotspot/marker.php:94
+#: elements/ou-show-more-less/ou-show-more-less.php:98
+#: elements/ou-show-more-less/ou-show-more-less.php:172
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:178
+msgid "Height"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:688
+msgid "Block Styles"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:736
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:27
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 14px;\">If changes are not applying on Builder editor, you "
+"will click on the <span style=\"color:#ff7171;\">Apply Params</span> button "
+"to get the correct preview.</div>"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:869
+msgid "Select a city"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:919
+msgid "UTC"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:926
+#: elements/ou-countdown/ou-countdown.php:940
+#: elements/ou-countdown/ou-countdown.php:959
+#: elements/ou-countdown/ou-countdown.php:968
+#: elements/ou-countdown/ou-countdown.php:981
+msgid "Select"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:941
+msgid "Jan"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:942
+msgid "Feb"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:943
+msgid "Mar"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:944
+msgid "Apr"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:945
+msgid "May"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:946
+msgid "Jun"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:947
+msgid "Jul"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:948
+msgid "Aug"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:949
+msgid "Sep"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:950
+msgid "Oct"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:951
+msgid "Nov"
+msgstr ""
+
+#: elements/ou-countdown/ou-countdown.php:952
+msgid "Dec"
+msgstr ""
+
+#: elements/ou-css-grid/grid-area.php:9
+msgid "Grid Area"
+msgstr ""
+
+#: elements/ou-css-grid/grid-area.php:36 elements/ou-css-grid/grid-item.php:31
+#: elements/ou-css-grid/ou-css-grid.php:32 elements/ou-hotspot/marker.php:24
+#: elements/ou-hotspot/ou-hotspot.php:32
+#: elements/ou-icon-list/ou-icon-list-item.php:30
+#: elements/ou-icon-list/ou-icon-list.php:31
+#: elements/ou-image-panels/ou-image-panels.php:32
+#: elements/ou-image-panels/ou-panel-item.php:31
+#: elements/ou-ultimate-image/ou-ultimate-image.php:31
+msgid "Available Elements"
+msgstr ""
+
+#: elements/ou-css-grid/grid-area.php:48 elements/ou-css-grid/grid-item.php:48
+#: elements/ou-css-grid/ou-css-grid.php:49
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 14px;\">Click on <span style=\"color:#ff7171;\">Apply "
+"Params</span> button at below, if contents are not displaying properly on "
+"Builder editor.</div>"
+msgstr ""
+
+#: elements/ou-css-grid/grid-area.php:56
+msgid "Grid Area Name"
+msgstr ""
+
+#: elements/ou-css-grid/grid-area.php:67
+#: elements/ou-css-grid/ou-css-grid.php:108
+#: elements/ou-css-grid/ou-css-grid.php:235
+#: elements/ou-css-grid/ou-css-grid.php:273
+#: elements/ou-css-grid/ou-css-grid.php:311
+msgid "Grid Template Columns Length"
+msgstr ""
+
+#: elements/ou-css-grid/grid-area.php:76
+#: elements/ou-css-grid/ou-css-grid.php:118
+#: elements/ou-css-grid/ou-css-grid.php:244
+#: elements/ou-css-grid/ou-css-grid.php:282
+#: elements/ou-css-grid/ou-css-grid.php:320
+msgid "Grid Template Rows Length"
+msgstr ""
+
+#: elements/ou-css-grid/grid-area.php:84
+#: elements/ou-css-grid/ou-css-grid.php:126
+msgid "Default Columns Length"
+msgstr ""
+
+#: elements/ou-css-grid/grid-area.php:93
+#: elements/ou-css-grid/ou-css-grid.php:135
+msgid "Default Rows Length"
+msgstr ""
+
+#: elements/ou-css-grid/grid-area.php:102
+#: elements/ou-css-grid/ou-css-grid.php:144
+msgid "Grid Auto Flow"
+msgstr ""
+
+#: elements/ou-css-grid/grid-area.php:118 elements/ou-css-grid/grid-item.php:57
+msgid "Grid Column Span"
+msgstr ""
+
+#: elements/ou-css-grid/grid-area.php:127 elements/ou-css-grid/grid-item.php:66
+msgid "Grid Row Span"
+msgstr ""
+
+#: elements/ou-css-grid/grid-area.php:137
+#: elements/ou-css-grid/ou-css-grid.php:161
+#: elements/ou-css-grid/ou-css-grid.php:253
+#: elements/ou-css-grid/ou-css-grid.php:291
+#: elements/ou-css-grid/ou-css-grid.php:329
+msgid "Column Gap"
+msgstr ""
+
+#: elements/ou-css-grid/grid-area.php:146
+#: elements/ou-css-grid/ou-css-grid.php:170
+#: elements/ou-css-grid/ou-css-grid.php:262
+#: elements/ou-css-grid/ou-css-grid.php:300
+#: elements/ou-css-grid/ou-css-grid.php:338
+msgid "Row Gap"
+msgstr ""
+
+#: elements/ou-css-grid/grid-item.php:9
+msgid "Grid Item"
+msgstr ""
+
+#: elements/ou-css-grid/grid-item.php:72
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:227
+msgid "Child Elements Layout"
+msgstr ""
+
+#: elements/ou-css-grid/ou-css-grid.php:10 includes/admin.php:232
+msgid "CSS Grid"
+msgstr ""
+
+#: elements/ou-css-grid/ou-css-grid.php:55
+msgid "Areas"
+msgstr ""
+
+#: elements/ou-css-grid/ou-css-grid.php:58
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 14px;\">\n"
+"\t\t\t\t<ul>\n"
+"\t\t\t\t\t<li>Configure it after creating the grid area with Grid Area "
+"element.</li>\n"
+"\t\t\t\t\t<li>Use pipeline(|) as a seperator. Do not use single or double "
+"quote. <a href=\"https://www.w3schools.com/cssref/pr_grid-template-areas.asp"
+"\" target=\"_blank\" style=\"color:rgba(255,255,255,0.5);text-decoration: "
+"none;\">Click here to see the instruction</a></li>\n"
+"\t\t\t\t\t<li>Grid area name for Repeater component is <span style=\"color:"
+"#ff7171;\">gridrepeater</span>.</li>\n"
+"\t\t\t\t\t<li>Grid area name for Easy Posts component is <span style=\"color:"
+"#ff7171;\">grideasyposts</span>.</li>\n"
+"\t\t\t\t\t<li>Grid area name for Product Lists component is <span style="
+"\"color:#ff7171;\">gridwooproducts</span>.</li>\n"
+"\t\t\t\t\t<li>Click on <span style=\"color:#ff7171;\">Apply Params</span> "
+"button at below to see the changes.</li>\n"
+"\t\t\t\t</ul>\n"
+"\t\t\t\t</div>\n"
+"\t\t\t"
+msgstr ""
+
+#: elements/ou-css-grid/ou-css-grid.php:80
+msgid "Less than 992px"
+msgstr ""
+
+#: elements/ou-css-grid/ou-css-grid.php:86
+msgid "Less than 768px"
+msgstr ""
+
+#: elements/ou-css-grid/ou-css-grid.php:92
+msgid "Less than 680px"
+msgstr ""
+
+#: elements/ou-css-grid/ou-css-grid.php:98
+msgid "Less than 480px"
+msgstr ""
+
+#: elements/ou-css-grid/ou-css-grid.php:224
+msgid "Grid Loop"
+msgstr ""
+
+#: elements/ou-css-grid/ou-css-grid.php:227
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 14px;\">Settings of this section are for Repeater, Easy "
+"Posts and Product Lists components only.</div>"
+msgstr ""
+
+#: elements/ou-css-grid/ou-css-grid.php:231
+msgid "Repeater"
+msgstr ""
+
+#: elements/ou-css-grid/ou-css-grid.php:269
+msgid "Easy Posts"
+msgstr ""
+
+#: elements/ou-css-grid/ou-css-grid.php:307
+msgid "Product Lists"
+msgstr ""
+
+#: elements/ou-dual-button/ou-dual-button.php:10 includes/admin.php:219
+msgid "Dual Button"
+msgstr ""
+
+#: elements/ou-dual-button/ou-dual-button.php:27
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 14px;\">Click on the <span style=\"color:#ff7171;\">Apply "
+"Params</span> button to see the changes.</div>"
+msgstr ""
+
+#: elements/ou-dual-button/ou-dual-button.php:31
+msgid "Button 1"
+msgstr ""
+
+#: elements/ou-dual-button/ou-dual-button.php:35
+#: elements/ou-dual-button/ou-dual-button.php:144
+#: elements/ou-dual-button/ou-dual-button.php:268
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:214
+#: elements/ou-hotspot/marker.php:48 elements/ou-hotspot/marker.php:58
+#: elements/ou-icon-list/ou-icon-list-item.php:51 includes/helpers.php:143
+msgid "Text"
+msgstr ""
+
+#: elements/ou-dual-button/ou-dual-button.php:42
+#: elements/ou-dual-button/ou-dual-button.php:151
+#: elements/ou-fancy-heading/ou-fancy-heading.php:40
+msgid ""
+"Enter <span style=\"color:#ff7171;\">&amp;apos;</span> for single quote."
+msgstr ""
+
+#: elements/ou-dual-button/ou-dual-button.php:54
+#: elements/ou-dual-button/ou-dual-button.php:163
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:52
+#: elements/ou-image-panels/ou-panel-item.php:115
+#: elements/ou-ultimate-image/ou-ultimate-image.php:49
+#: elements/ou-ultimate-image/ou-ultimate-image.php:66
+msgid "URL"
+msgstr ""
+
+#: elements/ou-dual-button/ou-dual-button.php:124
+#: elements/ou-dual-button/ou-dual-button.php:237
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:238
+#: elements/ou-icon-list/ou-icon-list-item.php:190
+#: elements/ou-icon-list/ou-icon-list-item.php:264
+#: elements/ou-icon-list/ou-icon-list.php:187
+#: elements/ou-icon-list/ou-icon-list.php:259
+msgid "Hover Text Color"
+msgstr ""
+
+#: elements/ou-dual-button/ou-dual-button.php:140
+msgid "Button 2"
+msgstr ""
+
+#: elements/ou-dual-button/ou-dual-button.php:252
+msgid "Middle Text"
+msgstr ""
+
+#: elements/ou-dual-button/ou-dual-button.php:256
+msgid "Show Middle Text"
+msgstr ""
+
+#: elements/ou-dual-button/ou-dual-button.php:258
+#: elements/ou-gf-styler/ou-gf-styler.php:541
+#: elements/ou-gf-styler/ou-gf-styler.php:551
+#: elements/ou-ultimate-video/ou-ultimate-video.php:144
+#: elements/ou-ultimate-video/ou-ultimate-video.php:199
+#: elements/ou-ultimate-video/ou-ultimate-video.php:212
+#: elements/ou-ultimate-video/ou-ultimate-video.php:225
+#: elements/ou-ultimate-video/ou-ultimate-video.php:238
+#: elements/ou-ultimate-video/ou-ultimate-video.php:251
+#: elements/ou-ultimate-video/ou-ultimate-video.php:318
+msgid "Show"
+msgstr ""
+
+#: elements/ou-dual-button/ou-dual-button.php:258
+#: elements/ou-gf-styler/ou-gf-styler.php:541
+#: elements/ou-gf-styler/ou-gf-styler.php:551
+#: elements/ou-ultimate-video/ou-ultimate-video.php:145
+#: elements/ou-ultimate-video/ou-ultimate-video.php:200
+#: elements/ou-ultimate-video/ou-ultimate-video.php:213
+#: elements/ou-ultimate-video/ou-ultimate-video.php:226
+#: elements/ou-ultimate-video/ou-ultimate-video.php:239
+#: elements/ou-ultimate-video/ou-ultimate-video.php:252
+#: elements/ou-ultimate-video/ou-ultimate-video.php:319
+msgid "Hide"
+msgstr ""
+
+#: elements/ou-dual-button/ou-dual-button.php:325
+msgid "Width & Spacing"
+msgstr ""
+
+#: elements/ou-dual-button/ou-dual-button.php:360
+msgid "Responsive Breakpoint(px)"
+msgstr ""
+
+#: elements/ou-dual-button/ou-dual-button.php:361
+msgid "Buttons will be stacked on top of each other."
+msgstr ""
+
+#: elements/ou-dual-button/ou-dual-button.php:367
+msgid ""
+"Second button will stack below the first button at your selected breakpoint."
+msgstr ""
+
+#: elements/ou-dual-color-text/ou-dual-color-text.php:8 includes/admin.php:253
+msgid "Dual Color Text"
+msgstr ""
+
+#: elements/ou-dual-color-text/ou-dual-color-text.php:34
+msgid "First Text"
+msgstr ""
+
+#: elements/ou-dual-color-text/ou-dual-color-text.php:36
+msgid "This is"
+msgstr ""
+
+#: elements/ou-dual-color-text/ou-dual-color-text.php:44
+msgid "Second Text"
+msgstr ""
+
+#: elements/ou-dual-color-text/ou-dual-color-text.php:46
+msgid "dual color text component."
+msgstr ""
+
+#: elements/ou-dual-color-text/ou-dual-color-text.php:53
+msgid "Space between two texts"
+msgstr ""
+
+#: elements/ou-dual-color-text/ou-dual-color-text.php:61
+msgid "Style for First Text"
+msgstr ""
+
+#: elements/ou-dual-color-text/ou-dual-color-text.php:62
+msgid "Style for Second Text"
+msgstr ""
+
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:10
+#: includes/admin.php:235
+msgid "Dynamic Accordion"
+msgstr ""
+
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:43
+msgid "Editing Mode"
+msgstr ""
+
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:46
+msgid "Editing"
+msgstr ""
+
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:52
+msgid "Content Source"
+msgstr ""
+
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:55
+#: elements/ou-gallery-slider/ou-gallery-slider.php:48
+msgid "ACF Repeater"
+msgstr ""
+
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:55
+msgid "Meta Box Group"
+msgstr ""
+
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:62
+#: elements/ou-gallery-slider/ou-gallery-slider.php:117
+msgid "Repeater Field Name"
+msgstr ""
+
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:69
+msgid "Group ID"
+msgstr ""
+
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:76
+#: elements/ou-gallery-slider/ou-gallery-slider.php:139
+msgid "Title Field Name"
+msgstr ""
+
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:83
+msgid "Title Field ID"
+msgstr ""
+
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:90
+msgid "Sub Title Field Name"
+msgstr ""
+
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:97
+msgid "Sub Title Field ID"
+msgstr ""
+
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:104
+msgid "Content Field Name"
+msgstr ""
+
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:111
+msgid "Content Field ID"
+msgstr ""
+
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:119
+msgid "Expand First Item"
+msgstr ""
+
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:447
+msgid "Wrapper Background Color - Active"
+msgstr ""
+
+#: elements/ou-dynamic-accordion/ou-dynamic-accordion.php:457
+msgid "Icon Color - Active"
+msgstr ""
+
+#: elements/ou-fancy-heading/ou-fancy-heading.php:10 includes/admin.php:254
+msgid "Fancy Heading"
+msgstr ""
+
+#: elements/ou-fancy-heading/ou-fancy-heading.php:35
+msgid "Fancy Headline!"
+msgstr ""
+
+#: elements/ou-fancy-heading/ou-fancy-heading.php:48
+#: elements/ou-gallery/ou-gallery.php:168
+msgid "Animation Type"
+msgstr ""
+
+#: elements/ou-fancy-heading/ou-fancy-heading.php:52
+msgid "Gradient"
+msgstr ""
+
+#: elements/ou-fancy-heading/ou-fancy-heading.php:65
+msgid "Animation Speed"
+msgstr ""
+
+#: elements/ou-fancy-heading/ou-fancy-heading.php:78
+msgid "Primary Color"
+msgstr ""
+
+#: elements/ou-fancy-heading/ou-fancy-heading.php:88
+msgid "Secondary Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:13 includes/admin.php:225
+msgid "Fluent Form Styler"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:35
+msgid "Fluent Form"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:96
+msgid "Asterisk Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:109
+msgid "Info Circle"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:180
+#: elements/ou-fforms-styler/ou-fforms-styler.php:275
+msgid "Margin Bottom"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:247
+#: elements/ou-fforms-styler/ou-fforms-styler.php:186
+#: elements/ou-gf-styler/ou-gf-styler.php:294
+msgid "Checkbox & Radio"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:252
+#: elements/ou-gf-styler/ou-gf-styler.php:299
+msgid "Enable Smart UI"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:260
+#: elements/ou-icon-list/ou-icon-list-item.php:157
+msgid "Text Style"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:272
+#: elements/ou-fforms-styler/ou-fforms-styler.php:210
+msgid "Link Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:277
+msgid "Link Hover Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:283
+#: elements/ou-ff-styler/ou-ff-styler.php:931
+#: elements/ou-ff-styler/ou-ff-styler.php:974
+#: elements/ou-gf-styler/ou-gf-styler.php:319
+msgid "Text Font Size"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:289
+msgid "Checkbox/Radio"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:292
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 14px;\">Options would be available when you will enable the "
+"Smart UI feature.</div>"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:333
+msgid "Border Radius for Checkbox"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:349
+msgid "Background Size - Selected State"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:358
+msgid "Background Color - Selected State"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:373
+msgid "Checkbox/Radio Margin"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:380
+#: elements/ou-gf-styler/ou-gf-styler.php:381
+msgid "Label Spacing"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:387
+msgid "Checkable Grid Field"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:404
+msgid "Table Head Cell Padding"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:411
+msgid "Table Body Cell Padding"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:418
+msgid "Table Outer Border Width"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:423
+msgid "Table Outer Border Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:428
+msgid "Table Head Background"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:433
+msgid "Table Body Background"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:438
+msgid "Table Body Alt Background"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:443
+msgid "Table Body Alt Text Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:449
+msgid "Heading Typography"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:450
+msgid "Cell Typography"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:455
+msgid "Ratings Field"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:459
+msgid "Inactive Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:465
+#: elements/ou-ff-styler/ou-ff-styler.php:1189
+#: elements/ou-ff-styler/ou-ff-styler.php:1225
+#: elements/ou-ff-styler/ou-ff-styler.php:1246
+#: elements/ou-ff-styler/ou-ff-styler.php:1287
+#: elements/ou-fforms-styler/ou-fforms-styler.php:327
+msgid "Active Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:466
+msgid "On Mouseover you can see the preview"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:476
+msgid "Star Size"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:488
+msgid "Gap between stars"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:498
+msgid "Ratings Text"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:501
+msgid "Gap between star & text"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:511
+msgid "Vertical Align"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:589
+msgid "Repeater Field"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:592
+msgid "Spacing & Background"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:615
+msgid "Horizontal Gap between Fields"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:627
+msgid "Vertical Gap between Fields"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:637
+msgid "Wrapper Border"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:638
+msgid "Wrapper Box Shadow"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:640
+msgid "Input Field Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:661
+msgid "Input Field Border"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:684
+msgid "Input Text Typography"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:686
+msgid "Plus/Minus Circle"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:707
+msgid "Field Label Typography"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:708
+msgid "Column Label Typography"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:713
+#: elements/ou-fforms-styler/ou-fforms-styler.php:361
+#: elements/ou-gf-styler/ou-gf-styler.php:389
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:281
+msgid "File Upload Field"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:716
+msgid "Button Typography"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:717
+msgid "Button Border"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:718
+msgid "Button Hover Border"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:719
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1459
+msgid "Button Box Shadow"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:720
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1460
+msgid "Button Hover Box Shadow"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:722
+msgid "Button Style"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:756
+msgid "Section Break"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:798
+#: elements/ou-fforms-styler/ou-fforms-styler.php:497
+#: elements/ou-gf-styler/ou-gf-styler.php:420
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:343
+msgid "Section Title"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:799
+#: elements/ou-fforms-styler/ou-fforms-styler.php:498
+#: elements/ou-gf-styler/ou-gf-styler.php:421
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:344
+msgid "Section Description"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:804
+msgid "Net Promoter Score"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:810
+msgid "Sub Label Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:836
+#: elements/ou-icon-list/ou-icon-list-item.php:145
+#: elements/ou-icon-list/ou-icon-list.php:143
+#: elements/ou-ultimate-video/ou-ultimate-video.php:392
+msgid "Hover Border Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:842
+msgid "Hover Border Width"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:848
+msgid "Number Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:854
+msgid "Hover Number Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:860
+#: elements/ou-gf-styler/ou-gf-styler.php:361
+msgid "Checked Background Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:866
+msgid "Checked Number Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:880
+msgid "Payment Summary"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:889
+msgid "Outer Border Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:895
+msgid "Outer Border Width"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:902
+msgid "Table Head"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:906
+msgid "Table Head Background Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:926
+#: elements/ou-ff-styler/ou-ff-styler.php:969
+msgid "Text Font Weight"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:938
+msgid "Table Body"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:948
+msgid "Alternate Background Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:981
+msgid "Table Footer"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1000
+msgid "Total Text Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1006
+msgid "Total Text Font Weight"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1012
+msgid "Total Text Font Size"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1018
+msgid "Total Price Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1024
+msgid "Total Price Font Weight"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1030
+msgid "Total Price Font Size"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1041
+#: elements/ou-ff-styler/ou-ff-styler.php:1047
+msgid "Progress Bar"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1046
+msgid "Progress Indicator"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1047
+msgid "Steps"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1057
+msgid "Label Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1064
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:264
+msgid "Label Font Size"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1071
+msgid "Label Font Weight"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1078
+msgid "Progress Bar Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1085
+msgid "Progress Bar Active Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1092
+msgid "Progress Bar Height"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1099
+msgid "Overflow"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1103
+msgid "Visible"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1103
+msgid "Hidden"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1109
+msgid "Progress Bar Score Color"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1116
+msgid "Progress Bar Score Position Top"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1123
+msgid "Progress Bar Score Position Left"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1130
+msgid "Progress Bar Score Font Size"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1137
+msgid "Progress Bar Score Font Weight"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1146
+msgid "Square Box"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1182
+msgid "Border Width"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1199
+msgid "Horizontal Line"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1235
+msgid "Step Number"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1253
+#: elements/ou-ff-styler/ou-ff-styler.php:1294
+msgid "Font Size"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1260
+#: elements/ou-ff-styler/ou-ff-styler.php:1301
+msgid "Font Weight"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1267
+#: elements/ou-ff-styler/ou-ff-styler.php:1308
+msgid "Line Height"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1276
+msgid "Text or Label"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1333
+msgid "Hide Button"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1387
+#: elements/ou-ff-styler/ou-ff-styler.php:1442
+#: elements/ou-ff-styler/ou-ff-styler.php:1501
+#: elements/ou-fforms-styler/ou-fforms-styler.php:559
+#: elements/ou-fforms-styler/ou-fforms-styler.php:628
+#: elements/ou-hotspot/marker.php:290
+#: elements/ou-show-more-less/ou-show-more-less.php:243
+#: elements/ou-show-more-less/ou-show-more-less.php:367
+#: elements/ou-show-more-less/ou-show-more-less.php:437
+#: elements/ou-show-more-less/ou-show-more-less.php:592
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:225
+msgid "Hover Box Shadow"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1393
+msgid "Next Button"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1447
+#: elements/ou-fforms-styler/ou-fforms-styler.php:508
+msgid "Previous Button"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1507
+#: elements/ou-fforms-styler/ou-fforms-styler.php:669
+#: elements/ou-gf-styler/ou-gf-styler.php:535
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:411
+msgid "Validation Error"
+msgstr ""
+
+#: elements/ou-ff-styler/ou-ff-styler.php:1571
+#: elements/ou-fforms-styler/ou-fforms-styler.php:757
+#: elements/ou-gf-styler/ou-gf-styler.php:630
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:474
+msgid "Select a form"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:13 includes/admin.php:226
+msgid "Formidable Forms Styler"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:35
+msgid "Formidable Forms"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:46
+#: elements/ou-gf-styler/ou-gf-styler.php:47
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:45
+msgid "Show Title"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:58
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1278
+#: elements/ou-gf-styler/ou-gf-styler.php:60
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:57
+msgid "Show Description"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:70
+#: elements/ou-gf-styler/ou-gf-styler.php:73
+msgid "Enable Ajax"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:111
+#: elements/ou-gf-styler/ou-gf-styler.php:137
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:111
+msgid "Form Title"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:128
+#: elements/ou-gf-styler/ou-gf-styler.php:138
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:112
+msgid "Form Description"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:151
+#: elements/ou-gf-styler/ou-gf-styler.php:148
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:114
+msgid "Fields Label"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:152
+#: elements/ou-gf-styler/ou-gf-styler.php:155
+msgid "Sub Labels"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:234
+msgid "Colors & Spacing"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:312
+msgid "Star Rating Field"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:335
+msgid "Toggle Field"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:339
+msgid "Circle Color"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:345
+msgid "Turn Off Color"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:351
+msgid "Turn On Color"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:363
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 14px;\">CSS will not apply on Builder Editor. You will see "
+"the orginal output at frontend.</div>"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:364
+msgid "Caution"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:414
+msgid "Upload Text"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:434
+msgid "Bottom Info Text"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:467
+#: elements/ou-gf-styler/ou-gf-styler.php:419
+msgid "Section Field"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:471
+msgid "Seperator Color"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:476
+msgid "Seperator Width"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:568
+msgid "Submit/Next Button"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:570
+#: elements/ou-icon-list/ou-icon-list.php:50
+msgid "Alignment"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:633
+msgid "Top Error Box"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:634
+msgid "Show Error Message Box"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:671
+msgid "Show Field's Error Message"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:680
+msgid "Error Field's Label Color"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:686
+msgid "Error Field's Border Color"
+msgstr ""
+
+#: elements/ou-fforms-styler/ou-fforms-styler.php:692
+msgid "Margin Top(for Error Message)"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:13 includes/admin.php:248
+msgid "Gallery Slider"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:33
+msgid "Slider Images"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:36
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 13px;\">For WooCommerce product images, you will select the "
+"<strong>Custom Field</strong> option & enter <span style=\"color:#ff7171;"
+"\">_product_image_gallery</span> into the <strong>Gallery Field Name</"
+"strong> input field.</div>"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:43
+#: elements/ou-gallery/ou-gallery.php:47
+msgid "Gallery Source"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:46
+#: elements/ou-gallery/ou-gallery.php:51
+#: elements/ou-ultimate-image/ou-image.php:30
+msgid "Media Library"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:47
+#: elements/ou-gallery/ou-gallery.php:50
+msgid "Custom Field"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:65
+#: elements/ou-gallery/ou-gallery.php:68 elements/ou-hotspot/marker.php:68
+#: elements/ou-hotspot/ou-hotspot.php:46
+msgid "browse"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:78
+#: elements/ou-gallery/ou-gallery.php:80
+msgid "Images Source"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:128
+msgid "Image Field Name"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:150
+msgid "Description Field Name"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:161
+msgid "Button Text Field Name"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:172
+msgid "Button Link Field Name"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:183
+msgid "Add Alt Tags"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:189
+msgid "This option will work when you will enable the Auto Height option"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:194
+msgid "Image Size"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:202
+msgid "Image Fit"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:216
+msgid "Order"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:218
+msgid "Random"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:233
+msgid "Slideshow"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:237
+msgid "Carousel or Slideshow would be the better option for Ken Burns effect."
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:249
+msgid "Ken Burns"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:293
+msgid "Images Height"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:309
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 13px;\">Number of slides per column, for multirow layout. It "
+"is currently not compatible with loop mode (infiniteloop: true). This would "
+"be good option for carousel slide effect.</div>"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:459
+msgid "Gap Between Items"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:506
+msgid "Kenburns Config"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:532
+msgid "Speed Settings"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1018
+msgid "Thumbs Pagination"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1019
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.325; font-size: 13px;\">This option will work for slideshow slider type</"
+"div>"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1027
+msgid "Above"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1028
+msgid "Below"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1036
+msgid "Thumbnails Resolution"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1040
+msgid "Small"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1041
+msgid "Medium"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1042
+msgid "Large"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1043
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1935
+#: elements/ou-gallery/ou-gallery.php:542
+#: elements/ou-ultimate-image/ou-image.php:175
+msgid "Full"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1051
+#: elements/ou-gallery/ou-gallery.php:157
+#: elements/ou-ultimate-video/ou-ultimate-video.php:79
+msgid "Aspect Ratio"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1055
+#: elements/ou-ultimate-video/ou-ultimate-video.php:82
+msgid "1:1"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1056
+#: elements/ou-ultimate-video/ou-ultimate-video.php:84
+msgid "4:3"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1057
+#: elements/ou-ultimate-video/ou-ultimate-video.php:85
+msgid "16:9"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1058
+#: elements/ou-ultimate-video/ou-ultimate-video.php:86
+msgid "21:9"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1066
+msgid "Hide on Mobile Devices?"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1090
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 13px;\">Responsive effect will not work properly on Builder "
+"editor.</div>"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1095
+msgid "Desktop (Greater than 992px)"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1138
+msgid "Thumbnails Alignment"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1198
+msgid "Effect"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1203
+msgid "Initial Opacity"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1214
+msgid "Opacity for Active or Hover Thumbnail"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1238
+#: elements/ou-gallery/ou-gallery.php:301
+msgid "Scale (Initial State)"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1248
+msgid "Scale (Hover/Active State)"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1259
+msgid "Caption"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1264
+#: elements/ou-gallery/ou-gallery.php:224
+msgid "Show Caption"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1290
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:208
+#: elements/ou-icon-list/ou-icon-list-item.php:200
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:165
+msgid "Style"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1295
+msgid "Overlay Caption"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1310
+msgid "Overlay Position"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1314
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:189
+msgid "Center"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1316
+msgid "Custom"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1353
+msgid "Position Bottom"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1376
+msgid "Content Alignment"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1409
+msgid "Button Font & Color"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1458
+msgid "Button Borders"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1469
+msgid "Enable Lightbox Action"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1500
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.325; font-size: 13px;\">Click on the <span style=\"color:#ff7171;\">Apply "
+"Params</span> button to get the correct preview on Builder editor. Autoplay "
+"preview is disabled for Builder editor.</div>"
+msgstr ""
+
+#: elements/ou-gallery-slider/ou-gallery-slider.php:1532
+msgid "Enter Gallery Field Key."
+msgstr ""
+
+#: elements/ou-gallery/ou-gallery.php:12 includes/admin.php:249
+msgid "Ultimate Gallery"
+msgstr ""
+
+#: elements/ou-gallery/ou-gallery.php:40
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7;font-size: 13px; "
+"line-height: 1.325\">You will enter the <span style=\"color:#ff7171;"
+"\">_product_image_gallery</span> into the Gallery Field Name input field for "
+"WooCommerce product's gallery images.<br/><br/>Click on the <span style="
+"\"color:#ff7171;\">Apply Params</span> button to get the correct preview on "
+"Builder editor.</div>"
+msgstr ""
+
+#: elements/ou-gallery/ou-gallery.php:74
+msgid "Image IDs"
+msgstr ""
+
+#: elements/ou-gallery/ou-gallery.php:115
+msgid "Items Limit"
+msgstr ""
+
+#: elements/ou-gallery/ou-gallery.php:126
+msgid "Images Per Row"
+msgstr ""
+
+#: elements/ou-gallery/ou-gallery.php:146
+msgid "Thumbnail Resolution"
+msgstr ""
+
+#: elements/ou-gallery/ou-gallery.php:189
+msgid "Zoom Duration"
+msgstr ""
+
+#: elements/ou-gallery/ou-gallery.php:202
+msgid "Gap Between Images "
+msgstr ""
+
+#: elements/ou-gallery/ou-gallery.php:214
+msgid "Disable Scrolling"
+msgstr ""
+
+#: elements/ou-gallery/ou-gallery.php:234
+msgid "Caption Position"
+msgstr ""
+
+#: elements/ou-gallery/ou-gallery.php:244
+msgid "Show Caption On Hover"
+msgstr ""
+
+#: elements/ou-gallery/ou-gallery.php:250
+msgid "Caption Style"
+msgstr ""
+
+#: elements/ou-gallery/ou-gallery.php:268
+msgid "Caption Typography"
+msgstr ""
+
+#: elements/ou-gallery/ou-gallery.php:271
+msgid "Image Hover Effects"
+msgstr ""
+
+#: elements/ou-gallery/ou-gallery.php:283
+msgid "Rotate (Initial State)"
+msgstr ""
+
+#: elements/ou-gallery/ou-gallery.php:292
+msgid "Rotate (Hover State)"
+msgstr ""
+
+#: elements/ou-gallery/ou-gallery.php:311
+msgid "Scale (Hover State)"
+msgstr ""
+
+#: elements/ou-gallery/ou-gallery.php:331
+msgid "Enter Custom Gallery Field Key."
+msgstr ""
+
+#: elements/ou-gf-styler/ou-gf-styler.php:13 includes/admin.php:227
+msgid "Gravity Form Styler"
+msgstr ""
+
+#: elements/ou-gf-styler/ou-gf-styler.php:35
+msgid "Gravity Form"
+msgstr ""
+
+#: elements/ou-gf-styler/ou-gf-styler.php:85
+msgid "Tab Index"
+msgstr ""
+
+#: elements/ou-gf-styler/ou-gf-styler.php:139
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:140
+msgid "Fields Description"
+msgstr ""
+
+#: elements/ou-gf-styler/ou-gf-styler.php:149
+msgid "Hide Labels"
+msgstr ""
+
+#: elements/ou-gf-styler/ou-gf-styler.php:206
+msgid "Gap Between Two Horizontal Fields"
+msgstr ""
+
+#: elements/ou-gf-styler/ou-gf-styler.php:217
+msgid "Space Between Two Vertical Fields"
+msgstr ""
+
+#: elements/ou-gf-styler/ou-gf-styler.php:374
+msgid "Field Margin"
+msgstr ""
+
+#: elements/ou-gf-styler/ou-gf-styler.php:530
+msgid "Errors Message"
+msgstr ""
+
+#: elements/ou-gf-styler/ou-gf-styler.php:545
+msgid "Error Field Message"
+msgstr ""
+
+#: elements/ou-gf-styler/ou-gf-styler.php:556
+msgid "Validation Background Color"
+msgstr ""
+
+#: elements/ou-gf-styler/ou-gf-styler.php:562
+msgid "Validation Text Color"
+msgstr ""
+
+#: elements/ou-gf-styler/ou-gf-styler.php:567
+msgid "Validation Border Color"
+msgstr ""
+
+#: elements/ou-gf-styler/ou-gf-styler.php:572
+msgid "Error Field Border Color"
+msgstr ""
+
+#: elements/ou-gf-styler/ou-gf-styler.php:577
+msgid "Error Field Background Color"
+msgstr ""
+
+#: elements/ou-gf-styler/ou-gf-styler.php:583
+msgid "Error Field Label Color"
+msgstr ""
+
+#: elements/ou-gf-styler/ou-gf-styler.php:588
+msgid "Error Field Input Border Color"
+msgstr ""
+
+#: elements/ou-gf-styler/ou-gf-styler.php:594
+msgid "Error Field Input Border Width"
+msgstr ""
+
+#: elements/ou-gf-styler/ou-gf-styler.php:600
+msgid "Error Field Message Color"
+msgstr ""
+
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:12
+#: includes/admin.php:255
+msgid "Highlighted Heading"
+msgstr ""
+
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:34
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 14px;\">Click on <span style=\"color:#ff7171;\">Apply "
+"Params</span> button at below, if changes are not displaying properly on "
+"Builder editor.</div>"
+msgstr ""
+
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:49
+msgid "This text will be placed before the highlighted text."
+msgstr ""
+
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:54
+msgid "Highlighted Text"
+msgstr ""
+
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:56
+msgid "Highlighted"
+msgstr ""
+
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:71
+msgid "This text will be placed after the highlighted text."
+msgstr ""
+
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:73
+msgid "Shape"
+msgstr ""
+
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:81
+msgid "Curly"
+msgstr ""
+
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:82
+msgid "Diagonal"
+msgstr ""
+
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:83
+msgid "Double Underline"
+msgstr ""
+
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:84
+msgid "Double Underline Bottom"
+msgstr ""
+
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:85
+msgid "Strikethrough"
+msgstr ""
+
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:86
+msgid "Underline"
+msgstr ""
+
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:87
+msgid "Underline Zigzag"
+msgstr ""
+
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:88
+#: elements/ou-show-more-less/ou-show-more-less.php:613
+msgid "Underline-Left to Right"
+msgstr ""
+
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:89
+#: elements/ou-show-more-less/ou-show-more-less.php:614
+msgid "Underline-Right to Left"
+msgstr ""
+
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:90
+#: elements/ou-show-more-less/ou-show-more-less.php:615
+msgid "Underline-Outwards"
+msgstr ""
+
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:91
+#: elements/ou-show-more-less/ou-show-more-less.php:616
+msgid "Underline-Inwards"
+msgstr ""
+
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:100
+#: elements/ou-ultimate-video/ou-ultimate-video.php:128
+msgid "Loop"
+msgstr ""
+
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:113
+msgid "Start Animation After Scroll"
+msgstr ""
+
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:121
+msgid ""
+"Enable it when you are adding the Animated Heading below the fold. Preview "
+"will not show on builder editor."
+msgstr ""
+
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:127
+#: elements/ou-hotspot/marker.php:406
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:119
+#: elements/ou-tooltip/ou-tooltip.php:117
+msgid "Offset"
+msgstr ""
+
+#: elements/ou-highlighted-heading/ou-highlighted-heading.php:140
+msgid "Appearance"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:10
+msgid "Add Marker"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:42
+msgid "Marker Config"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:46
+msgid "Marker Type"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:48
+#: elements/ou-image-panels/ou-panel-item.php:54
+#: elements/ou-ultimate-image/ou-image.php:46
+#: elements/ou-ultimate-video/ou-ultimate-video.php:308
+msgid "Image"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:60
+#: elements/ou-icon-list/ou-icon-list-item.php:53
+msgid ""
+"You will hit on Enter button to see the text on the Builder Editor. Enter "
+"<span style=\"color:#ff7171;\">&amp;apos;</span> for single quote."
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:73 elements/ou-hotspot/ou-hotspot.php:51
+#: elements/ou-image-panels/ou-panel-item.php:42
+msgid "Upload Image"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:112
+msgid "Click on Apply Params button and get the icon on editor."
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:114
+msgid "Icon Style"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:135
+msgid "Text Font"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:164
+msgid "Marker Style"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:190
+msgid "Ripple Effect"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:198
+msgid "Animation Duration"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:203
+msgid "Disable Ripple Effect on Hover"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:294 elements/ou-tooltip/ou-tooltip.php:34
+msgid "Popup Config"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:296 elements/ou-hotspot/marker.php:438
+msgid "Edit Popup Content on Builder Editor"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:304
+msgid "Trigger"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:306 elements/ou-tooltip/ou-tooltip.php:46
+msgid "Hover"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:306 elements/ou-tooltip/ou-tooltip.php:46
+msgid "Click"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:312 elements/ou-tooltip/ou-tooltip.php:84
+msgid "Disable Arrow"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:331
+msgid "Placement"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:335 elements/ou-tooltip/ou-tooltip.php:56
+msgid "Top Start"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:336 elements/ou-tooltip/ou-tooltip.php:57
+msgid "Top End"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:338 elements/ou-tooltip/ou-tooltip.php:59
+msgid "Right Start"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:339 elements/ou-tooltip/ou-tooltip.php:60
+msgid "Right End"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:341 elements/ou-tooltip/ou-tooltip.php:62
+msgid "Bottom Start"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:342 elements/ou-tooltip/ou-tooltip.php:63
+msgid "Bottom End"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:344 elements/ou-tooltip/ou-tooltip.php:65
+msgid "Left Start"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:345 elements/ou-tooltip/ou-tooltip.php:66
+msgid "Left End"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:346 elements/ou-tooltip/ou-tooltip.php:67
+msgid "Auto"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:347 elements/ou-tooltip/ou-tooltip.php:68
+msgid "Auto Start"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:348 elements/ou-tooltip/ou-tooltip.php:69
+msgid "Auto End"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:353 elements/ou-tooltip/ou-tooltip.php:142
+msgid "Width & Color"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:378
+msgid "Content Layout"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:397 elements/ou-tooltip/ou-tooltip.php:108
+msgid "Shift Away"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:398 elements/ou-tooltip/ou-tooltip.php:109
+msgid "Shift Toward"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:399 elements/ou-tooltip/ou-tooltip.php:110
+msgid "Perspective"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:412 elements/ou-tooltip/ou-tooltip.php:123
+msgid "Distance"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:418 elements/ou-tooltip/ou-tooltip.php:129
+msgid "Delay Start"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:424 elements/ou-tooltip/ou-tooltip.php:135
+msgid "Delay End"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:430 elements/ou-tooltip/ou-tooltip.php:76
+msgid "Z-Index"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:444 elements/ou-hotspot/ou-hotspot.php:81
+msgid "Instruction"
+msgstr ""
+
+#: elements/ou-hotspot/marker.php:446
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 14px;\">\n"
+"\t\t\t\t<ul>\n"
+"\t\t\t\t\t<li style=\"margin: 0 0 6px;\">Select \"Yes\" option and click on "
+"Apply Params button. Therefore tooltip/popup animation will be disabled. It "
+"would be good practice when you will edit the tooltip/popup content.</li>\n"
+"\t\t\t\t\t<li>After finishing the work you will select \"No\" option and "
+"click on Apply Params button. Live preview for tooltip/popup effect of this "
+"hotspot button will show on builder editor.</li>\n"
+"\t\t\t\t</ul>\n"
+"\t\t\t</div>"
+msgstr ""
+
+#: elements/ou-hotspot/ou-hotspot.php:10 includes/admin.php:245
+msgid "Hotspot"
+msgstr ""
+
+#: elements/ou-hotspot/ou-hotspot.php:52
+msgid "Click on Apply Params button and image will show on builder editor."
+msgstr ""
+
+#: elements/ou-hotspot/ou-hotspot.php:70
+#: elements/ou-ultimate-image/ou-image.php:86
+msgid "Alt Text"
+msgstr ""
+
+#: elements/ou-hotspot/ou-hotspot.php:77
+msgid "Custom CSS Class(for image)"
+msgstr ""
+
+#: elements/ou-hotspot/ou-hotspot.php:83
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 14px;\">\n"
+"\t\t\t\t<ul>\n"
+"\t\t\t\t\t<li style=\"margin: 0 0 6px;\">At first you will upload an image.</"
+"li>\n"
+"\t\t\t\t\t<li style=\"margin: 0 0 6px;\">Click on <strong>Add Marker</"
+"strong> button under <strong>Available Elements</strong> section and add it "
+"inside the Hotspot element.</li>\n"
+"\t\t\t\t\t<li style=\"margin: 0 0 6px;\">Click on <strong>Marker Config</"
+"strong> tab under <strong>Add Marker</strong> element and setup the icon/"
+"imges/text for hotspot button.</li>\n"
+"\t\t\t\t\t<li style=\"margin: 0 0 6px;\">Adjust the hotspot position under "
+"<strong>Add Marker -> Marker Config -> Position</strong> feature.</li>\n"
+"\t\t\t\t\t<li style=\"margin: 0 0 6px;\">You will setup other settings for "
+"color, fonts, size etc properties.</li>\n"
+"\t\t\t\t\t<li style=\"margin: 0 0 6px;\">For popup content you will add the "
+"component(s) inside the <strong>Add Marker</strong> element.</li>\n"
+"\t\t\t\t\t<li style=\"margin: 0 0 6px;\">Popup animation settings will "
+"control under <strong>Add Marker -> Popup Config</strong> section</li>\n"
+"\t\t\t\t\t<li style=\"margin: 0 0 6px;\">Follow the same procedure for more "
+"hotspots.</li>\n"
+"\t\t\t\t\t<li style=\"margin: 0 0 6px;\">Use Builder's Breakpoint settings "
+"and adjust the responsive design.</li>\n"
+"\t\t\t\t</ul>\n"
+"\t\t\t</div>"
+msgstr ""
+
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:10
+#: includes/admin.php:220
+msgid "Hover Animated Button"
+msgstr ""
+
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:34
+msgid "Button Text"
+msgstr ""
+
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:36
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:298
+msgid "Button"
+msgstr ""
+
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:41
+msgid ""
+"Enter <span style=\\\"color:#ff7171;\\\">&amp;apos;</span> for single quote."
+msgstr ""
+
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:66
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:69
+#: elements/ou-ultimate-image/ou-ultimate-image.php:97
+#: elements/ou-ultimate-image/ou-ultimate-image.php:100
+msgid "Follow"
+msgstr ""
+
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:69
+#: elements/ou-ultimate-image/ou-ultimate-image.php:100
+msgid "No Follow"
+msgstr ""
+
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:139
+msgid "Icon Position"
+msgstr ""
+
+#: elements/ou-hover-animated-button/ou-hover-animated-button.php:212
+msgid "Text Spacing"
+msgstr ""
+
+#: elements/ou-icon-list/ou-icon-list-item.php:9
+msgid "Add List Item"
+msgstr ""
+
+#: elements/ou-icon-list/ou-icon-list-item.php:58
+msgid "Text Wrap By"
+msgstr ""
+
+#: elements/ou-icon-list/ou-icon-list-item.php:67
+msgid "div"
+msgstr ""
+
+#: elements/ou-icon-list/ou-icon-list-item.php:68
+msgid "p"
+msgstr ""
+
+#: elements/ou-icon-list/ou-icon-list-item.php:69
+msgid "span"
+msgstr ""
+
+#: elements/ou-icon-list/ou-icon-list-item.php:128
+msgid "Wrapper Style"
+msgstr ""
+
+#: elements/ou-icon-list/ou-icon-list-item.php:248
+#: elements/ou-icon-list/ou-icon-list.php:243
+msgid "Using it, you can vertically center align the icon."
+msgstr ""
+
+#: elements/ou-icon-list/ou-icon-list.php:9 includes/admin.php:236
+msgid "Icon List"
+msgstr ""
+
+#: elements/ou-icon-list/ou-icon-list.php:60
+msgid "Inner Content Alignment"
+msgstr ""
+
+#: elements/ou-icon-list/ou-icon-list.php:72
+msgid "Outer Wrapper Width(UL Tag)"
+msgstr ""
+
+#: elements/ou-icon-list/ou-icon-list.php:81
+msgid "Hover Transition Duration"
+msgstr ""
+
+#: elements/ou-icon-list/ou-icon-list.php:96
+msgid "LI Wrapper Style"
+msgstr ""
+
+#: elements/ou-icon-list/ou-icon-list.php:134
+#: elements/ou-icon-list/ou-icon-list.php:140
+#: elements/ou-icon-list/ou-icon-list.php:146
+msgid "This color will apply to all list items."
+msgstr ""
+
+#: elements/ou-icon-list/ou-icon-list.php:156
+msgid "Overall Texts Style"
+msgstr ""
+
+#: elements/ou-icon-list/ou-icon-list.php:198
+msgid "Overall Icons Style"
+msgstr ""
+
+#: elements/ou-image-panels/ou-image-panels.php:10 includes/admin.php:246
+msgid "Image Accordion"
+msgstr ""
+
+#: elements/ou-image-panels/ou-panel-item.php:9
+#: elements/ou-ultimate-image/ou-image.php:8
+msgid "Add Image"
+msgstr ""
+
+#: elements/ou-image-panels/ou-panel-item.php:91
+msgid "Call To Action"
+msgstr ""
+
+#: elements/ou-image-panels/ou-panel-item.php:95
+msgid "Link Type"
+msgstr ""
+
+#: elements/ou-image-panels/ou-panel-item.php:99
+msgid "Image Title"
+msgstr ""
+
+#: elements/ou-image-panels/ou-panel-item.php:100
+msgid "Panel"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:11
+msgid "Show More/Less"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:29
+#: elements/ou-show-more-less/ou-show-more-less.php:602
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 14px;\">Click on <span style=\"color:#ff7171;\">Apply "
+"Params</span> button at below, if content is not displaying properly on "
+"Builder editor.</div>"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:52
+msgid "More Text"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:54
+msgid ""
+"Enter the text for more link. Hit on Enter button to see the text on the "
+"Builder Editor. Enter <span style=\\\"color:#ff7171;\\\">&amp;apos;</span> "
+"for single quote."
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:58
+msgid "Hide More Text"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:62
+msgid ""
+"This option allows you to hide more link text only, when you will just show "
+"the icon."
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:73
+msgid "Less Text"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:75
+msgid ""
+"Enter the text for less link. Enter <span style=\\\"color:#ff7171;\\\">&amp;"
+"apos;</span> for single quote."
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:78
+msgid "Hide Less Text"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:82
+msgid ""
+"This option allows you to hide less link text only, when you will just show "
+"the icon."
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:88
+msgid "Hide Less Link Button"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:93
+msgid ""
+"This option allows you to hide less link, when the text block has been "
+"expanded."
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:99
+msgid "Height for collapsed state (in pixels)"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:111
+msgid "Slide Transition Speed"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:112
+msgid "Unit in miliseconds."
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:126
+msgid "Link Alignment"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:137
+msgid "Fade Effect"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:140
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 14px;\">Click on <span style=\"color:#ff7171;\">Apply "
+"Params</span> button at below, if changes are not showing properly on "
+"Builder editor.</div>"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:146
+msgid "Disable Fade Effect"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:155
+msgid "Gradient Background Color 1"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:164
+msgid "Gradient Background Color 2"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:186
+msgid "More Link Style"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:188
+#: elements/ou-show-more-less/ou-show-more-less.php:385
+msgid "Width / Spacing"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:208
+#: elements/ou-show-more-less/ou-show-more-less.php:402
+#: elements/ou-show-more-less/ou-show-more-less.php:545
+msgid "Link Width"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:218
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 14px;\">Note: Initial text color will set from Typography "
+"section.</div>"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:250
+msgid "More Link Icon"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:334
+#: elements/ou-show-more-less/ou-show-more-less.php:535
+msgid "Icon Wrapper Width"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:374
+msgid "Less Link Style"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:412
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.325; font-size: 13px;\"><span style=\"color:#fff;font-weight:bold\">NOTE:</"
+"span> Initial text color will be set from Typography section.</div>"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:444
+msgid "Less Link Icon"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:599
+msgid "Underline Animation"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:612
+msgid "Select Underline Type"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:702
+msgid "Show More"
+msgstr ""
+
+#: elements/ou-show-more-less/ou-show-more-less.php:710
+msgid "Show Less"
+msgstr ""
+
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:12 includes/admin.php:238
+msgid "Smooth Scrolling"
+msgstr ""
+
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:30
+msgid ""
+"Click on <span style=\"color:#ff7171;\">Apply Params</span> buttons, if "
+"content is not showing properly on builder editor."
+msgstr ""
+
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:38
+msgid "Back To Top"
+msgstr ""
+
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:38
+msgid "Jump To Section"
+msgstr ""
+
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:42
+msgid "Hide Back To Top Button for Builder Editor"
+msgstr ""
+
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:51
+msgid "Enter Target Section Selector"
+msgstr ""
+
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:54
+msgid ""
+"Enter HTML TAG or CSS Classname or ID. eg. html,body or .ct_div_block or #-"
+"section-12-112"
+msgstr ""
+
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:88
+msgid "static"
+msgstr ""
+
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:88
+msgid "relative"
+msgstr ""
+
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:88
+msgid "absolute"
+msgstr ""
+
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:88
+msgid "fixed"
+msgstr ""
+
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:129
+msgid "Scroll Speed"
+msgstr ""
+
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:140
+msgid "Linear"
+msgstr ""
+
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:140
+msgid "Swing"
+msgstr ""
+
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:146
+msgid "Visible after scrolling"
+msgstr ""
+
+#: elements/ou-smoothscrolling/ou-smoothscrolling.php:156
+msgid "Transition Duration for Toggle Effect"
+msgstr ""
+
+#: elements/ou-tooltip/ou-tooltip.php:8 includes/admin.php:239
+msgid "Tooltip"
+msgstr ""
+
+#: elements/ou-tooltip/ou-tooltip.php:38
+msgid "Enter Trigger Selector"
+msgstr ""
+
+#: elements/ou-tooltip/ou-tooltip.php:40
+msgid "Enter CSS Classname or ID. eg. .ct_div_block or #-section-12-112"
+msgstr ""
+
+#: elements/ou-tooltip/ou-tooltip.php:44
+msgid "Show On"
+msgstr ""
+
+#: elements/ou-tooltip/ou-tooltip.php:52
+msgid "Popup Placement"
+msgstr ""
+
+#: elements/ou-tooltip/ou-tooltip.php:81
+msgid "Arrow"
+msgstr ""
+
+#: elements/ou-tooltip/ou-tooltip.php:140
+msgid "Popup Style"
+msgstr ""
+
+#: elements/ou-tooltip/ou-tooltip.php:169
+msgid "Inner Content"
+msgstr ""
+
+#: elements/ou-tooltip/ou-tooltip.php:181
+msgid "Visibility on Builder Editor"
+msgstr ""
+
+#: elements/ou-ultimate-image/ou-image-caption.php:7
+msgid "Caption Wrapper"
+msgstr ""
+
+#: elements/ou-ultimate-image/ou-image.php:29
+#: elements/ou-ultimate-image/ou-ultimate-image.php:80
+msgid "Image URL"
+msgstr ""
+
+#: elements/ou-ultimate-image/ou-image.php:51
+msgid "ID"
+msgstr ""
+
+#: elements/ou-ultimate-image/ou-ultimate-image.php:9 includes/admin.php:247
+msgid "Image Lightbox"
+msgstr ""
+
+#: elements/ou-ultimate-image/ou-ultimate-image.php:44
+msgid "Image Link Type"
+msgstr ""
+
+#: elements/ou-ultimate-image/ou-ultimate-image.php:45
+msgid "Lightbox preview is disabled for Builder editor."
+msgstr ""
+
+#: elements/ou-ultimate-image/ou-ultimate-image.php:51
+msgid "Photo File"
+msgstr ""
+
+#: elements/ou-ultimate-image/ou-ultimate-image.php:55
+msgid "Lightbox preview is disabled for builder editor"
+msgstr ""
+
+#: elements/ou-ultimate-image/ou-ultimate-image.php:107
+msgid "Animation Effect for Lightbox Image"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:11 includes/admin.php:240
+msgid "Ultimate Video"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:32
+#: elements/ou-ultimate-video/ou-ultimate-video.php:56
+msgid "Video URL"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:39
+msgid "YouTube"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:40
+msgid "Vimeo"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:41
+msgid "Dailymotion"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:42
+msgid "External Link"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:60
+msgid "Start Time"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:64
+msgid "Specify a start time"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:69
+msgid "End Time"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:73
+msgid "Specify a end time"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:83
+msgid "3:2"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:94
+msgid "Aria Label(for Accessibility)"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:100
+msgid "Video Options"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:116
+msgid "Mute"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:141
+msgid "Player Controls"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:150
+msgid "Show or Hide the Player Controls, such as Play/Pause, Volume, etc."
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:155
+msgid "Suggested Videos"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:158
+msgid "Current Video Channel"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:159
+msgid "Any Video"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:168
+msgid "Modest Branding"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:177
+msgid ""
+"This option lets you use a YouTube player that does not show a YouTube logo. "
+"Note that a small YouTube text label will still display in the upper-right "
+"corner of a paused video when the user's mouse pointer hovers over the "
+"player."
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:182
+msgid "Privacy Mode"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:191
+msgid ""
+"When you turn on privacy mode, YouTube won't store information about "
+"visitors on your website unless they play the video."
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:196
+msgid "Intro Title"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:209
+msgid "Intro Portrait"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:222
+msgid "Intro Byline"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:235
+msgid "Show Info"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:248
+msgid "Logo"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:261
+msgid "Controls Color"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:277
+msgid "Poster"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:284
+msgid "Video Image"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:288
+msgid "Add Custom Image"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:315
+msgid "Display Custom Play Icon"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:341
+msgid "Call to Action Type"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:343
+msgid "Custom Button"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:349
+msgid "Play Icon Style"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:390
+msgid "Play Icon Border"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:398
+msgid "Lightbox Style"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:413
+msgid "Close Button"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:423
+msgid "Close Button Hover Color"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:443
+msgid "Button Wrapper Width & Height"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:454
+msgid "Button Size"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:464
+msgid "Button Position Top"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:475
+msgid "Button Position Right"
+msgstr ""
+
+#: elements/ou-ultimate-video/ou-ultimate-video.php:615
+msgid "Play Video"
+msgstr ""
+
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:12 includes/admin.php:228
+msgid "WPForms Styler"
+msgstr ""
+
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:34
+msgid "WPForms"
+msgstr ""
+
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:118
+msgid "Sub Label"
+msgstr ""
+
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:123
+msgid "Sub Label Font Size"
+msgstr ""
+
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:128
+msgid "Sub Label Font Weight"
+msgstr ""
+
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:133
+msgid "Sub Label Text Transform"
+msgstr ""
+
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:175
+msgid "Vertical Gap Between Two Fields"
+msgstr ""
+
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:245
+msgid "Checkbox & Radio Fields"
+msgstr ""
+
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:249
+msgid "Radio/Checkbox Field Size"
+msgstr ""
+
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:314
+msgid "Section Divider"
+msgstr ""
+
+#: elements/ou-wpforms-styler/ou-wpforms-styler.php:538
+msgid "You have not added any WPForms yet."
+msgstr ""
+
+#: includes/admin.php:75 includes/admin.php:175 includes/helpers.php:127
+msgid "Oxy Ultimate"
+msgstr ""
+
+#: includes/admin.php:92
+msgid "License Settings"
+msgstr ""
+
+#: includes/admin.php:99
+msgid "License Key"
+msgstr ""
+
+#: includes/admin.php:117
+msgid "The license key is used for automatic upgrades and support."
+msgstr ""
+
+#: includes/admin.php:139
+msgid "Activate"
+msgstr ""
+
+#: includes/admin.php:142
+msgid "Deactivate"
+msgstr ""
+
+#: includes/admin.php:145
+msgid "Reactivate"
+msgstr ""
+
+#: includes/admin.php:150
+msgid ""
+"Invalid or Expired Key : Please make sure you have entered the correct value "
+"and that your key is not expired."
+msgstr ""
+
+#: includes/admin.php:168
+msgid "Components"
+msgstr ""
+
+#: includes/admin.php:169
+msgid "Design Sets"
+msgstr ""
+
+#: includes/admin.php:170
+msgid "License"
+msgstr ""
+
+#: includes/admin.php:185
+msgid "Site Key"
+msgstr ""
+
+#: includes/admin.php:223
+msgid "Comment Form"
+msgstr ""
+
+#: includes/admin.php:237
+msgid "Show More / Less"
+msgstr ""
+
+#: includes/admin.php:266
+msgid "Components Settings"
+msgstr ""
+
+#: includes/admin.php:290
+msgid "Selected components are deactivated successfully."
+msgstr ""
+
+#: includes/admin.php:347
+msgid "Settings"
+msgstr ""
+
+#: includes/admin.php:357
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: includes/admin.php:359
+msgid "Changelog"
+msgstr ""
+
+#: includes/helpers.php:133
+msgid "Images"
+msgstr ""
+
+#: includes/helpers.php:138
+msgid "Buttons"
+msgstr ""
+
+#: includes/helpers.php:148
+msgid "Interactive"
+msgstr ""
+
+#: includes/helpers.php:153
+msgid "Form"
+msgstr ""
+
+#: includes/updater.php:155
+msgid "An Unexpected HTTP Error occurred during the API request"
+msgstr ""
+
+#: includes/updater.php:160 includes/updater.php:404
+msgid "An unknown error occurred"
+msgstr ""
+
+#: includes/updater.php:207
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>. Your license key "
+"is expired. <a href=\"https://oxyultimate.com/contact/\">Contact here</a> to "
+"renew the license key."
+msgstr ""
+
+#: includes/updater.php:216
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>. Activate your "
+"license key to receive the automatic updates and support. Need a license "
+"key? <a href=\"https://oxyultimate.com\">Purchase one now</a>."
+msgstr ""
+
+#: includes/updater.php:225
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox open-plugin-details-modal\" href=\"%2$s\">View version %3$s "
+"details</a> or <a href=\"%4$s\" class=\"update-link\">update now</a>."
+msgstr ""
+
+#: includes/updater.php:259
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: includes/updater.php:259
+msgid "Error"
+msgstr ""
+
+#: includes/updater.php:281
+msgid "Your license key is deactivated successfully."
+msgstr ""
+
+#: includes/updater.php:297
+msgid "You entered an invalid license key."
+msgstr ""
+
+#: includes/updater.php:298
+msgid "This key is already activated. Try a new license key."
+msgstr ""
+
+#: includes/updater.php:299
+msgid "This key is expired. Renew or purchase a new license key."
+msgstr ""
+
+#: includes/updater.php:345
+msgid "You entered an invalid license key or did not renew it."
+msgstr ""
+
+#: includes/updater.php:398
+msgid "<p>An Unexpected HTTP Error occurred during the API request.</p>"
+msgstr ""
+
+#: oxy-ultimate.php:31
+msgid "Sorry, you are not allowed to access this page directly."
+msgstr ""
+
+#: oxy-ultimate.php:72
+msgid ""
+"Sorry, you can't use the Oxy Ultimate addon unless the Oxygen Builder Plugin "
+"is active."
+msgstr ""

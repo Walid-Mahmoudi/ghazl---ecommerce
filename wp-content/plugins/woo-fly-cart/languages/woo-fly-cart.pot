@@ -1,0 +1,762 @@
+# Copyright (C) 2024 WPClever
+# This file is distributed under the same license as the WPC Fly Cart for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Fly Cart for WooCommerce 5.6.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-fly-cart\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-19T04:19:36+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: woo-fly-cart\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Fly Cart for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "WPC Fly Cart is an interactive mini cart for WooCommerce. It allows users to update product quantities or remove products without reloading the page."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: wpc-fly-cart.php:235
+#: wpc-fly-cart.php:1030
+msgid "Do you want to empty the cart?"
+msgstr ""
+
+#: wpc-fly-cart.php:236
+#: wpc-fly-cart.php:1006
+msgid "Do you want to remove this item?"
+msgstr ""
+
+#: wpc-fly-cart.php:237
+#: wpc-fly-cart.php:1012
+msgid "Undo?"
+msgstr ""
+
+#: wpc-fly-cart.php:238
+#: wpc-fly-cart.php:1018
+msgid "%s was removed."
+msgstr ""
+
+#: wpc-fly-cart.php:289
+#: wpc-fly-cart.php:352
+msgid "Settings"
+msgstr ""
+
+#: wpc-fly-cart.php:290
+#: wpc-fly-cart.php:358
+msgid "Premium Version"
+msgstr ""
+
+#: wpc-fly-cart.php:306
+msgid "Community support"
+msgstr ""
+
+#: wpc-fly-cart.php:324
+#: wpc-fly-cart.php:334
+msgid "WPC Fly Cart"
+msgstr ""
+
+#: wpc-fly-cart.php:324
+msgid "Fly Cart"
+msgstr ""
+
+#: wpc-fly-cart.php:334
+msgid "Premium"
+msgstr ""
+
+#. translators: stars
+#: wpc-fly-cart.php:337
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: wpc-fly-cart.php:339
+msgid "Reviews"
+msgstr ""
+
+#: wpc-fly-cart.php:340
+msgid "Changelog"
+msgstr ""
+
+#: wpc-fly-cart.php:341
+msgid "Discussion"
+msgstr ""
+
+#: wpc-fly-cart.php:346
+msgid "Settings updated."
+msgstr ""
+
+#: wpc-fly-cart.php:355
+#: wpc-fly-cart.php:980
+msgid "Localization"
+msgstr ""
+
+#: wpc-fly-cart.php:361
+msgid "Essential Kit"
+msgstr ""
+
+#: wpc-fly-cart.php:411
+msgid "General"
+msgstr ""
+
+#: wpc-fly-cart.php:412
+msgid "General settings for the fly cart."
+msgstr ""
+
+#: wpc-fly-cart.php:415
+msgid "Open on AJAX add to cart"
+msgstr ""
+
+#: wpc-fly-cart.php:418
+#: wpc-fly-cart.php:428
+#: wpc-fly-cart.php:438
+#: wpc-fly-cart.php:457
+#: wpc-fly-cart.php:479
+#: wpc-fly-cart.php:688
+#: wpc-fly-cart.php:699
+#: wpc-fly-cart.php:765
+#: wpc-fly-cart.php:784
+#: wpc-fly-cart.php:820
+#: wpc-fly-cart.php:830
+#: wpc-fly-cart.php:840
+#: wpc-fly-cart.php:874
+#: wpc-fly-cart.php:910
+msgid "Yes"
+msgstr ""
+
+#: wpc-fly-cart.php:419
+#: wpc-fly-cart.php:429
+#: wpc-fly-cart.php:439
+#: wpc-fly-cart.php:458
+#: wpc-fly-cart.php:480
+#: wpc-fly-cart.php:543
+#: wpc-fly-cart.php:689
+#: wpc-fly-cart.php:700
+#: wpc-fly-cart.php:766
+#: wpc-fly-cart.php:785
+#: wpc-fly-cart.php:821
+#: wpc-fly-cart.php:831
+#: wpc-fly-cart.php:841
+#: wpc-fly-cart.php:875
+#: wpc-fly-cart.php:911
+msgid "No"
+msgstr ""
+
+#: wpc-fly-cart.php:421
+msgid "The fly cart will be opened immediately after whenever click to AJAX Add to cart buttons? See %s \"Add to cart behaviour\" setting %s"
+msgstr ""
+
+#: wpc-fly-cart.php:425
+msgid "Open on normal add to cart"
+msgstr ""
+
+#: wpc-fly-cart.php:431
+msgid "The fly cart will be opened immediately after whenever click to normal Add to cart buttons (AJAX is not enable) or Add to cart button in single product page?"
+msgstr ""
+
+#: wpc-fly-cart.php:435
+msgid "Reverse items"
+msgstr ""
+
+#: wpc-fly-cart.php:444
+msgid "Overlay layer"
+msgstr ""
+
+#: wpc-fly-cart.php:447
+#: wpc-fly-cart.php:530
+#: wpc-fly-cart.php:551
+#: wpc-fly-cart.php:572
+#: wpc-fly-cart.php:582
+#: wpc-fly-cart.php:592
+#: wpc-fly-cart.php:602
+#: wpc-fly-cart.php:611
+#: wpc-fly-cart.php:620
+#: wpc-fly-cart.php:630
+#: wpc-fly-cart.php:639
+#: wpc-fly-cart.php:649
+#: wpc-fly-cart.php:659
+#: wpc-fly-cart.php:668
+#: wpc-fly-cart.php:774
+#: wpc-fly-cart.php:794
+#: wpc-fly-cart.php:803
+msgid "Show"
+msgstr ""
+
+#: wpc-fly-cart.php:448
+#: wpc-fly-cart.php:531
+#: wpc-fly-cart.php:552
+#: wpc-fly-cart.php:561
+#: wpc-fly-cart.php:573
+#: wpc-fly-cart.php:583
+#: wpc-fly-cart.php:593
+#: wpc-fly-cart.php:603
+#: wpc-fly-cart.php:612
+#: wpc-fly-cart.php:621
+#: wpc-fly-cart.php:631
+#: wpc-fly-cart.php:640
+#: wpc-fly-cart.php:650
+#: wpc-fly-cart.php:660
+#: wpc-fly-cart.php:669
+#: wpc-fly-cart.php:680
+#: wpc-fly-cart.php:775
+#: wpc-fly-cart.php:795
+#: wpc-fly-cart.php:804
+msgid "Hide"
+msgstr ""
+
+#: wpc-fly-cart.php:450
+msgid "If you hide the overlay layer, the buyer still can work on your site when the fly cart is opening."
+msgstr ""
+
+#: wpc-fly-cart.php:454
+msgid "Use perfect-scrollbar"
+msgstr ""
+
+#: wpc-fly-cart.php:460
+msgid "Read more about %s"
+msgstr ""
+
+#: wpc-fly-cart.php:464
+#: wpc-fly-cart.php:880
+msgid "Position"
+msgstr ""
+
+#: wpc-fly-cart.php:467
+msgid "Right"
+msgstr ""
+
+#: wpc-fly-cart.php:468
+msgid "Left"
+msgstr ""
+
+#: wpc-fly-cart.php:469
+msgid "Top"
+msgstr ""
+
+#: wpc-fly-cart.php:470
+msgid "Bottom"
+msgstr ""
+
+#: wpc-fly-cart.php:471
+msgid "Center"
+msgstr ""
+
+#: wpc-fly-cart.php:476
+msgid "Effect"
+msgstr ""
+
+#: wpc-fly-cart.php:482
+msgid "Enable/disable slide effect."
+msgstr ""
+
+#: wpc-fly-cart.php:486
+msgid "Style"
+msgstr ""
+
+#: wpc-fly-cart.php:490
+msgid "Color background"
+msgstr ""
+
+#: wpc-fly-cart.php:491
+msgid "White background"
+msgstr ""
+
+#: wpc-fly-cart.php:492
+msgid "Color background, no thumbnail"
+msgstr ""
+
+#: wpc-fly-cart.php:493
+msgid "White background, no thumbnail"
+msgstr ""
+
+#: wpc-fly-cart.php:494
+#: wpc-fly-cart.php:515
+msgid "Background image"
+msgstr ""
+
+#: wpc-fly-cart.php:508
+msgid "Color"
+msgstr ""
+
+#: wpc-fly-cart.php:511
+msgid "Background or text color of selected style, default %s"
+msgstr ""
+
+#: wpc-fly-cart.php:522
+msgid "Upload image"
+msgstr ""
+
+#: wpc-fly-cart.php:527
+msgid "Close button"
+msgstr ""
+
+#: wpc-fly-cart.php:533
+msgid "Show/hide the close button."
+msgstr ""
+
+#: wpc-fly-cart.php:537
+msgid "Link to individual product"
+msgstr ""
+
+#: wpc-fly-cart.php:540
+msgid "Yes, open in the same tab"
+msgstr ""
+
+#: wpc-fly-cart.php:541
+msgid "Yes, open in the new tab"
+msgstr ""
+
+#: wpc-fly-cart.php:542
+msgid "Yes, open quick view popup"
+msgstr ""
+
+#: wpc-fly-cart.php:548
+msgid "Item data"
+msgstr ""
+
+#: wpc-fly-cart.php:554
+msgid "Show/hide the item data under title."
+msgstr ""
+
+#: wpc-fly-cart.php:558
+msgid "Item price"
+msgstr ""
+
+#: wpc-fly-cart.php:562
+msgid "Price"
+msgstr ""
+
+#: wpc-fly-cart.php:563
+#: wpc-fly-cart.php:608
+#: wpc-fly-cart.php:1040
+#: wpc-fly-cart.php:1042
+#: wpc-fly-cart.php:1456
+msgid "Subtotal"
+msgstr ""
+
+#: wpc-fly-cart.php:565
+msgid "Show/hide the item price or subtotal under title."
+msgstr ""
+
+#: wpc-fly-cart.php:569
+msgid "Item estimated delivery date"
+msgstr ""
+
+#: wpc-fly-cart.php:575
+msgid "Show/hide the item estimated delivery date."
+msgstr ""
+
+#: wpc-fly-cart.php:579
+msgid "Plus/minus button"
+msgstr ""
+
+#: wpc-fly-cart.php:585
+msgid "Show/hide the plus/minus button."
+msgstr ""
+
+#: wpc-fly-cart.php:589
+msgid "Item remove"
+msgstr ""
+
+#: wpc-fly-cart.php:595
+msgid "Show/hide the remove button for each item."
+msgstr ""
+
+#: wpc-fly-cart.php:599
+msgid "Save for later"
+msgstr ""
+
+#: wpc-fly-cart.php:617
+msgid "Coupon"
+msgstr ""
+
+#: wpc-fly-cart.php:627
+msgid "Coupon listing"
+msgstr ""
+
+#: wpc-fly-cart.php:636
+msgid "Shipping cost"
+msgstr ""
+
+#: wpc-fly-cart.php:646
+msgid "Shipping calculator"
+msgstr ""
+
+#: wpc-fly-cart.php:656
+msgid "Free shipping bar"
+msgstr ""
+
+#: wpc-fly-cart.php:665
+#: wpc-fly-cart.php:1064
+#: wpc-fly-cart.php:1066
+#: wpc-fly-cart.php:1466
+msgid "Total"
+msgstr ""
+
+#: wpc-fly-cart.php:674
+msgid "Action buttons"
+msgstr ""
+
+#: wpc-fly-cart.php:677
+msgid "Cart & Checkout"
+msgstr ""
+
+#: wpc-fly-cart.php:678
+msgid "Cart only"
+msgstr ""
+
+#: wpc-fly-cart.php:679
+msgid "Checkout only"
+msgstr ""
+
+#: wpc-fly-cart.php:685
+msgid "Instant checkout"
+msgstr ""
+
+#: wpc-fly-cart.php:691
+msgid "If enable this option, buyer can checkout directly on the fly cart."
+msgstr ""
+
+#: wpc-fly-cart.php:696
+msgid "Open instant checkout immediately"
+msgstr ""
+
+#: wpc-fly-cart.php:702
+msgid "Open instant checkout form immediately after adding a product to the cart."
+msgstr ""
+
+#: wpc-fly-cart.php:706
+#: wpc-fly-cart.php:1088
+msgid "Suggested products"
+msgstr ""
+
+#: wpc-fly-cart.php:731
+msgid "Related"
+msgstr ""
+
+#: wpc-fly-cart.php:734
+msgid "Upsells"
+msgstr ""
+
+#: wpc-fly-cart.php:737
+msgid "Cross-sells"
+msgstr ""
+
+#: wpc-fly-cart.php:740
+msgid "Wishlist"
+msgstr ""
+
+#: wpc-fly-cart.php:745
+msgid "Compare"
+msgstr ""
+
+#: wpc-fly-cart.php:756
+msgid "Suggested products limit"
+msgstr ""
+
+#: wpc-fly-cart.php:762
+msgid "Suggested products carousel"
+msgstr ""
+
+#: wpc-fly-cart.php:771
+#: wpc-fly-cart.php:1022
+#: wpc-fly-cart.php:1024
+#: wpc-fly-cart.php:1444
+msgid "Empty cart"
+msgstr ""
+
+#: wpc-fly-cart.php:777
+msgid "Show/hide the empty cart button under the product list."
+msgstr ""
+
+#: wpc-fly-cart.php:781
+#: wpc-fly-cart.php:1028
+msgid "Confirm empty"
+msgstr ""
+
+#: wpc-fly-cart.php:787
+msgid "Enable/disable confirm before emptying the cart."
+msgstr ""
+
+#: wpc-fly-cart.php:791
+#: wpc-fly-cart.php:1034
+#: wpc-fly-cart.php:1036
+#: wpc-fly-cart.php:1448
+msgid "Share cart"
+msgstr ""
+
+#: wpc-fly-cart.php:800
+#: wpc-fly-cart.php:1082
+#: wpc-fly-cart.php:1084
+#: wpc-fly-cart.php:1551
+msgid "Continue shopping"
+msgstr ""
+
+#: wpc-fly-cart.php:806
+msgid "Show/hide the continue shopping button at the end of fly cart."
+msgstr ""
+
+#: wpc-fly-cart.php:810
+msgid "Continue shopping URL"
+msgstr ""
+
+#: wpc-fly-cart.php:813
+msgid "Custom URL for \"continue shopping\" button. By default, only close the fly cart when clicking on this button."
+msgstr ""
+
+#: wpc-fly-cart.php:817
+#: wpc-fly-cart.php:1004
+msgid "Confirm remove"
+msgstr ""
+
+#: wpc-fly-cart.php:823
+msgid "Enable/disable confirm before removing a product."
+msgstr ""
+
+#: wpc-fly-cart.php:827
+#: wpc-fly-cart.php:1010
+msgid "Undo remove"
+msgstr ""
+
+#: wpc-fly-cart.php:833
+msgid "Enable/disable undo after removing a product."
+msgstr ""
+
+#: wpc-fly-cart.php:837
+msgid "Reload the cart"
+msgstr ""
+
+#: wpc-fly-cart.php:843
+msgid "The cart will be reloaded when opening the page? If you use the cache for your site, please turn on this option."
+msgstr ""
+
+#: wpc-fly-cart.php:847
+msgid "Hide on pages"
+msgstr ""
+
+#: wpc-fly-cart.php:863
+msgid "Hide the fly cart on these pages."
+msgstr ""
+
+#: wpc-fly-cart.php:867
+msgid "Bubble"
+msgstr ""
+
+#: wpc-fly-cart.php:868
+msgid "Settings for the bubble."
+msgstr ""
+
+#: wpc-fly-cart.php:871
+msgid "Enable"
+msgstr ""
+
+#: wpc-fly-cart.php:883
+msgid "Top Left"
+msgstr ""
+
+#: wpc-fly-cart.php:884
+msgid "Top Right"
+msgstr ""
+
+#: wpc-fly-cart.php:885
+msgid "Bottom Left"
+msgstr ""
+
+#: wpc-fly-cart.php:886
+msgid "Bottom Right"
+msgstr ""
+
+#: wpc-fly-cart.php:891
+msgid "Icon"
+msgstr ""
+
+#: wpc-fly-cart.php:907
+msgid "Hide if empty"
+msgstr ""
+
+#: wpc-fly-cart.php:913
+msgid "Hide the bubble if the cart is empty?"
+msgstr ""
+
+#: wpc-fly-cart.php:917
+msgid "Menu"
+msgstr ""
+
+#: wpc-fly-cart.php:918
+msgid "Settings for cart menu item."
+msgstr ""
+
+#: wpc-fly-cart.php:921
+msgid "Menu(s)"
+msgstr ""
+
+#: wpc-fly-cart.php:940
+msgid "Haven't any menu yet. Please go to Appearance > Menus to create one."
+msgstr ""
+
+#: wpc-fly-cart.php:943
+msgid "Choose the menu(s) you want to add the cart at the end."
+msgstr ""
+
+#: wpc-fly-cart.php:947
+msgid "Custom menu"
+msgstr ""
+
+#: wpc-fly-cart.php:949
+msgid "button class or id"
+msgstr ""
+
+#: wpc-fly-cart.php:950
+msgid "The class or id of the custom menu. When clicking on it, the fly cart will show up. Example %s or %s"
+msgstr ""
+
+#: wpc-fly-cart.php:954
+msgid "Suggestion"
+msgstr ""
+
+#: wpc-fly-cart.php:982
+msgid "Leave blank to use the default text and its equivalent translation in multiple languages."
+msgstr ""
+
+#: wpc-fly-cart.php:986
+msgid "Cart heading"
+msgstr ""
+
+#: wpc-fly-cart.php:988
+#: wpc-fly-cart.php:1261
+msgid "Shopping cart"
+msgstr ""
+
+#: wpc-fly-cart.php:992
+#: wpc-fly-cart.php:994
+#: wpc-fly-cart.php:1264
+msgid "Close"
+msgstr ""
+
+#: wpc-fly-cart.php:998
+#: wpc-fly-cart.php:1000
+#: wpc-fly-cart.php:1409
+msgid "Remove"
+msgstr ""
+
+#: wpc-fly-cart.php:1016
+msgid "Removed"
+msgstr ""
+
+#: wpc-fly-cart.php:1046
+#: wpc-fly-cart.php:1048
+msgid "Coupon code"
+msgstr ""
+
+#: wpc-fly-cart.php:1052
+msgid "Coupon apply"
+msgstr ""
+
+#: wpc-fly-cart.php:1054
+msgid "Apply"
+msgstr ""
+
+#: wpc-fly-cart.php:1058
+#: wpc-fly-cart.php:1060
+msgid "Shipping"
+msgstr ""
+
+#: wpc-fly-cart.php:1070
+#: wpc-fly-cart.php:1072
+#: wpc-fly-cart.php:1474
+#: wpc-fly-cart.php:1478
+msgid "Cart"
+msgstr ""
+
+#: wpc-fly-cart.php:1076
+#: wpc-fly-cart.php:1078
+#: wpc-fly-cart.php:1474
+#: wpc-fly-cart.php:1483
+msgid "Checkout"
+msgstr ""
+
+#: wpc-fly-cart.php:1090
+#: wpc-fly-cart.php:1507
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: wpc-fly-cart.php:1094
+msgid "There are no products"
+msgstr ""
+
+#: wpc-fly-cart.php:1096
+#: wpc-fly-cart.php:1421
+msgid "There are no products in the cart!"
+msgstr ""
+
+#: wpc-fly-cart.php:1708
+msgid "Before cart"
+msgstr ""
+
+#: wpc-fly-cart.php:1709
+msgid "After cart"
+msgstr ""
+
+#: wpc-fly-cart.php:1710
+msgid "Before cart items"
+msgstr ""
+
+#: wpc-fly-cart.php:1711
+msgid "After cart items"
+msgstr ""
+
+#: wpc-fly-cart.php:1712
+msgid "Before cart item"
+msgstr ""
+
+#: wpc-fly-cart.php:1713
+msgid "After cart item"
+msgstr ""
+
+#: wpc-fly-cart.php:1714
+msgid "Before cart item info"
+msgstr ""
+
+#: wpc-fly-cart.php:1715
+msgid "After cart item info"
+msgstr ""
+
+#: wpc-fly-cart.php:1716
+msgid "Before cart item name"
+msgstr ""
+
+#: wpc-fly-cart.php:1717
+msgid "After cart item name"
+msgstr ""
+
+#: wpc-fly-cart.php:1718
+msgid "Before suggested products"
+msgstr ""
+
+#: wpc-fly-cart.php:1719
+msgid "After suggested products"
+msgstr ""
+
+#: wpc-fly-cart.php:1720
+msgid "Before buttons"
+msgstr ""
+
+#: wpc-fly-cart.php:1721
+msgid "After buttons"
+msgstr ""

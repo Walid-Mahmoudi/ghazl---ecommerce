@@ -1,0 +1,153 @@
+.oxy-product-tabs-in-accordion,
+.oxy-product-tabs-in-accordion .wc-tabs-wrapper {
+  clear: both;
+  width: 100%;
+}
+
+.oxy-product-tabs-in-accordion {
+  --author-avatar-size: 36px;
+}
+
+.oxy-product-tabs-in-accordion .wc-prd-accordion {
+  margin: 20px 0;
+}
+
+.oxy-product-tabs-in-accordion .wc-prd-accordion-button {
+  background-color: #efefef;
+  cursor: pointer;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  padding: 8px 12px;
+  margin-bottom: 10px;
+
+  -webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+}
+
+.oxy-product-tabs-in-accordion .wc-prd-accordion-label {
+  flex-grow: 1;
+}
+
+.oxy-product-tabs-in-accordion .wc-prd-accordion-pm {
+  text-align: center;
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transition: transform 0.3s linear;
+  -moz-transition: transform 0.3s linear;
+  transition: transform 0.3s linear;
+}
+
+.wc-prd-accordion-item-active .wc-prd-accordion-pm {
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.oxy-product-tabs-in-accordion .wc-prd-accordion-content {
+  display: none;
+  margin-bottom: 20px;
+}
+
+.oxy-product-tabs-in-accordion #reviews #comments ol.commentlist li img.avatar {
+    width: var(--author-avatar-size);
+    background: #ffffff;
+}
+
+.oxy-product-tabs-in-accordion #reviews #comments h2, 
+.oxy-product-tabs-in-accordion span.comment-reply-title {
+    color: #000000;
+    font-family: inherit;
+}
+
+.oxy-product-tabs-in-accordion #review_form #respond {
+    padding: 30px 0 0;
+    box-shadow: none;
+}
+
+.oxy-product-tabs-in-accordion #reviews #reply-title {
+  display: block;
+}
+
+.oxy-product-tabs-in-accordion form.comment-form label {
+    color: #666;
+}
+
+.oxy-product-tabs-in-accordion .comment-form-author label,
+.oxy-product-tabs-in-accordion .comment-form-email label {
+  display: block;
+}
+
+.oxy-product-tabs-in-accordion .comment-form-rating a {
+    color: #6799b2;
+}
+
+.oxy-product-tabs-in-accordion input#author,
+.oxy-product-tabs-in-accordion input#email {
+  width: 100%;
+}
+
+.oxy-product-tabs-in-accordion #review_form #respond .form-submit {
+    display: flex;
+    margin-bottom: 0;
+}
+
+.oxy-product-tabs-in-accordion #review_form #respond input:focus,
+.oxy-product-tabs-in-accordion #review_form #respond textarea:focus {
+    box-shadow: none;
+    outline: 0;
+}
+
+.oxy-product-tabs-in-accordion strong.woocommerce-review__author {
+    color: #000000;
+}
+
+.oxy-product-tabs-in-accordion time.woocommerce-review__published-date {
+    color: #d3ced2;
+    font-style: italic;
+}
+
+.oxy-product-tabs-in-accordion em.woocommerce-review__verified {
+    color: #d3ced2;
+}
+
+.oxy-product-tabs-in-accordion #reviews #comments ol.commentlist li .comment-text {
+    border-radius: 0;
+    margin-left: calc(var(--author-avatar-size) + 14px);
+    box-shadow: none;
+}
+
+.oxy-product-tabs-in-accordion #reviews #comments ol.commentlist li .comment-text p {
+    color: #666666;
+}
+
+.wc-qty-above form,
+.woocommerce.wc-qty-above .woocommerce-variation-add-to-cart {
+  flex-direction: column;
+}
+
+.woocommerce.wc-qty-above div.product form.cart div.quantity {
+  margin: 0 0 10px;
+}
+
+.oxy-ou-addtocart div.product form.cart,
+.oxy-product-tabs-in-accordion #reviews #comments ol.commentlist li .comment-text p:last-child {
+    margin-bottom: 0;
+}
+
+.oxy-ou-addtocart .reset_variations {
+  clear: both;
+  display: inline-block!important;
+  margin-top: 5px;
+}
+
+.oxy-product-tabs-in-accordion video,
+.oxy-product-tabs-in-accordion iframe {
+    max-width: 100%;
+    width: 100%;
+    margin: 0;
+    line-height: 1;
+    border: none;
+}

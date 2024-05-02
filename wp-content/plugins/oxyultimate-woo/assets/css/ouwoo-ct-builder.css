@@ -1,0 +1,5 @@
+.hide-ty-elements div:first-child, 
+.hide-ty-elements div:nth-child(2), 
+.hide-ty-elements div:nth-child(3){
+	display: none!important;
+}

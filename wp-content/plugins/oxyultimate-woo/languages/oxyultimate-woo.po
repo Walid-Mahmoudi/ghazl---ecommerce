@@ -1,0 +1,4621 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: oxyultimate-woo\n"
+"POT-Creation-Date: 2020-11-30 14:00+0530\n"
+"PO-Revision-Date: 2020-11-30 14:01+0530\n"
+"Last-Translator: \n"
+"Language-Team: oxyultimate-woo\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: elements/add-to-cart/add-to-cart.php:11
+#: elements/add-to-cart/add-to-cart.php:281 includes/admin.php:194
+msgid "Add To Cart"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:27
+msgid "Will Use In Loop?"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:29
+#: elements/add-to-cart/add-to-cart.php:49
+#: elements/add-to-cart/add-to-cart.php:71
+#: elements/add-to-cart/add-to-cart.php:86
+#: elements/add-to-cart/add-to-cart.php:118
+#: elements/add-to-cart/add-to-cart.php:298
+#: elements/add-to-cart/add-to-cart.php:471
+#: elements/add-to-cart/add-to-cart.php:482
+#: elements/cart-items/cart-items.php:482
+#: elements/cart-items/cart-items.php:759
+#: elements/cart-totals/cart-totals.php:436
+#: elements/cart-totals/cart-totals.php:797
+#: elements/categories/categories.php:42 elements/categories/categories.php:75
+#: elements/categories/categories.php:228
+#: elements/categories/categories.php:280
+#: elements/categories/categories.php:419
+#: elements/categories/categories.php:548
+#: elements/categories/categories.php:567
+#: elements/categories/categories.php:578
+#: elements/categories/categories.php:589
+#: elements/categories/categories.php:601
+#: elements/categories/categories.php:617
+#: elements/categories/categories.php:630
+#: elements/categories/categories.php:644
+#: elements/free-shipping-notice/free-shipping-notice.php:113
+#: elements/free-shipping-notice/free-shipping-notice.php:173
+#: elements/free-shipping-notice/free-shipping-notice.php:201
+#: elements/free-shipping-notice/free-shipping-notice.php:210
+#: elements/menucart/menucart.php:91 elements/menucart/menucart.php:648
+#: elements/menucart/menucart.php:1025 elements/menucart/menucart.php:1033
+#: elements/menucart/menucart.php:1042 elements/minicart/minicart.php:47
+#: elements/minicart/minicart.php:272
+#: elements/myaccount-form-login/myaccount-form-login.php:247
+#: elements/offcanvascart/offcanvascart.php:327
+#: elements/offcanvascart/offcanvascart.php:488
+#: elements/offcanvascart/offcanvascart.php:725
+#: elements/offcanvascart/offcanvascart.php:1983
+#: elements/offcanvascart/offcanvascart.php:1992
+#: elements/offcanvascart/offcanvascart.php:2020
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:37
+#: elements/review-graph/review-graph.php:186
+#: elements/review-ratings/review-ratings.php:40
+#: elements/review-ratings/review-ratings.php:93
+#: elements/review-ratings/review-ratings.php:141
+#: test-elements/free-shipping-notice/free-shipping-notice.php:110
+#: test-elements/free-shipping-notice/free-shipping-notice.php:168
+#: test-elements/free-shipping-notice/free-shipping-notice.php:176
+#: test-elements/timer/timer.php:55 test-elements/timer/timer.php:104
+#: test-elements/timer/timer.php:137 test-elements/timer/timer.php:170
+#: test-elements/timer/timer.php:203 test-elements/timer/timer.php:236
+#: test-elements/timer/timer.php:269 test-elements/timer/timer.php:523
+#: test-elements/timer/timer.php:591
+msgid "Yes"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:29
+#: elements/add-to-cart/add-to-cart.php:49
+#: elements/add-to-cart/add-to-cart.php:71
+#: elements/add-to-cart/add-to-cart.php:86
+#: elements/add-to-cart/add-to-cart.php:118
+#: elements/add-to-cart/add-to-cart.php:298
+#: elements/add-to-cart/add-to-cart.php:471
+#: elements/add-to-cart/add-to-cart.php:482
+#: elements/cart-items/cart-items.php:482
+#: elements/cart-items/cart-items.php:759
+#: elements/cart-totals/cart-totals.php:436
+#: elements/cart-totals/cart-totals.php:797
+#: elements/categories/categories.php:42 elements/categories/categories.php:75
+#: elements/categories/categories.php:228
+#: elements/categories/categories.php:280
+#: elements/categories/categories.php:419
+#: elements/categories/categories.php:549
+#: elements/categories/categories.php:568
+#: elements/categories/categories.php:579
+#: elements/categories/categories.php:590
+#: elements/categories/categories.php:602
+#: elements/categories/categories.php:618
+#: elements/categories/categories.php:629
+#: elements/categories/categories.php:643
+#: elements/free-shipping-notice/free-shipping-notice.php:113
+#: elements/free-shipping-notice/free-shipping-notice.php:173
+#: elements/free-shipping-notice/free-shipping-notice.php:201
+#: elements/free-shipping-notice/free-shipping-notice.php:210
+#: elements/menucart/menucart.php:90 elements/menucart/menucart.php:648
+#: elements/menucart/menucart.php:1025 elements/menucart/menucart.php:1033
+#: elements/menucart/menucart.php:1042 elements/minicart/minicart.php:47
+#: elements/minicart/minicart.php:272
+#: elements/myaccount-form-login/myaccount-form-login.php:247
+#: elements/offcanvascart/offcanvascart.php:327
+#: elements/offcanvascart/offcanvascart.php:487
+#: elements/offcanvascart/offcanvascart.php:725
+#: elements/offcanvascart/offcanvascart.php:1983
+#: elements/offcanvascart/offcanvascart.php:1992
+#: elements/offcanvascart/offcanvascart.php:2020
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:38
+#: elements/review-graph/review-graph.php:186
+#: elements/review-ratings/review-ratings.php:40
+#: elements/review-ratings/review-ratings.php:93
+#: elements/review-ratings/review-ratings.php:141
+#: test-elements/free-shipping-notice/free-shipping-notice.php:110
+#: test-elements/free-shipping-notice/free-shipping-notice.php:168
+#: test-elements/free-shipping-notice/free-shipping-notice.php:176
+#: test-elements/timer/timer.php:55 test-elements/timer/timer.php:104
+#: test-elements/timer/timer.php:137 test-elements/timer/timer.php:170
+#: test-elements/timer/timer.php:203 test-elements/timer/timer.php:236
+#: test-elements/timer/timer.php:269 test-elements/timer/timer.php:523
+#: test-elements/timer/timer.php:591
+msgid "No"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:37 test-elements/timer/timer.php:34
+msgid "Product"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:47
+msgid "Enable AJAX add to cart function"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:62 elements/cart-page/cart-page.php:172
+#: elements/myaccount-form-registration/myaccount-form-registration.php:331
+#: test-elements/timer/timer.php:371
+msgid "Redirect URL"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:69
+msgid "Turn On Quantity Field"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:80
+#: elements/add-to-cart/add-to-cart.php:489
+#: elements/cart-items/cart-items.php:361
+#: elements/checkout-review-order/checkout-review-order.php:210
+#: elements/cross-sells/cross-sells.php:234
+#: elements/free-shipping-notice/free-shipping-notice.php:265
+#: elements/menucart/menucart.php:288 elements/menucart/menucart.php:777
+#: elements/minicart/minicart.php:325 elements/minicart/minicart.php:627
+#: elements/offcanvascart/offcanvascart.php:1449 includes/helpers.php:303
+#: test-elements/free-shipping-notice/free-shipping-notice.php:246
+msgid "Price"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:84
+msgid "Show Price"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:93
+#: elements/add-to-cart/add-to-cart.php:274
+#: elements/add-to-cart/add-to-cart.php:535
+#: elements/add-to-cart/add-to-cart.php:574
+#: elements/cart-items/cart-items.php:137
+#: elements/cart-items/cart-items.php:804 elements/cart-page/cart-page.php:75
+#: elements/cart-page/cart-page.php:150
+#: elements/cart-totals/cart-totals.php:162
+#: elements/cart-totals/cart-totals.php:773
+#: elements/cart-totals/cart-totals.php:873
+#: elements/categories/categories.php:182
+#: elements/categories/categories.php:306
+#: elements/categories/categories.php:379
+#: elements/checkout-coupon-form/checkout-coupon-form.php:83
+#: elements/checkout-coupon-form/checkout-coupon-form.php:158
+#: elements/checkout-form-builder/checkout-form-builder.php:75
+#: elements/checkout-form-builder/checkout-form-builder.php:149
+#: elements/checkout-form-builder/checkout-form-builder.php:319
+#: elements/checkout-login-form/checkout-login-form.php:83
+#: elements/checkout-login-form/checkout-login-form.php:166
+#: elements/checkout-login-form/checkout-login-form.php:176
+#: elements/checkout-login-form/checkout-login-form.php:239
+#: elements/checkout-login-form/checkout-login-form.php:384
+#: elements/checkout-payment/checkout-payment.php:328
+#: elements/checkout-payment/checkout-payment.php:419
+#: elements/checkout-payment/checkout-payment.php:572
+#: elements/checkout-payment/checkout-payment.php:684
+#: elements/cross-sells/cross-sells.php:113
+#: elements/cross-sells/cross-sells.php:348
+#: elements/cross-sells/cross-sells.php:424
+#: elements/free-shipping-notice/free-shipping-notice.php:69
+#: elements/free-shipping-notice/free-shipping-notice.php:275
+#: elements/menucart/menucart.php:318 elements/menucart/menucart.php:776
+#: elements/minicart/minicart.php:625 elements/minicart/minicart.php:1028
+#: elements/myaccount-form-login/myaccount-form-login.php:54
+#: elements/myaccount-form-login/myaccount-form-login.php:158
+#: elements/myaccount-form-login/myaccount-form-login.php:206
+#: elements/myaccount-form-login/myaccount-form-login.php:381
+#: elements/myaccount-form-login/myaccount-form-login.php:476
+#: elements/myaccount-form-registration/myaccount-form-registration.php:61
+#: elements/myaccount-form-registration/myaccount-form-registration.php:97
+#: elements/myaccount-form-registration/myaccount-form-registration.php:158
+#: elements/myaccount-form-registration/myaccount-form-registration.php:196
+#: elements/myaccount-form-registration/myaccount-form-registration.php:244
+#: elements/myaccount-form-registration/myaccount-form-registration.php:306
+#: elements/offcanvascart/offcanvascart.php:850
+#: elements/offcanvascart/offcanvascart.php:1447
+#: elements/offcanvascart/offcanvascart.php:1971
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:88
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:99
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:300
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:327
+#: elements/review-graph/review-graph.php:109
+#: elements/review-graph/review-graph.php:215
+#: test-elements/free-shipping-notice/free-shipping-notice.php:66
+#: test-elements/free-shipping-notice/free-shipping-notice.php:252
+#: test-elements/timer/timer.php:326 test-elements/timer/timer.php:454
+msgid "Typography"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:99
+msgid "Sales Price"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:109
+msgid "-/+ Buttons"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:116
+msgid "Add -/+ Buttons"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:123
+msgid "Width & Size"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:127
+#: elements/cart-items/cart-items.php:564 elements/menucart/menucart.php:157
+#: elements/minicart/minicart.php:131
+#: elements/offcanvascart/offcanvascart.php:555
+#: elements/offcanvascart/offcanvascart.php:945
+#: elements/review-graph/review-graph.php:103
+#: elements/review-graph/review-graph.php:207 test-elements/timer/timer.php:298
+#: test-elements/timer/timer.php:422 test-elements/timer/timer.php:469
+msgid "Width"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:132
+msgid "Adjust the height from Qty Text Field section"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:135
+#: elements/cart-items/cart-items.php:320
+#: elements/cart-items/cart-items.php:486
+#: elements/cart-totals/cart-totals.php:361
+#: elements/categories/categories.php:391
+#: elements/categories/categories.php:690
+#: elements/checkout-form-builder/checkout-form-builder.php:291
+#: elements/checkout-form-builder/checkout-form-builder.php:306
+#: elements/checkout-login-form/checkout-login-form.php:354
+#: elements/checkout-payment/checkout-payment.php:206
+#: elements/checkout-review-order/checkout-review-order.php:224
+#: elements/menucart/menucart.php:561 elements/menucart/menucart.php:654
+#: elements/minicart/minicart.php:162 elements/minicart/minicart.php:287
+#: elements/minicart/minicart.php:710
+#: elements/myaccount-form-login/myaccount-form-login.php:331
+#: elements/offcanvascart/offcanvascart.php:991
+#: elements/offcanvascart/offcanvascart.php:1040
+#: elements/offcanvascart/offcanvascart.php:1524
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:202
+#: elements/review-graph/review-graph.php:168
+#: elements/review-ratings/review-ratings.php:112
+#: test-elements/timer/timer.php:420 test-elements/timer/timer.php:467
+#: test-elements/timer/timer.php:545
+msgid "Size"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:140
+msgid "Weight"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:147
+#: elements/categories/categories.php:184
+#: elements/myaccount-form-login/myaccount-form-login.php:209
+#: elements/myaccount-form-registration/myaccount-form-registration.php:100
+msgid "Colors"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:155
+#: elements/cart-items/cart-items.php:294
+#: elements/cart-items/cart-items.php:719
+#: elements/cart-items/cart-items.php:793 elements/cart-page/cart-page.php:138
+#: elements/cart-totals/cart-totals.php:622
+#: elements/cart-totals/cart-totals.php:761
+#: elements/cart-totals/cart-totals.php:861
+#: elements/categories/categories.php:191
+#: elements/categories/categories.php:343
+#: elements/checkout-payment/checkout-payment.php:560
+#: elements/checkout-payment/checkout-payment.php:672
+#: elements/cross-sells/cross-sells.php:412
+#: elements/free-shipping-notice/free-shipping-notice.php:86
+#: elements/minicart/minicart.php:445 elements/minicart/minicart.php:590
+#: elements/myaccount-form-login/myaccount-form-login.php:71
+#: elements/myaccount-form-registration/myaccount-form-registration.php:261
+#: elements/offcanvascart/offcanvascart.php:1382
+#: test-elements/free-shipping-notice/free-shipping-notice.php:83
+msgid "Background Color on Hover"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:164
+#: elements/cart-items/cart-items.php:305
+#: elements/cart-items/cart-items.php:354 elements/cart-page/cart-page.php:143
+#: elements/cart-totals/cart-totals.php:627
+#: elements/cart-totals/cart-totals.php:766
+#: elements/cart-totals/cart-totals.php:866
+#: elements/categories/categories.php:196
+#: elements/categories/categories.php:240
+#: elements/categories/categories.php:248
+#: elements/categories/categories.php:315
+#: elements/categories/categories.php:352
+#: elements/checkout-login-form/checkout-login-form.php:392
+#: elements/checkout-payment/checkout-payment.php:265
+#: elements/checkout-payment/checkout-payment.php:339
+#: elements/checkout-payment/checkout-payment.php:565
+#: elements/checkout-payment/checkout-payment.php:677
+#: elements/menucart/menucart.php:668 elements/minicart/minicart.php:282
+#: elements/minicart/minicart.php:450 elements/minicart/minicart.php:595
+#: elements/minicart/minicart.php:722
+#: elements/myaccount-form-login/myaccount-form-login.php:383
+#: elements/offcanvascart/offcanvascart.php:1054
+#: elements/offcanvascart/offcanvascart.php:1387
+#: elements/offcanvascart/offcanvascart.php:1536
+msgid "Color on Hover"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:171
+#: elements/add-to-cart/add-to-cart.php:204
+#: elements/add-to-cart/add-to-cart.php:416
+#: elements/add-to-cart/add-to-cart.php:497
+#: elements/add-to-cart/add-to-cart.php:559
+#: elements/cart-items/cart-items.php:125
+#: elements/cart-items/cart-items.php:394
+#: elements/cart-items/cart-items.php:774 elements/cart-page/cart-page.php:59
+#: elements/cart-page/cart-page.php:116 elements/cart-totals/cart-totals.php:93
+#: elements/cart-totals/cart-totals.php:147
+#: elements/cart-totals/cart-totals.php:232
+#: elements/cart-totals/cart-totals.php:746
+#: elements/cart-totals/cart-totals.php:846
+#: elements/categories/categories.php:156
+#: elements/categories/categories.php:202
+#: elements/categories/categories.php:291
+#: elements/categories/categories.php:364
+#: elements/categories/categories.php:679
+#: elements/checkout-coupon-form/checkout-coupon-form.php:131
+#: elements/checkout-coupon-form/checkout-coupon-form.php:188
+#: elements/checkout-coupon-form/checkout-coupon-form.php:224
+#: elements/checkout-form-builder/checkout-form-builder.php:77
+#: elements/checkout-form-builder/checkout-form-builder.php:179
+#: elements/checkout-login-form/checkout-login-form.php:127
+#: elements/checkout-login-form/checkout-login-form.php:178
+#: elements/checkout-login-form/checkout-login-form.php:269
+#: elements/checkout-login-form/checkout-login-form.php:312
+#: elements/checkout-login-form/checkout-login-form.php:376
+#: elements/checkout-payment/checkout-payment.php:53
+#: elements/checkout-payment/checkout-payment.php:91
+#: elements/checkout-payment/checkout-payment.php:129
+#: elements/checkout-payment/checkout-payment.php:249
+#: elements/checkout-payment/checkout-payment.php:307
+#: elements/checkout-payment/checkout-payment.php:360
+#: elements/checkout-payment/checkout-payment.php:524
+#: elements/checkout-payment/checkout-payment.php:635
+#: elements/checkout-review-order/checkout-review-order.php:42
+#: elements/cross-sells/cross-sells.php:56
+#: elements/cross-sells/cross-sells.php:98
+#: elements/cross-sells/cross-sells.php:309
+#: elements/cross-sells/cross-sells.php:333
+#: elements/cross-sells/cross-sells.php:390
+#: elements/free-shipping-notice/free-shipping-notice.php:53
+#: elements/free-shipping-notice/free-shipping-notice.php:279
+#: elements/menucart/menucart.php:478 elements/menucart/menucart.php:493
+#: elements/menucart/menucart.php:803 elements/minicart/minicart.php:69
+#: elements/minicart/minicart.php:651 elements/minicart/minicart.php:681
+#: elements/minicart/minicart.php:748 elements/minicart/minicart.php:875
+#: elements/minicart/minicart.php:938 elements/minicart/minicart.php:1020
+#: elements/myaccount-form-login/myaccount-form-login.php:38
+#: elements/myaccount-form-login/myaccount-form-login.php:107
+#: elements/myaccount-form-login/myaccount-form-login.php:171
+#: elements/myaccount-form-login/myaccount-form-login.php:353
+#: elements/myaccount-form-login/myaccount-form-login.php:461
+#: elements/myaccount-form-registration/myaccount-form-registration.php:34
+#: elements/myaccount-form-registration/myaccount-form-registration.php:82
+#: elements/myaccount-form-registration/myaccount-form-registration.php:143
+#: elements/myaccount-form-registration/myaccount-form-registration.php:181
+#: elements/myaccount-form-registration/myaccount-form-registration.php:228
+#: elements/myaccount-form-registration/myaccount-form-registration.php:291
+#: elements/offcanvascart/offcanvascart.php:914
+#: elements/offcanvascart/offcanvascart.php:1293
+#: elements/offcanvascart/offcanvascart.php:1473
+#: elements/offcanvascart/offcanvascart.php:1495
+#: elements/offcanvascart/offcanvascart.php:1563
+#: elements/offcanvascart/offcanvascart.php:1963
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:162
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:284
+#: elements/review-graph/review-graph.php:217
+#: elements/review-ratings/review-ratings.php:63
+#: elements/review-ratings/review-ratings.php:120
+#: elements/review-ratings/review-ratings.php:159
+#: elements/review-ratings/review-ratings.php:239
+#: test-elements/free-shipping-notice/free-shipping-notice.php:50
+#: test-elements/free-shipping-notice/free-shipping-notice.php:256
+#: test-elements/timer/timer.php:311 test-elements/timer/timer.php:438
+#: test-elements/timer/timer.php:485
+msgid "Spacing"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:175
+#: elements/add-to-cart/add-to-cart.php:215
+#: elements/add-to-cart/add-to-cart.php:367
+#: elements/add-to-cart/add-to-cart.php:427
+#: elements/add-to-cart/add-to-cart.php:508
+#: elements/add-to-cart/add-to-cart.php:570 elements/cart-page/cart-page.php:70
+#: elements/cart-page/cart-page.php:127
+#: elements/cart-totals/cart-totals.php:104
+#: elements/cart-totals/cart-totals.php:158
+#: elements/cart-totals/cart-totals.php:243
+#: elements/cart-totals/cart-totals.php:404
+#: elements/cart-totals/cart-totals.php:609
+#: elements/cart-totals/cart-totals.php:672
+#: elements/cart-totals/cart-totals.php:750
+#: elements/cart-totals/cart-totals.php:850
+#: elements/categories/categories.php:167
+#: elements/categories/categories.php:213
+#: elements/categories/categories.php:302
+#: elements/categories/categories.php:375
+#: elements/checkout-coupon-form/checkout-coupon-form.php:79
+#: elements/checkout-coupon-form/checkout-coupon-form.php:142
+#: elements/checkout-form-builder/checkout-form-builder.php:88
+#: elements/checkout-login-form/checkout-login-form.php:79
+#: elements/checkout-login-form/checkout-login-form.php:138
+#: elements/checkout-login-form/checkout-login-form.php:189
+#: elements/checkout-login-form/checkout-login-form.php:380
+#: elements/checkout-payment/checkout-payment.php:64
+#: elements/checkout-payment/checkout-payment.php:102
+#: elements/checkout-payment/checkout-payment.php:140
+#: elements/checkout-payment/checkout-payment.php:318
+#: elements/checkout-payment/checkout-payment.php:371
+#: elements/checkout-payment/checkout-payment.php:411
+#: elements/checkout-review-order/checkout-review-order.php:46
+#: elements/checkout-review-order/checkout-review-order.php:271
+#: elements/cross-sells/cross-sells.php:67
+#: elements/cross-sells/cross-sells.php:109
+#: elements/cross-sells/cross-sells.php:320
+#: elements/cross-sells/cross-sells.php:344
+#: elements/cross-sells/cross-sells.php:401
+#: elements/free-shipping-notice/free-shipping-notice.php:64
+#: elements/free-shipping-notice/free-shipping-notice.php:289
+#: elements/menucart/menucart.php:232 elements/menucart/menucart.php:593
+#: elements/menucart/menucart.php:814 elements/menucart/menucart.php:834
+#: elements/minicart/minicart.php:94 elements/minicart/minicart.php:197
+#: elements/minicart/minicart.php:520 elements/minicart/minicart.php:662
+#: elements/minicart/minicart.php:692 elements/minicart/minicart.php:759
+#: elements/minicart/minicart.php:801 elements/minicart/minicart.php:879
+#: elements/minicart/minicart.php:942
+#: elements/myaccount-form-login/myaccount-form-login.php:49
+#: elements/myaccount-form-login/myaccount-form-login.php:118
+#: elements/myaccount-form-login/myaccount-form-login.php:357
+#: elements/myaccount-form-login/myaccount-form-login.php:472
+#: elements/myaccount-form-registration/myaccount-form-registration.php:45
+#: elements/myaccount-form-registration/myaccount-form-registration.php:93
+#: elements/myaccount-form-registration/myaccount-form-registration.php:154
+#: elements/myaccount-form-registration/myaccount-form-registration.php:192
+#: elements/myaccount-form-registration/myaccount-form-registration.php:239
+#: elements/myaccount-form-registration/myaccount-form-registration.php:302
+#: elements/offcanvascart/offcanvascart.php:366
+#: elements/offcanvascart/offcanvascart.php:434
+#: elements/offcanvascart/offcanvascart.php:632
+#: elements/offcanvascart/offcanvascart.php:1021
+#: elements/offcanvascart/offcanvascart.php:1304
+#: elements/offcanvascart/offcanvascart.php:1412
+#: elements/offcanvascart/offcanvascart.php:1484
+#: elements/offcanvascart/offcanvascart.php:1506
+#: elements/offcanvascart/offcanvascart.php:1574
+#: elements/offcanvascart/offcanvascart.php:1608
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:173
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:295
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:399
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:616
+#: elements/review-ratings/review-ratings.php:74
+#: elements/review-ratings/review-ratings.php:124
+#: elements/review-ratings/review-ratings.php:163
+#: test-elements/free-shipping-notice/free-shipping-notice.php:61
+#: test-elements/free-shipping-notice/free-shipping-notice.php:268
+#: test-elements/timer/timer.php:322 test-elements/timer/timer.php:450
+#: test-elements/timer/timer.php:497
+msgid "Margin"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:179
+#: elements/add-to-cart/add-to-cart.php:251
+#: elements/cart-items/cart-items.php:55 elements/cart-items/cart-items.php:81
+#: elements/cart-items/cart-items.php:247
+#: elements/cart-items/cart-items.php:466
+#: elements/cart-items/cart-items.php:544
+#: elements/cart-items/cart-items.php:807 elements/cart-page/cart-page.php:99
+#: elements/cart-page/cart-page.php:153
+#: elements/cart-totals/cart-totals.php:109
+#: elements/cart-totals/cart-totals.php:165
+#: elements/cart-totals/cart-totals.php:417
+#: elements/cart-totals/cart-totals.php:776
+#: elements/cart-totals/cart-totals.php:876
+#: elements/categories/categories.php:171
+#: elements/categories/categories.php:404
+#: elements/categories/categories.php:802
+#: elements/checkout-coupon-form/checkout-coupon-form.php:97
+#: elements/checkout-coupon-form/checkout-coupon-form.php:196
+#: elements/checkout-coupon-form/checkout-coupon-form.php:232
+#: elements/checkout-form-builder/checkout-form-builder.php:187
+#: elements/checkout-login-form/checkout-login-form.php:97
+#: elements/checkout-login-form/checkout-login-form.php:277
+#: elements/checkout-login-form/checkout-login-form.php:320
+#: elements/checkout-payment/checkout-payment.php:69
+#: elements/checkout-payment/checkout-payment.php:107
+#: elements/checkout-payment/checkout-payment.php:145
+#: elements/checkout-payment/checkout-payment.php:189
+#: elements/checkout-payment/checkout-payment.php:257
+#: elements/checkout-payment/checkout-payment.php:323
+#: elements/checkout-payment/checkout-payment.php:376
+#: elements/checkout-payment/checkout-payment.php:435
+#: elements/checkout-payment/checkout-payment.php:575
+#: elements/checkout-payment/checkout-payment.php:687
+#: elements/checkout-review-order/checkout-review-order.php:284
+#: elements/cross-sells/cross-sells.php:324
+#: elements/cross-sells/cross-sells.php:373
+#: elements/cross-sells/cross-sells.php:427
+#: elements/free-shipping-notice/free-shipping-notice.php:98
+#: elements/menucart/menucart.php:311 elements/menucart/menucart.php:339
+#: elements/menucart/menucart.php:486 elements/menucart/menucart.php:801
+#: elements/menucart/menucart.php:963 elements/menucart/menucart.php:1013
+#: elements/minicart/minicart.php:77 elements/minicart/minicart.php:666
+#: elements/minicart/minicart.php:766 elements/minicart/minicart.php:909
+#: elements/minicart/minicart.php:971
+#: elements/myaccount-form-login/myaccount-form-login.php:83
+#: elements/myaccount-form-login/myaccount-form-login.php:123
+#: elements/myaccount-form-login/myaccount-form-login.php:228
+#: elements/myaccount-form-login/myaccount-form-login.php:299
+#: elements/myaccount-form-registration/myaccount-form-registration.php:50
+#: elements/myaccount-form-registration/myaccount-form-registration.php:119
+#: elements/myaccount-form-registration/myaccount-form-registration.php:159
+#: elements/myaccount-form-registration/myaccount-form-registration.php:212
+#: elements/myaccount-form-registration/myaccount-form-registration.php:273
+#: elements/offcanvascart/offcanvascart.php:700
+#: elements/offcanvascart/offcanvascart.php:1308
+#: elements/offcanvascart/offcanvascart.php:1581
+#: elements/offcanvascart/offcanvascart.php:1726
+#: elements/offcanvascart/offcanvascart.php:1780
+#: elements/offcanvascart/offcanvascart.php:1901
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:178
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:253
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:307
+#: elements/review-ratings/review-ratings.php:78
+#: elements/review-ratings/review-ratings.php:276
+#: test-elements/free-shipping-notice/free-shipping-notice.php:95
+msgid "Border"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:180
+#: elements/cart-items/cart-items.php:734
+#: elements/cart-items/cart-items.php:808 elements/cart-page/cart-page.php:100
+#: elements/cart-page/cart-page.php:154
+#: elements/cart-totals/cart-totals.php:777
+#: elements/cart-totals/cart-totals.php:877
+#: elements/categories/categories.php:405
+#: elements/categories/categories.php:803
+#: elements/checkout-coupon-form/checkout-coupon-form.php:233
+#: elements/checkout-login-form/checkout-login-form.php:321
+#: elements/checkout-payment/checkout-payment.php:576
+#: elements/checkout-payment/checkout-payment.php:688
+#: elements/cross-sells/cross-sells.php:428
+#: elements/free-shipping-notice/free-shipping-notice.php:99
+#: elements/minicart/minicart.php:910 elements/minicart/minicart.php:972
+#: elements/myaccount-form-login/myaccount-form-login.php:84
+#: elements/myaccount-form-registration/myaccount-form-registration.php:274
+#: test-elements/free-shipping-notice/free-shipping-notice.php:96
+msgid "Hover Border"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:182
+#: elements/cart-items/cart-items.php:547
+#: elements/categories/categories.php:805
+msgid "Shadow"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:183
+#: elements/cart-items/cart-items.php:548 elements/cart-page/cart-page.php:158
+#: elements/cart-totals/cart-totals.php:781
+#: elements/cart-totals/cart-totals.php:881
+#: elements/categories/categories.php:409
+#: elements/categories/categories.php:806
+#: elements/checkout-payment/checkout-payment.php:580
+#: elements/checkout-payment/checkout-payment.php:692
+#: elements/free-shipping-notice/free-shipping-notice.php:103
+#: elements/minicart/minicart.php:913 elements/minicart/minicart.php:975
+#: elements/myaccount-form-login/myaccount-form-login.php:88
+#: elements/myaccount-form-registration/myaccount-form-registration.php:278
+#: test-elements/free-shipping-notice/free-shipping-notice.php:100
+msgid "Hover Shadow"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:190
+msgid "Qty Text Field"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:197
+#: elements/categories/categories.php:722
+#: elements/cross-sells/cross-sells.php:356 elements/menucart/menucart.php:450
+#: elements/myaccount-form-login/myaccount-form-login.php:251
+#: elements/offcanvascart/offcanvascart.php:285
+#: elements/review-ratings/review-ratings.php:234
+#: elements/review-ratings/review-ratings.php:247
+msgid "Position"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:199
+#: elements/checkout-login-form/checkout-login-form.php:154
+msgid "Default"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:199
+msgid "Above The Button"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:208
+#: elements/add-to-cart/add-to-cart.php:360
+#: elements/add-to-cart/add-to-cart.php:420
+#: elements/add-to-cart/add-to-cart.php:501
+#: elements/add-to-cart/add-to-cart.php:563
+#: elements/cart-items/cart-items.php:129
+#: elements/cart-items/cart-items.php:236
+#: elements/cart-items/cart-items.php:240
+#: elements/cart-items/cart-items.php:398
+#: elements/cart-items/cart-items.php:641
+#: elements/cart-items/cart-items.php:778 elements/cart-page/cart-page.php:63
+#: elements/cart-page/cart-page.php:120 elements/cart-totals/cart-totals.php:97
+#: elements/cart-totals/cart-totals.php:151
+#: elements/cart-totals/cart-totals.php:602
+#: elements/cart-totals/cart-totals.php:666
+#: elements/cart-totals/cart-totals.php:716
+#: elements/categories/categories.php:160
+#: elements/categories/categories.php:206
+#: elements/categories/categories.php:295
+#: elements/categories/categories.php:368
+#: elements/categories/categories.php:683
+#: elements/checkout-coupon-form/checkout-coupon-form.php:72
+#: elements/checkout-coupon-form/checkout-coupon-form.php:135
+#: elements/checkout-coupon-form/checkout-coupon-form.php:192
+#: elements/checkout-coupon-form/checkout-coupon-form.php:228
+#: elements/checkout-form-builder/checkout-form-builder.php:81
+#: elements/checkout-form-builder/checkout-form-builder.php:183
+#: elements/checkout-login-form/checkout-login-form.php:72
+#: elements/checkout-login-form/checkout-login-form.php:131
+#: elements/checkout-login-form/checkout-login-form.php:182
+#: elements/checkout-login-form/checkout-login-form.php:273
+#: elements/checkout-login-form/checkout-login-form.php:316
+#: elements/checkout-payment/checkout-payment.php:57
+#: elements/checkout-payment/checkout-payment.php:95
+#: elements/checkout-payment/checkout-payment.php:133
+#: elements/checkout-payment/checkout-payment.php:311
+#: elements/checkout-payment/checkout-payment.php:364
+#: elements/checkout-payment/checkout-payment.php:404
+#: elements/checkout-review-order/checkout-review-order.php:204
+#: elements/cross-sells/cross-sells.php:60
+#: elements/cross-sells/cross-sells.php:102
+#: elements/cross-sells/cross-sells.php:229
+#: elements/cross-sells/cross-sells.php:313
+#: elements/cross-sells/cross-sells.php:337
+#: elements/cross-sells/cross-sells.php:394
+#: elements/free-shipping-notice/free-shipping-notice.php:57
+#: elements/free-shipping-notice/free-shipping-notice.php:283
+#: elements/menucart/menucart.php:224 elements/menucart/menucart.php:482
+#: elements/menucart/menucart.php:497 elements/menucart/menucart.php:586
+#: elements/menucart/menucart.php:807 elements/menucart/menucart.php:827
+#: elements/minicart/minicart.php:73 elements/minicart/minicart.php:87
+#: elements/minicart/minicart.php:102 elements/minicart/minicart.php:190
+#: elements/minicart/minicart.php:513 elements/minicart/minicart.php:655
+#: elements/minicart/minicart.php:685 elements/minicart/minicart.php:752
+#: elements/minicart/minicart.php:794 elements/minicart/minicart.php:1024
+#: elements/myaccount-form-login/myaccount-form-login.php:42
+#: elements/myaccount-form-login/myaccount-form-login.php:111
+#: elements/myaccount-form-login/myaccount-form-login.php:175
+#: elements/myaccount-form-login/myaccount-form-login.php:465
+#: elements/myaccount-form-registration/myaccount-form-registration.php:38
+#: elements/myaccount-form-registration/myaccount-form-registration.php:86
+#: elements/myaccount-form-registration/myaccount-form-registration.php:147
+#: elements/myaccount-form-registration/myaccount-form-registration.php:185
+#: elements/myaccount-form-registration/myaccount-form-registration.php:232
+#: elements/myaccount-form-registration/myaccount-form-registration.php:295
+#: elements/offcanvascart/offcanvascart.php:359
+#: elements/offcanvascart/offcanvascart.php:427
+#: elements/offcanvascart/offcanvascart.php:624
+#: elements/offcanvascart/offcanvascart.php:922
+#: elements/offcanvascart/offcanvascart.php:1014
+#: elements/offcanvascart/offcanvascart.php:1297
+#: elements/offcanvascart/offcanvascart.php:1322
+#: elements/offcanvascart/offcanvascart.php:1405
+#: elements/offcanvascart/offcanvascart.php:1477
+#: elements/offcanvascart/offcanvascart.php:1499
+#: elements/offcanvascart/offcanvascart.php:1567
+#: elements/offcanvascart/offcanvascart.php:1601
+#: elements/offcanvascart/offcanvascart.php:1670
+#: elements/offcanvascart/offcanvascart.php:1967
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:166
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:288
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:344
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:392
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:609
+#: elements/review-graph/review-graph.php:221
+#: elements/review-ratings/review-ratings.php:67
+#: elements/review-ratings/review-ratings.php:243
+#: test-elements/free-shipping-notice/free-shipping-notice.php:54
+#: test-elements/free-shipping-notice/free-shipping-notice.php:261
+#: test-elements/timer/timer.php:315 test-elements/timer/timer.php:443
+#: test-elements/timer/timer.php:490
+msgid "Padding"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:219
+msgid "Color & Width"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:239
+#: elements/cart-items/cart-items.php:663
+#: elements/cart-totals/cart-totals.php:478
+#: elements/checkout-coupon-form/checkout-coupon-form.php:167
+#: elements/checkout-form-builder/checkout-form-builder.php:158
+#: elements/checkout-form-builder/checkout-form-builder.php:237
+#: elements/checkout-login-form/checkout-login-form.php:248
+#: elements/myaccount-form-login/myaccount-form-login.php:216
+#: elements/myaccount-form-registration/myaccount-form-registration.php:107
+msgid "Focus Background Color"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:244
+#: elements/cart-items/cart-items.php:668
+#: elements/cart-totals/cart-totals.php:483
+#: elements/checkout-coupon-form/checkout-coupon-form.php:172
+#: elements/checkout-form-builder/checkout-form-builder.php:163
+#: elements/checkout-form-builder/checkout-form-builder.php:249
+#: elements/checkout-login-form/checkout-login-form.php:253
+#: elements/myaccount-form-login/myaccount-form-login.php:221
+#: elements/myaccount-form-registration/myaccount-form-registration.php:112
+msgid "Focus Text Color"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:263
+#: elements/cart-items/cart-items.php:686
+#: elements/cart-totals/cart-totals.php:497
+#: elements/checkout-coupon-form/checkout-coupon-form.php:182
+#: elements/checkout-form-builder/checkout-form-builder.php:173
+#: elements/checkout-form-builder/checkout-form-builder.php:261
+#: elements/checkout-login-form/checkout-login-form.php:263
+msgid "Focus Border Color"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:286
+#: elements/add-to-cart/add-to-cart.php:307
+msgid "Add To Cart Text"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:291
+#: elements/cart-totals/cart-totals.php:736
+#: elements/cart-totals/cart-totals.php:807
+#: elements/checkout-payment/checkout-payment.php:603
+msgid "Click on Apply Params button and apply the change."
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:296
+msgid "Change Button Text"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:317
+msgid "Select Options Text"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:327
+msgid "Read More Text"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:337
+msgid "View Products Text"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:347
+msgid " Size & Spacing"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:371
+#: elements/cart-items/cart-items.php:299
+#: elements/cart-items/cart-items.php:786 elements/cart-page/cart-page.php:131
+#: elements/cart-totals/cart-totals.php:754
+#: elements/cart-totals/cart-totals.php:854
+#: elements/checkout-coupon-form/checkout-coupon-form.php:160
+#: elements/checkout-form-builder/checkout-form-builder.php:151
+#: elements/checkout-form-builder/checkout-form-builder.php:283
+#: elements/checkout-login-form/checkout-login-form.php:241
+#: elements/checkout-payment/checkout-payment.php:553
+#: elements/checkout-payment/checkout-payment.php:665
+#: elements/cross-sells/cross-sells.php:405 elements/menucart/menucart.php:320
+#: elements/minicart/minicart.php:142 elements/minicart/minicart.php:416
+#: elements/minicart/minicart.php:630
+#: elements/offcanvascart/offcanvascart.php:957
+#: elements/offcanvascart/offcanvascart.php:1452
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:475
+msgid "Color"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:379
+#: elements/add-to-cart/add-to-cart.php:445
+#: elements/add-to-cart/add-to-cart.php:523 elements/menucart/menucart.php:258
+#: elements/menucart/menucart.php:327
+#: elements/offcanvascart/offcanvascart.php:658
+#: elements/offcanvascart/offcanvascart.php:816
+msgid "Background Hover Color"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:384
+#: elements/add-to-cart/add-to-cart.php:450
+#: elements/add-to-cart/add-to-cart.php:528
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:639
+msgid "Hover Text Color"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:392
+#: elements/add-to-cart/add-to-cart.php:456
+msgid "Fonts"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:395
+#: elements/add-to-cart/add-to-cart.php:457
+#: elements/add-to-cart/add-to-cart.php:536
+#: elements/myaccount-form-login/myaccount-form-login.php:480
+#: elements/myaccount-form-registration/myaccount-form-registration.php:310
+#: test-elements/timer/timer.php:327 test-elements/timer/timer.php:455
+#: test-elements/timer/timer.php:507
+msgid "Borders"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:396
+#: elements/add-to-cart/add-to-cart.php:458
+msgid "Hover Borders"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:399
+#: elements/add-to-cart/add-to-cart.php:459
+#: elements/add-to-cart/add-to-cart.php:537
+#: elements/cart-items/cart-items.php:58 elements/cart-items/cart-items.php:811
+#: elements/cart-page/cart-page.php:157
+#: elements/cart-totals/cart-totals.php:112
+#: elements/cart-totals/cart-totals.php:346
+#: elements/cart-totals/cart-totals.php:780
+#: elements/cart-totals/cart-totals.php:880
+#: elements/categories/categories.php:408
+#: elements/checkout-coupon-form/checkout-coupon-form.php:98
+#: elements/checkout-coupon-form/checkout-coupon-form.php:149
+#: elements/checkout-coupon-form/checkout-coupon-form.php:197
+#: elements/checkout-coupon-form/checkout-coupon-form.php:235
+#: elements/checkout-form-builder/checkout-form-builder.php:188
+#: elements/checkout-login-form/checkout-login-form.php:98
+#: elements/checkout-login-form/checkout-login-form.php:143
+#: elements/checkout-login-form/checkout-login-form.php:278
+#: elements/checkout-login-form/checkout-login-form.php:323
+#: elements/checkout-payment/checkout-payment.php:72
+#: elements/checkout-payment/checkout-payment.php:110
+#: elements/checkout-payment/checkout-payment.php:148
+#: elements/checkout-payment/checkout-payment.php:192
+#: elements/checkout-payment/checkout-payment.php:326
+#: elements/checkout-payment/checkout-payment.php:379
+#: elements/checkout-payment/checkout-payment.php:438
+#: elements/checkout-payment/checkout-payment.php:579
+#: elements/checkout-payment/checkout-payment.php:691
+#: elements/checkout-review-order/checkout-review-order.php:154
+#: elements/cross-sells/cross-sells.php:325
+#: elements/cross-sells/cross-sells.php:374
+#: elements/cross-sells/cross-sells.php:431
+#: elements/free-shipping-notice/free-shipping-notice.php:102
+#: elements/menucart/menucart.php:312 elements/menucart/menucart.php:487
+#: elements/menucart/menucart.php:964 elements/menucart/menucart.php:1014
+#: elements/minicart/minicart.php:78 elements/minicart/minicart.php:912
+#: elements/minicart/minicart.php:974
+#: elements/myaccount-form-login/myaccount-form-login.php:87
+#: elements/myaccount-form-login/myaccount-form-login.php:126
+#: elements/myaccount-form-login/myaccount-form-login.php:232
+#: elements/myaccount-form-login/myaccount-form-login.php:481
+#: elements/myaccount-form-registration/myaccount-form-registration.php:53
+#: elements/myaccount-form-registration/myaccount-form-registration.php:123
+#: elements/myaccount-form-registration/myaccount-form-registration.php:277
+#: elements/myaccount-form-registration/myaccount-form-registration.php:311
+#: elements/offcanvascart/offcanvascart.php:701
+#: elements/offcanvascart/offcanvascart.php:1727
+#: elements/offcanvascart/offcanvascart.php:1781
+#: elements/offcanvascart/offcanvascart.php:1902
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:181
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:256
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:314
+#: elements/review-ratings/review-ratings.php:277
+#: test-elements/free-shipping-notice/free-shipping-notice.php:99
+#: test-elements/timer/timer.php:456 test-elements/timer/timer.php:508
+msgid "Box Shadow"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:400
+#: elements/add-to-cart/add-to-cart.php:460
+#: elements/cart-items/cart-items.php:738
+#: elements/cart-items/cart-items.php:812
+#: elements/checkout-coupon-form/checkout-coupon-form.php:236
+#: elements/checkout-login-form/checkout-login-form.php:324
+#: elements/cross-sells/cross-sells.php:432
+msgid "Hover Box Shadow"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:407 elements/minicart/minicart.php:854
+msgid "View Cart"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:410
+msgid "Show View Cart Button"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:465 elements/minicart/minicart.php:208
+msgid "Variations"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:469
+msgid "Show Variation Price (bottom)"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:480
+msgid "Show Variation Description"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:488
+#: elements/categories/categories.php:245
+#: elements/checkout-payment/checkout-payment.php:259
+msgid "Label"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:490
+#: elements/categories/categories.php:272
+#: elements/checkout-payment/checkout-payment.php:273
+msgid "Description"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:494
+msgid "Clear Text"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:539
+msgid "Variation Dropdown"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:591
+#: elements/add-to-cart/add-to-cart.php:909
+msgid "Select a product"
+msgstr ""
+
+#: elements/add-to-cart/add-to-cart.php:626
+#: elements/add-to-cart/add-to-cart.php:627
+#: elements/add-to-cart/add-to-cart.php:628
+#: elements/add-to-cart/add-to-cart.php:629
+msgid "Add to cart"
+msgstr ""
+
+#: elements/billing-form/billing-form.php:7 includes/admin.php:213
+msgid "Billing Form"
+msgstr ""
+
+#: elements/billing-form/billing-form.php:28
+#: elements/cart-page/cart-page.php:25
+#: elements/checkout-coupon-form/checkout-coupon-form.php:28
+#: elements/checkout-form-builder/checkout-form-builder.php:30
+#: elements/checkout-login-form/checkout-login-form.php:28
+#: elements/checkout-page/checkout-page.php:28
+#: elements/checkout-payment/checkout-payment.php:28
+#: elements/checkout-review-order/checkout-review-order.php:28
+#: elements/shipping-form/shipping-form.php:27
+msgid "Available Elements"
+msgstr ""
+
+#: elements/billing-form/billing-form.php:39
+#: elements/shipping-form/shipping-form.php:38
+msgid "Fields style options are available in Checkout Form Builder component."
+msgstr ""
+
+#: elements/billing-form/billing-form.php:41
+#: elements/cross-sells/cross-sells.php:84 elements/menucart/menucart.php:368
+msgid "Note:"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:8 elements/minicart/minicart.php:81
+#: elements/offcanvascart/offcanvascart.php:902 includes/admin.php:204
+msgid "Cart Items"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:39
+msgid "Table"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:67
+msgid "Table Header"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:84
+msgid "Border Top Color"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:89
+msgid "Border Top Width"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:96 elements/cart-items/cart-items.php:260
+#: elements/menucart/menucart.php:711 elements/minicart/minicart.php:213
+#: elements/offcanvascart/offcanvascart.php:1097
+msgid "Vertical Border Color"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:101
+#: elements/cart-items/cart-items.php:265 elements/menucart/menucart.php:716
+#: elements/minicart/minicart.php:218
+#: elements/offcanvascart/offcanvascart.php:1102
+msgid "Vertical Border Width"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:108
+#: elements/cart-items/cart-items.php:272
+msgid "Vertical Border Style"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:113
+#: elements/cart-items/cart-items.php:277
+#: elements/categories/categories.php:817 test-elements/timer/timer.php:343
+msgid "None"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:114
+#: elements/cart-items/cart-items.php:278
+msgid "Solid"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:115
+#: elements/cart-items/cart-items.php:279
+msgid "Dashed"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:116
+#: elements/cart-items/cart-items.php:280
+msgid "Dotted"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:143
+msgid "Responsiveness"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:147
+msgid "Product Label Font Size"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:152
+msgid "Price Label Font Size"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:157
+msgid "Quantity Label Font Size"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:162
+msgid "Subtotal Label Font Size"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:175
+msgid "Product Label Color"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:180
+msgid "Price Label Color"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:185
+msgid "Quantity Label Color"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:190
+msgid "Subtotal Label Color"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:203
+msgid "Overall Text Transform"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:208
+msgid "Overall Line Height"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:225
+msgid "Table Body"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:286 elements/menucart/menucart.php:643
+#: elements/minicart/minicart.php:267
+#: elements/offcanvascart/offcanvascart.php:1035
+msgid "Remove Icon"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:317 elements/menucart/menucart.php:539
+#: elements/offcanvascart/offcanvascart.php:964
+msgid "Product Image"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:351
+#: elements/offcanvascart/offcanvascart.php:1025
+msgid "Product Title"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:364 elements/menucart/menucart.php:766
+#: elements/minicart/minicart.php:610
+#: elements/offcanvascart/offcanvascart.php:1438
+msgid "Sub Total"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:373
+msgid "Table Footer"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:377
+msgid "Hide Footer Row"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:409
+#: elements/checkout-review-order/checkout-review-order.php:209
+#: elements/free-shipping-notice/free-shipping-notice.php:269
+#: elements/minicart/minicart.php:386
+msgid "Quantity"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:413
+#: elements/cart-items/cart-items.php:602
+#: elements/cart-totals/cart-totals.php:697
+#: elements/categories/categories.php:133
+#: elements/categories/categories.php:265
+#: elements/checkout-payment/checkout-payment.php:458
+#: elements/menucart/menucart.php:551 elements/menucart/menucart.php:894
+#: elements/minicart/minicart.php:828
+#: elements/offcanvascart/offcanvascart.php:976
+#: elements/offcanvascart/offcanvascart.php:1652
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:595
+msgid "Alignment"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:417
+#: elements/categories/categories.php:268
+#: elements/categories/categories.php:750
+#: elements/categories/categories.php:789 elements/menucart/menucart.php:104
+#: elements/menucart/menucart.php:465
+#: elements/offcanvascart/offcanvascart.php:501
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:597
+msgid "Left"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:417
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:598
+msgid "Center"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:417
+#: elements/categories/categories.php:268
+#: elements/categories/categories.php:757
+#: elements/categories/categories.php:796 elements/menucart/menucart.php:105
+#: elements/menucart/menucart.php:471
+#: elements/offcanvascart/offcanvascart.php:502
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:599
+msgid "Right"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:436
+#: elements/cart-items/cart-items.php:519
+msgid "Initial Color"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:451
+msgid "Focus Color"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:467
+#: elements/myaccount-form-login/myaccount-form-login.php:229
+#: elements/myaccount-form-registration/myaccount-form-registration.php:120
+msgid "Focus Border"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:474 elements/minicart/minicart.php:427
+msgid "+/- Button"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:480 elements/menucart/menucart.php:1076
+#: elements/review-graph/review-graph.php:183
+msgid "Disable"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:503 elements/minicart/minicart.php:421
+#: elements/minicart/minicart.php:455 elements/minicart/minicart.php:636
+#: elements/offcanvascart/offcanvascart.php:1458
+msgid "Font Size"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:532
+#: elements/categories/categories.php:715
+#: elements/cross-sells/cross-sells.php:220 elements/menucart/menucart.php:291
+#: elements/minicart/minicart.php:203
+#: elements/myaccount-form-registration/myaccount-form-registration.php:206
+#: elements/offcanvascart/offcanvascart.php:416
+#: elements/offcanvascart/offcanvascart.php:691
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:220
+msgid "Hover Color"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:545
+msgid "Hove Border"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:556 elements/minicart/minicart.php:470
+#: elements/offcanvascart/offcanvascart.php:1313
+msgid "Coupon Form"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:568
+msgid "Wrapper"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:579
+#: elements/cart-items/cart-items.php:649
+#: elements/cart-totals/cart-totals.php:471
+#: elements/checkout-coupon-form/checkout-coupon-form.php:155
+#: elements/minicart/minicart.php:408
+msgid "Input Field"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:590
+#: elements/categories/categories.php:322
+#: elements/checkout-coupon-form/checkout-coupon-form.php:203
+#: elements/checkout-login-form/checkout-login-form.php:284
+#: elements/cross-sells/cross-sells.php:378
+#: elements/free-shipping-notice/free-shipping-notice.php:26
+#: elements/myaccount-form-login/myaccount-form-login.php:26
+#: elements/myaccount-form-registration/myaccount-form-registration.php:216
+#: test-elements/free-shipping-notice/free-shipping-notice.php:23
+msgid "Button"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:608
+msgid "Align"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:609
+msgid "Horizonal"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:609
+msgid "Vertical"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:637
+msgid "Fields Spacing"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:653
+msgid "Placeholder Text"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:673
+#: elements/cart-totals/cart-totals.php:488
+#: elements/checkout-coupon-form/checkout-coupon-form.php:177
+#: elements/checkout-form-builder/checkout-form-builder.php:168
+#: elements/checkout-login-form/checkout-login-form.php:258
+#: elements/minicart/minicart.php:563
+#: elements/offcanvascart/offcanvascart.php:1357
+msgid "Placeholder Color"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:696
+#: elements/cart-totals/cart-totals.php:511
+msgid "Input Text"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:698
+msgid "Input Field Shadow"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:708
+#: elements/cart-items/cart-items.php:730
+#: elements/cart-items/cart-items.php:766
+#: elements/cart-totals/cart-totals.php:615
+#: elements/cart-totals/cart-totals.php:733
+#: elements/cart-totals/cart-totals.php:803
+#: elements/checkout-login-form/checkout-login-form.php:289
+#: elements/checkout-payment/checkout-payment.php:600
+#: elements/myaccount-form-login/myaccount-form-login.php:32
+#: elements/myaccount-form-registration/myaccount-form-registration.php:222
+#: elements/offcanvascart/offcanvascart.php:1800
+msgid "Button Text"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:712
+msgid "Button Color"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:724
+#: elements/cart-items/cart-items.php:798
+#: elements/checkout-coupon-form/checkout-coupon-form.php:218
+#: elements/checkout-login-form/checkout-login-form.php:306
+#: elements/cross-sells/cross-sells.php:417
+#: elements/free-shipping-notice/free-shipping-notice.php:91
+#: elements/myaccount-form-login/myaccount-form-login.php:76
+#: elements/myaccount-form-registration/myaccount-form-registration.php:266
+#: test-elements/free-shipping-notice/free-shipping-notice.php:88
+msgid "Text Color on Hover"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:733
+#: elements/cart-totals/cart-totals.php:635 elements/minicart/minicart.php:601
+#: elements/offcanvascart/offcanvascart.php:1393
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:651
+msgid "Button Border"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:737
+msgid "Button Box Shadow"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:743
+msgid "Update Button"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:749
+msgid "Hide Button"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:757
+msgid "Update Automatically?"
+msgstr ""
+
+#: elements/cart-items/cart-items.php:762
+msgid ""
+"Cart will update automatically without clicking on the Update Cart button."
+msgstr ""
+
+#: elements/cart-page/cart-page.php:7
+msgid "Cart Builder"
+msgstr ""
+
+#: elements/cart-page/cart-page.php:40
+msgid "Empty Cart Text"
+msgstr ""
+
+#: elements/cart-page/cart-page.php:77 elements/categories/categories.php:381
+#: elements/categories/categories.php:660 elements/menucart/menucart.php:120
+#: elements/menucart/menucart.php:143 elements/menucart/menucart.php:187
+#: elements/myaccount-form-login/myaccount-form-login.php:483
+#: elements/myaccount-form-registration/myaccount-form-registration.php:313
+#: elements/offcanvascart/offcanvascart.php:377
+#: elements/offcanvascart/offcanvascart.php:518
+#: elements/offcanvascart/offcanvascart.php:541
+#: elements/offcanvascart/offcanvascart.php:585
+msgid "Icon"
+msgstr ""
+
+#: elements/cart-page/cart-page.php:82
+#: elements/myaccount-form-login/myaccount-form-login.php:484
+#: elements/myaccount-form-registration/myaccount-form-registration.php:314
+msgid "Hide Icon?"
+msgstr ""
+
+#: elements/cart-page/cart-page.php:104
+msgid "Empty Cart Button"
+msgstr ""
+
+#: elements/cart-page/cart-page.php:173
+msgid "Empty cart page will redirect to specified URL."
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:10
+msgid "Cart Totals"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:44
+msgid "Conditionally Hide Shipping Methods"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:47
+msgid "Show All Methods"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:48
+msgid "Only Show Free Shipping"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:49
+msgid "Show Free Shipping & Local Pickup"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:50
+msgid "Show Free Shipping except following states"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:53
+msgid ""
+"It automatically hides all other shipping methods when \"Free shipping\" is "
+"available during checkout."
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:57
+msgid "Enter States Alpha-2 Code"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:60
+msgid "e,g: AK,HI,GU,PR"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:64
+msgid ""
+"You would clear your WooCommerce cache. Go to <strong>WooCommerce > System "
+"Status > Tools > WooCommerce Transients > Clear transients</strong>"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:67
+msgid "Note for Above Option:"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:76
+#: elements/cross-sells/cross-sells.php:40
+msgid "Outer Wrapper"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:123
+msgid "Cart Totals Text"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:125
+msgid "Hide Heading?"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:129
+msgid ""
+"If you want to add the custom text, you will hide this heading and add the "
+"custom one via Heading or any other component."
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:175
+msgid "Table Content"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:179
+msgid "1st Column Width"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:188
+#: elements/checkout-form-builder/checkout-form-builder.php:231
+#: elements/checkout-payment/checkout-payment.php:285
+#: elements/checkout-review-order/checkout-review-order.php:57
+#: elements/menucart/menucart.php:501 elements/minicart/minicart.php:114
+#: elements/minicart/minicart.php:411
+#: elements/offcanvascart/offcanvascart.php:926
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:118
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:378
+msgid "Background Color"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:191
+#: elements/checkout-review-order/checkout-review-order.php:60
+msgid "Background Color of Whole Table"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:196
+#: elements/checkout-review-order/checkout-review-order.php:65
+msgid "Background Color of Subtotal Row"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:201
+#: elements/checkout-review-order/checkout-review-order.php:70
+msgid "Background Color of Coupon Row"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:206
+#: elements/checkout-review-order/checkout-review-order.php:75
+msgid "Background Color of Shipping Row"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:211
+#: elements/checkout-review-order/checkout-review-order.php:80
+msgid "Background Color of Fees Row"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:216
+#: elements/checkout-review-order/checkout-review-order.php:85
+msgid "Background Color of Tax Row"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:221
+#: elements/checkout-review-order/checkout-review-order.php:90
+msgid "Background Color of Total Row"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:226
+msgid "Background Color of Labels"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:236
+#: elements/checkout-review-order/checkout-review-order.php:53
+msgid "Cell Padding"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:248
+#: elements/cart-totals/cart-totals.php:419
+#: elements/checkout-review-order/checkout-review-order.php:123
+#: elements/checkout-review-order/checkout-review-order.php:286
+msgid "Label Typography"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:251
+#: elements/cart-totals/cart-totals.php:420
+#: elements/checkout-review-order/checkout-review-order.php:126
+#: elements/checkout-review-order/checkout-review-order.php:287
+msgid "Price Typography"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:254
+#: elements/checkout-review-order/checkout-review-order.php:129
+msgid "Coupon Remove Link Color"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:259
+#: elements/checkout-review-order/checkout-review-order.php:134
+msgid "Coupon Remove Link Hover Color"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:264
+#: elements/checkout-review-order/checkout-review-order.php:139
+msgid "Coupon Remove Link Font Size"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:269
+#: elements/checkout-review-order/checkout-review-order.php:144
+msgid "Coupon Remove Link Font Weight"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:276
+msgid "Order Total Row"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:279
+#: elements/checkout-payment/checkout-payment.php:177
+#: elements/checkout-review-order/checkout-review-order.php:299
+#: elements/menucart/menucart.php:743 elements/minicart/minicart.php:245
+#: elements/minicart/minicart.php:341
+#: elements/offcanvascart/offcanvascart.php:1129
+#: elements/offcanvascart/offcanvascart.php:1167
+msgid "Label Color"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:284
+#: elements/checkout-review-order/checkout-review-order.php:304
+#: elements/minicart/minicart.php:347
+#: elements/offcanvascart/offcanvascart.php:1173
+msgid "Label Font Size"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:289
+#: elements/checkout-review-order/checkout-review-order.php:309
+#: elements/menucart/menucart.php:748 elements/minicart/minicart.php:250
+#: elements/minicart/minicart.php:353
+#: elements/offcanvascart/offcanvascart.php:1134
+#: elements/offcanvascart/offcanvascart.php:1179
+msgid "Label Font Weight"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:294
+#: elements/checkout-review-order/checkout-review-order.php:314
+#: elements/menucart/menucart.php:624 elements/menucart/menucart.php:780
+#: elements/minicart/minicart.php:359
+#: elements/offcanvascart/offcanvascart.php:1185
+msgid "Price Color"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:299
+#: elements/checkout-review-order/checkout-review-order.php:319
+#: elements/menucart/menucart.php:630 elements/menucart/menucart.php:786
+#: elements/minicart/minicart.php:365
+#: elements/offcanvascart/offcanvascart.php:1191
+msgid "Price Font Size"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:304
+#: elements/checkout-review-order/checkout-review-order.php:324
+#: elements/menucart/menucart.php:636 elements/minicart/minicart.php:371
+#: elements/offcanvascart/offcanvascart.php:1197
+msgid "Price Font Weight"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:311
+msgid "Cell Top Border"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:327
+msgid "Cell Right Border"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:343
+#: elements/checkout-review-order/checkout-review-order.php:151
+msgid "Outer Border"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:355
+#: elements/checkout-payment/checkout-payment.php:200
+#: elements/checkout-review-order/checkout-review-order.php:218
+msgid "Radio Buttons"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:357
+#: elements/checkout-payment/checkout-payment.php:202
+#: elements/checkout-review-order/checkout-review-order.php:220
+msgid "Size & Color"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:374
+#: elements/checkout-review-order/checkout-review-order.php:241
+msgid "Checked Radio Button Color"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:379
+#: elements/checkout-review-order/checkout-review-order.php:246
+msgid "Checked Radio Button Alt Color"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:385
+#: elements/checkout-review-order/checkout-review-order.php:252
+msgid "Checked Radio Button Border Color"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:393
+#: elements/checkout-review-order/checkout-review-order.php:260
+msgid "Checked Radio Button Bullet Size"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:400
+#: elements/checkout-review-order/checkout-review-order.php:267
+msgid "Align / Gap"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:410
+#: elements/checkout-review-order/checkout-review-order.php:277
+msgid "Gap Between Buttons"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:429
+msgid "Form"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:434
+msgid "Show Preview of Shipping Form on Builder Editor"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:441
+msgid "Hide Shipping Options Message?"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:447
+msgid "Shipping Info Font"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:450
+msgid "Form Toggle Link"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:453
+msgid "Space at Top"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:460
+msgid "Space at Bottom"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:513
+#: elements/checkout-form-builder/checkout-form-builder.php:197
+msgid "Dropdown"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:515
+#: elements/checkout-form-builder/checkout-form-builder.php:205
+msgid "Background Color of Selected Option"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:521
+#: elements/checkout-form-builder/checkout-form-builder.php:211
+msgid "Option Background Color on Hover"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:527
+#: elements/checkout-form-builder/checkout-form-builder.php:217
+msgid "Selected Option Color"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:533
+#: elements/checkout-form-builder/checkout-form-builder.php:223
+msgid "Option Color on Hover"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:539
+msgid "Background Color of Search Field"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:545
+msgid "Focus Background Color of Search Field"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:551
+msgid "Text Color of Search Field"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:557
+msgid "Focus Text Color of Search Field"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:563
+msgid "Border Color of Search Field"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:569
+msgid "Focus Border Color of Search Field"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:575
+msgid "Border Width of Search Field"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:582
+msgid "Border Radius of Search Field"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:589
+msgid "Button Size"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:636 elements/minicart/minicart.php:602
+#: elements/offcanvascart/offcanvascart.php:1394
+msgid "Button Hover Border"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:640 elements/minicart/minicart.php:604
+#: elements/offcanvascart/offcanvascart.php:1395
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:652
+msgid "Button Shadow"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:641 elements/minicart/minicart.php:605
+#: elements/offcanvascart/offcanvascart.php:1396
+msgid "Button Hover Shadow"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:650
+#: elements/cart-totals/cart-totals.php:686
+#: elements/checkout-payment/checkout-payment.php:446
+#: elements/minicart/minicart.php:815
+msgid "Buttons Config"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:658 elements/minicart/minicart.php:782
+msgid "Wrapper Config"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:680 elements/minicart/minicart.php:524
+#: elements/minicart/minicart.php:809
+#: elements/offcanvascart/offcanvascart.php:1399
+msgid "Wrapper Border"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:688
+#: elements/checkout-payment/checkout-payment.php:450
+#: elements/cross-sells/cross-sells.php:239 elements/minicart/minicart.php:480
+#: elements/minicart/minicart.php:817
+msgid "Stack"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:727 elements/minicart/minicart.php:917
+msgid "Checkout"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:789
+#: elements/checkout-payment/checkout-payment.php:588
+msgid "Shop Button"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:795
+msgid "Add Continue Shopping Button?"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:811
+#: elements/checkout-payment/checkout-payment.php:607
+#: elements/offcanvascart/offcanvascart.php:1809
+msgid "Button URL Source"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:813
+#: elements/checkout-payment/checkout-payment.php:609
+#: elements/offcanvascart/offcanvascart.php:1811
+msgid "Shop Page"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:813
+#: elements/checkout-login-form/checkout-login-form.php:154
+#: elements/checkout-payment/checkout-payment.php:609
+#: elements/offcanvascart/offcanvascart.php:1811
+msgid "Custom"
+msgstr ""
+
+#: elements/cart-totals/cart-totals.php:827
+#: elements/checkout-payment/checkout-payment.php:623
+#: elements/myaccount-form-login/myaccount-form-login.php:402
+#: elements/myaccount-form-registration/myaccount-form-registration.php:336
+#: elements/offcanvascart/offcanvascart.php:1825
+msgid "Custom URL"
+msgstr ""
+
+#: elements/categories/categories.php:9 includes/admin.php:198
+msgid "Product Categories"
+msgstr ""
+
+#: elements/categories/categories.php:21
+#: elements/cross-sells/cross-sells.php:120
+msgid "Query"
+msgstr ""
+
+#: elements/categories/categories.php:25
+msgid "Specific Categories Only(IDs)"
+msgstr ""
+
+#: elements/categories/categories.php:31
+msgid "Exclude Specific Categories(IDs)"
+msgstr ""
+
+#: elements/categories/categories.php:58
+msgid "Offset will work when you enter the limit."
+msgstr ""
+
+#: elements/categories/categories.php:92
+msgid "Name"
+msgstr ""
+
+#: elements/categories/categories.php:93
+msgid "ID"
+msgstr ""
+
+#: elements/categories/categories.php:94
+msgid "Slug"
+msgstr ""
+
+#: elements/categories/categories.php:95
+msgid "Menu Order"
+msgstr ""
+
+#: elements/categories/categories.php:96
+msgid "Include"
+msgstr ""
+
+#: elements/categories/categories.php:97
+msgid "Count"
+msgstr ""
+
+#: elements/categories/categories.php:106
+#: elements/free-shipping-notice/free-shipping-notice.php:134
+#: elements/menucart/menucart.php:42
+#: test-elements/free-shipping-notice/free-shipping-notice.php:131
+msgid "Config"
+msgstr ""
+
+#: elements/categories/categories.php:110
+#: elements/categories/categories.php:424
+#: elements/cross-sells/cross-sells.php:135
+msgid "Columns"
+msgstr ""
+
+#: elements/categories/categories.php:116
+msgid "You can change the columns in different breakpoints."
+msgstr ""
+
+#: elements/categories/categories.php:121
+msgid "Space Between Grid Items"
+msgstr ""
+
+#: elements/categories/categories.php:128
+#: elements/checkout-login-form/checkout-login-form.php:232
+#: elements/menucart/menucart.php:606
+msgid "Margin Bottom"
+msgstr ""
+
+#: elements/categories/categories.php:151 elements/menucart/menucart.php:144
+#: elements/menucart/menucart.php:150 elements/minicart/minicart.php:148
+#: elements/offcanvascart/offcanvascart.php:542
+#: elements/offcanvascart/offcanvascart.php:548
+msgid "Image"
+msgstr ""
+
+#: elements/categories/categories.php:178
+#: elements/checkout-review-order/checkout-review-order.php:208
+#: elements/cross-sells/cross-sells.php:88
+#: elements/cross-sells/cross-sells.php:216 elements/minicart/minicart.php:201
+#: elements/offcanvascart/offcanvascart.php:346
+#: test-elements/categories/ou-cat-title.php:6
+msgid "Title"
+msgstr ""
+
+#: elements/categories/categories.php:219
+#: elements/review-ratings/review-ratings.php:157
+msgid "Counts"
+msgstr ""
+
+#: elements/categories/categories.php:234
+#: elements/categories/categories.php:328
+#: elements/checkout-login-form/checkout-login-form.php:149
+#: elements/checkout-login-form/checkout-login-form.php:340
+#: elements/free-shipping-notice/free-shipping-notice.php:32
+#: elements/menucart/menucart.php:119 elements/menucart/menucart.php:131
+#: elements/menucart/menucart.php:299
+#: elements/myaccount-form-login/myaccount-form-login.php:316
+#: elements/myaccount-form-login/myaccount-form-login.php:327
+#: elements/myaccount-form-login/myaccount-form-login.php:377
+#: elements/offcanvascart/offcanvascart.php:517
+#: elements/offcanvascart/offcanvascart.php:529
+#: elements/review-ratings/review-ratings.php:49
+#: elements/review-ratings/review-ratings.php:59
+#: elements/review-ratings/review-ratings.php:150
+#: elements/review-ratings/review-ratings.php:155
+#: test-elements/free-shipping-notice/free-shipping-notice.php:29
+#: test-elements/free-shipping-notice/free-shipping-notice.php:250
+msgid "Text"
+msgstr ""
+
+#: elements/categories/categories.php:236
+msgid "Click on Apply Params button and see the text"
+msgstr ""
+
+#: elements/categories/categories.php:238
+#: elements/review-graph/review-graph.php:179
+#: elements/review-graph/review-graph.php:197
+msgid "Number"
+msgstr ""
+
+#: elements/categories/categories.php:278
+msgid "Display Description?"
+msgstr ""
+
+#: elements/categories/categories.php:286
+msgid "Content Limit"
+msgstr ""
+
+#: elements/categories/categories.php:289
+msgid "Empty or 0 will show the full description."
+msgstr ""
+
+#: elements/categories/categories.php:308
+msgid "Extra Colors"
+msgstr ""
+
+#: elements/categories/categories.php:330
+msgid "Click on Apply Params button and see the button"
+msgstr ""
+
+#: elements/categories/categories.php:332
+msgid "Colors & Size"
+msgstr ""
+
+#: elements/categories/categories.php:385
+msgid "Select Icon"
+msgstr ""
+
+#: elements/categories/categories.php:398
+#: elements/offcanvascart/offcanvascart.php:1872
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:677
+msgid "Gap"
+msgstr ""
+
+#: elements/categories/categories.php:413
+msgid "Carousel"
+msgstr ""
+
+#: elements/categories/categories.php:417
+msgid "Enable Carousel"
+msgstr ""
+
+#: elements/categories/categories.php:427
+#: elements/categories/categories.php:464
+#: elements/categories/categories.php:501
+msgid "All Devices"
+msgstr ""
+
+#: elements/categories/categories.php:434
+#: elements/categories/categories.php:471
+#: elements/categories/categories.php:508
+msgid "Less than 993px)"
+msgstr ""
+
+#: elements/categories/categories.php:441
+#: elements/categories/categories.php:478
+#: elements/categories/categories.php:514
+msgid "Less than 769px)"
+msgstr ""
+
+#: elements/categories/categories.php:448
+#: elements/categories/categories.php:485
+#: elements/categories/categories.php:520
+msgid "Less than 681px)"
+msgstr ""
+
+#: elements/categories/categories.php:455
+#: elements/categories/categories.php:492
+#: elements/categories/categories.php:526
+msgid "Less than 481px)"
+msgstr ""
+
+#: elements/categories/categories.php:461
+msgid "Columns Gap"
+msgstr ""
+
+#: elements/categories/categories.php:498
+msgid "Slides to Scroll"
+msgstr ""
+
+#: elements/categories/categories.php:504
+msgid "Set numbers of slides to move at a time."
+msgstr ""
+
+#: elements/categories/categories.php:534
+msgid "Transition"
+msgstr ""
+
+#: elements/categories/categories.php:538
+msgid "Transition Speed"
+msgstr ""
+
+#: elements/categories/categories.php:544
+msgid "Auto Play"
+msgstr ""
+
+#: elements/categories/categories.php:556
+msgid "Auto Play Speed"
+msgstr ""
+
+#: elements/categories/categories.php:563
+msgid "Pause on Hover"
+msgstr ""
+
+#: elements/categories/categories.php:574
+msgid "Pause on Interaction"
+msgstr ""
+
+#: elements/categories/categories.php:585
+msgid "Centered Slide"
+msgstr ""
+
+#: elements/categories/categories.php:597
+msgid "Infinite Loop"
+msgstr ""
+
+#: elements/categories/categories.php:609
+#: elements/checkout-form-builder/checkout-form-builder.php:281
+#: elements/review-ratings/review-ratings.php:217
+msgid "Arrow"
+msgstr ""
+
+#: elements/categories/categories.php:613
+msgid "Show Arrows"
+msgstr ""
+
+#: elements/categories/categories.php:625
+msgid "Show on Hover"
+msgstr ""
+
+#: elements/categories/categories.php:639
+msgid "Hide on Devices"
+msgstr ""
+
+#: elements/categories/categories.php:651
+msgid "Breakpoint"
+msgstr ""
+
+#: elements/categories/categories.php:664
+msgid "Left Arrow"
+msgstr ""
+
+#: elements/categories/categories.php:673
+msgid "Right Arrow"
+msgstr ""
+
+#: elements/categories/categories.php:687
+#: elements/myaccount-form-login/myaccount-form-login.php:273
+#: elements/review-ratings/review-ratings.php:205
+msgid "Color & Size"
+msgstr ""
+
+#: elements/categories/categories.php:704
+#: elements/offcanvascart/offcanvascart.php:407
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:634
+msgid "Hover Background Color"
+msgstr ""
+
+#: elements/categories/categories.php:725
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 14px;\">Click on the Apply Params button, if position value "
+"is not working properly.</div>"
+msgstr ""
+
+#: elements/categories/categories.php:731
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7;line-height: 1.3;"
+"font-size:12px\">Bottom settings are for previous arrow button.</div>"
+msgstr ""
+
+#: elements/categories/categories.php:733
+msgid "Previous Arrow"
+msgstr ""
+
+#: elements/categories/categories.php:736
+#: elements/categories/categories.php:775 elements/menucart/menucart.php:453
+msgid "Top"
+msgstr ""
+
+#: elements/categories/categories.php:743
+#: elements/categories/categories.php:782
+msgid "Bottom"
+msgstr ""
+
+#: elements/categories/categories.php:770
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7;line-height: 1.3;"
+"font-size:12px\">Bottom settings are for next arrow button.</div>"
+msgstr ""
+
+#: elements/categories/categories.php:772
+msgid "Next Arrow"
+msgstr ""
+
+#: elements/categories/categories.php:810
+msgid "Skins"
+msgstr ""
+
+#: elements/categories/categories.php:814
+msgid "Select Skin"
+msgstr ""
+
+#: elements/categories/categories.php:818
+msgid "Skin 1"
+msgstr ""
+
+#: elements/categories/categories.php:819
+msgid "Skin 2"
+msgstr ""
+
+#: elements/categories/categories.php:820
+msgid "Skin 3"
+msgstr ""
+
+#: elements/categories/categories.php:821
+msgid "Skin 4"
+msgstr ""
+
+#: elements/checkout-coupon-form/checkout-coupon-form.php:7
+#: includes/admin.php:211
+msgid "Coupon Box"
+msgstr ""
+
+#: elements/checkout-coupon-form/checkout-coupon-form.php:42
+#: elements/checkout-login-form/checkout-login-form.php:42
+msgid "Link Box"
+msgstr ""
+
+#: elements/checkout-coupon-form/checkout-coupon-form.php:44
+#: elements/checkout-login-form/checkout-login-form.php:44
+msgid "Hide"
+msgstr ""
+
+#: elements/checkout-coupon-form/checkout-coupon-form.php:59
+#: elements/checkout-login-form/checkout-login-form.php:59
+#: elements/menucart/menucart.php:268
+#: elements/offcanvascart/offcanvascart.php:668
+#: elements/review-graph/review-graph.php:97
+msgid "Icon Color"
+msgstr ""
+
+#: elements/checkout-coupon-form/checkout-coupon-form.php:68
+#: elements/checkout-login-form/checkout-login-form.php:68
+msgid "Box Spacing"
+msgstr ""
+
+#: elements/checkout-coupon-form/checkout-coupon-form.php:86
+#: elements/checkout-login-form/checkout-login-form.php:86
+#: elements/checkout-payment/checkout-payment.php:422
+#: elements/myaccount-form-registration/myaccount-form-registration.php:198
+msgid "Link Color"
+msgstr ""
+
+#: elements/checkout-coupon-form/checkout-coupon-form.php:91
+#: elements/checkout-login-form/checkout-login-form.php:91
+#: elements/checkout-payment/checkout-payment.php:427
+msgid "Link Color on Hover"
+msgstr ""
+
+#: elements/checkout-coupon-form/checkout-coupon-form.php:102
+#: elements/checkout-login-form/checkout-login-form.php:106
+msgid "Form Box"
+msgstr ""
+
+#: elements/checkout-coupon-form/checkout-coupon-form.php:106
+msgid "Preview on Builder Editor"
+msgstr ""
+
+#: elements/checkout-coupon-form/checkout-coupon-form.php:115
+#: elements/checkout-login-form/checkout-login-form.php:110
+msgid "Always Show on Page Load"
+msgstr ""
+
+#: elements/checkout-coupon-form/checkout-coupon-form.php:146
+msgid "Text Font"
+msgstr ""
+
+#: elements/checkout-coupon-form/checkout-coupon-form.php:148
+#: elements/checkout-login-form/checkout-login-form.php:142
+msgid "Box Border"
+msgstr ""
+
+#: elements/checkout-coupon-form/checkout-coupon-form.php:206
+#: elements/checkout-login-form/checkout-login-form.php:294
+msgid "Font & Color"
+msgstr ""
+
+#: elements/checkout-coupon-form/checkout-coupon-form.php:213
+#: elements/checkout-login-form/checkout-login-form.php:301
+msgid "Background Color on hover"
+msgstr ""
+
+#: elements/checkout-form-builder/checkout-form-builder.php:8
+#: includes/admin.php:212
+msgid "Checkout Form Builder"
+msgstr ""
+
+#: elements/checkout-form-builder/checkout-form-builder.php:47
+#: elements/cross-sells/cross-sells.php:77
+msgid "Heading"
+msgstr ""
+
+#: elements/checkout-form-builder/checkout-form-builder.php:49
+msgid "Hide Billing Details Text"
+msgstr ""
+
+#: elements/checkout-form-builder/checkout-form-builder.php:57
+msgid "Hide Additional information Text"
+msgstr ""
+
+#: elements/checkout-form-builder/checkout-form-builder.php:71
+#: elements/checkout-login-form/checkout-login-form.php:172
+#: elements/myaccount-form-login/myaccount-form-login.php:135
+#: elements/myaccount-form-registration/myaccount-form-registration.php:59
+msgid "Fields Label"
+msgstr ""
+
+#: elements/checkout-form-builder/checkout-form-builder.php:92
+#: elements/checkout-login-form/checkout-login-form.php:193
+msgid "Asterix"
+msgstr ""
+
+#: elements/checkout-form-builder/checkout-form-builder.php:104
+msgid "Optional Text"
+msgstr ""
+
+#: elements/checkout-form-builder/checkout-form-builder.php:106
+msgid "Hide Optional Text"
+msgstr ""
+
+#: elements/checkout-form-builder/checkout-form-builder.php:119
+#: elements/checkout-login-form/checkout-login-form.php:209
+#: elements/myaccount-form-login/myaccount-form-login.php:168
+#: elements/myaccount-form-registration/myaccount-form-registration.php:79
+msgid "Input Fields"
+msgstr ""
+
+#: elements/checkout-form-builder/checkout-form-builder.php:123
+msgid "Remove Billing Address Line 2"
+msgstr ""
+
+#: elements/checkout-form-builder/checkout-form-builder.php:129
+msgid "Remove Shipping Address Line 2"
+msgstr ""
+
+#: elements/checkout-form-builder/checkout-form-builder.php:136
+msgid "Gap Between Name Fields"
+msgstr ""
+
+#: elements/checkout-form-builder/checkout-form-builder.php:143
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:491
+msgid "Textarea Height"
+msgstr ""
+
+#: elements/checkout-form-builder/checkout-form-builder.php:189
+#: elements/myaccount-form-login/myaccount-form-login.php:233
+#: elements/myaccount-form-registration/myaccount-form-registration.php:124
+msgid "Focus Shadow"
+msgstr ""
+
+#: elements/checkout-form-builder/checkout-form-builder.php:200
+msgid ""
+"Click on <span style=\"color:#ff7171;\">Apply Params</span> button at below "
+"and see the changes on Builder editor."
+msgstr ""
+
+#: elements/checkout-form-builder/checkout-form-builder.php:228
+msgid "Text Field"
+msgstr ""
+
+#: elements/checkout-form-builder/checkout-form-builder.php:243
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:113
+msgid "Text Color"
+msgstr ""
+
+#: elements/checkout-form-builder/checkout-form-builder.php:255
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:124
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:361
+msgid "Border Color"
+msgstr ""
+
+#: elements/checkout-form-builder/checkout-form-builder.php:267
+#: elements/menucart/menucart.php:351
+#: elements/offcanvascart/offcanvascart.php:835
+msgid "Border Width"
+msgstr ""
+
+#: elements/checkout-form-builder/checkout-form-builder.php:274
+#: elements/menucart/menucart.php:360
+#: elements/offcanvascart/offcanvascart.php:844
+msgid "Border Radius"
+msgstr ""
+
+#: elements/checkout-form-builder/checkout-form-builder.php:303
+#: elements/checkout-login-form/checkout-login-form.php:352
+#: elements/myaccount-form-login/myaccount-form-login.php:329
+msgid "Checkbox"
+msgstr ""
+
+#: elements/checkout-form-builder/checkout-form-builder.php:313
+msgid "Gap Between Field and Label"
+msgstr ""
+
+#: elements/checkout-form-builder/checkout-form-builder.php:343
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: elements/checkout-login-form/checkout-login-form.php:7
+#: includes/admin.php:210
+msgid "Login Box"
+msgstr ""
+
+#: elements/checkout-login-form/checkout-login-form.php:152
+#: elements/free-shipping-notice/free-shipping-notice.php:273
+#: test-elements/free-shipping-notice/free-shipping-notice.php:133
+#: test-elements/timer/timer.php:356
+msgid "Message"
+msgstr ""
+
+#: elements/checkout-login-form/checkout-login-form.php:160
+msgid "Custom Message"
+msgstr ""
+
+#: elements/checkout-login-form/checkout-login-form.php:163
+#: elements/checkout-login-form/checkout-login-form.php:291
+#: elements/checkout-login-form/checkout-login-form.php:342
+#: elements/free-shipping-notice/free-shipping-notice.php:34
+#: elements/myaccount-form-login/myaccount-form-login.php:318
+#: elements/myaccount-form-login/myaccount-form-login.php:379
+#: elements/myaccount-form-registration/myaccount-form-registration.php:225
+#: test-elements/free-shipping-notice/free-shipping-notice.php:31
+msgid "Click on Apply Params button and apply the changes."
+msgstr ""
+
+#: elements/checkout-login-form/checkout-login-form.php:213
+#: elements/checkout-login-form/checkout-login-form.php:214
+#: elements/cross-sells/cross-sells.php:166
+#: elements/review-ratings/review-ratings.php:173
+msgid "Layout"
+msgstr ""
+
+#: elements/checkout-login-form/checkout-login-form.php:224
+msgid "Gap Between Input Fields"
+msgstr ""
+
+#: elements/checkout-login-form/checkout-login-form.php:330
+#: elements/myaccount-form-login/myaccount-form-login.php:306
+msgid "Remember Me"
+msgstr ""
+
+#: elements/checkout-login-form/checkout-login-form.php:332
+#: elements/myaccount-form-login/myaccount-form-login.php:308
+msgid "Hide This Checkbox?"
+msgstr ""
+
+#: elements/checkout-login-form/checkout-login-form.php:346
+#: elements/myaccount-form-login/myaccount-form-login.php:321
+msgid "Gap Between Checkbox & Text"
+msgstr ""
+
+#: elements/checkout-login-form/checkout-login-form.php:361
+#: elements/menucart/menucart.php:681
+#: elements/myaccount-form-login/myaccount-form-login.php:338
+#: elements/offcanvascart/offcanvascart.php:1067
+msgid "Position Left"
+msgstr ""
+
+#: elements/checkout-login-form/checkout-login-form.php:368
+#: elements/menucart/menucart.php:673 elements/minicart/minicart.php:294
+#: elements/myaccount-form-login/myaccount-form-login.php:345
+#: elements/offcanvascart/offcanvascart.php:1059
+msgid "Position Top"
+msgstr ""
+
+#: elements/checkout-login-form/checkout-login-form.php:374
+#: elements/myaccount-form-login/myaccount-form-login.php:351
+msgid "Checkbox Border"
+msgstr ""
+
+#: elements/checkout-login-form/checkout-login-form.php:390
+#: elements/myaccount-form-login/myaccount-form-login.php:368
+msgid "Lost Password"
+msgstr ""
+
+#: elements/checkout-login-form/checkout-login-form.php:397
+#: elements/myaccount-form-login/myaccount-form-login.php:370
+msgid "Disable It?"
+msgstr ""
+
+#: elements/checkout-page/checkout-page.php:6
+msgid "Checkout Builder"
+msgstr ""
+
+#: elements/checkout-page/checkout-page.php:105
+msgid ""
+"The order totals have been updated. Please confirm your order by pressing "
+"the \"Place order\" button at the bottom of the page."
+msgstr ""
+
+#: elements/checkout-payment/checkout-payment.php:7 includes/admin.php:214
+msgid "Payment"
+msgstr ""
+
+#: elements/checkout-payment/checkout-payment.php:42
+msgid "Main Wrapper"
+msgstr ""
+
+#: elements/checkout-payment/checkout-payment.php:80
+msgid "Methods Wrapper"
+msgstr ""
+
+#: elements/checkout-payment/checkout-payment.php:118
+msgid "Methods List"
+msgstr ""
+
+#: elements/checkout-payment/checkout-payment.php:153
+msgid "Selected Method"
+msgstr ""
+
+#: elements/checkout-payment/checkout-payment.php:163
+msgid "Background Color of Description"
+msgstr ""
+
+#: elements/checkout-payment/checkout-payment.php:182
+msgid "Description Color"
+msgstr ""
+
+#: elements/checkout-payment/checkout-payment.php:223
+msgid "Selected Color"
+msgstr ""
+
+#: elements/checkout-payment/checkout-payment.php:228
+msgid "Selected Alt Color"
+msgstr ""
+
+#: elements/checkout-payment/checkout-payment.php:234
+msgid "Selected Border Color"
+msgstr ""
+
+#: elements/checkout-payment/checkout-payment.php:242
+msgid "Selected Radio Button Bullet Size"
+msgstr ""
+
+#: elements/checkout-payment/checkout-payment.php:253
+msgid "Gap Between Button & Text"
+msgstr ""
+
+#: elements/checkout-payment/checkout-payment.php:261
+#: elements/checkout-payment/checkout-payment.php:330
+msgid "Link"
+msgstr ""
+
+#: elements/checkout-payment/checkout-payment.php:275
+msgid "Hide Description"
+msgstr ""
+
+#: elements/checkout-payment/checkout-payment.php:299
+#: elements/review-ratings/review-ratings.php:221
+msgid "Hide Arrow"
+msgstr ""
+
+#: elements/checkout-payment/checkout-payment.php:351
+msgid "Place Order Box"
+msgstr ""
+
+#: elements/checkout-payment/checkout-payment.php:387
+#: elements/myaccount-form-registration/myaccount-form-registration.php:163
+msgid "Privacy Policy"
+msgstr ""
+
+#: elements/checkout-payment/checkout-payment.php:392
+msgid "Wrapper Color"
+msgstr ""
+
+#: elements/checkout-payment/checkout-payment.php:400
+#: elements/minicart/minicart.php:83 elements/minicart/minicart.php:509
+#: elements/offcanvascart/offcanvascart.php:1401
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:388
+msgid "Wrapper Spacing"
+msgstr ""
+
+#: elements/checkout-payment/checkout-payment.php:468
+msgid "Padding of Buttons"
+msgstr ""
+
+#: elements/checkout-payment/checkout-payment.php:512
+msgid "Place Order"
+msgstr ""
+
+#: elements/checkout-payment/checkout-payment.php:592
+msgid "Hide It?"
+msgstr ""
+
+#: elements/checkout-review-order/checkout-review-order.php:7
+#: includes/admin.php:215
+msgid "Review Order"
+msgstr ""
+
+#: elements/checkout-review-order/checkout-review-order.php:38
+msgid "Table Contents"
+msgstr ""
+
+#: elements/checkout-review-order/checkout-review-order.php:95
+msgid "Background Color for Labels"
+msgstr ""
+
+#: elements/checkout-review-order/checkout-review-order.php:101
+msgid "Cell Border"
+msgstr ""
+
+#: elements/checkout-review-order/checkout-review-order.php:162
+#: elements/cross-sells/cross-sells.php:117
+msgid "Products"
+msgstr ""
+
+#: elements/checkout-review-order/checkout-review-order.php:166
+msgid "Disable Products details"
+msgstr ""
+
+#: elements/checkout-review-order/checkout-review-order.php:176
+msgid "Background Color of Table Heading Row"
+msgstr ""
+
+#: elements/checkout-review-order/checkout-review-order.php:181
+msgid "Background Color of Odd Cell"
+msgstr ""
+
+#: elements/checkout-review-order/checkout-review-order.php:186
+msgid "Background Color of Even Cell"
+msgstr ""
+
+#: elements/checkout-review-order/checkout-review-order.php:192
+msgid "Heading Row"
+msgstr ""
+
+#: elements/checkout-review-order/checkout-review-order.php:194
+msgid "Subtotal Text Align"
+msgstr ""
+
+#: elements/checkout-review-order/checkout-review-order.php:296
+msgid "Total Row"
+msgstr ""
+
+#: elements/cross-sells/cross-sells.php:8 includes/admin.php:206
+msgid "Cross-sells"
+msgstr ""
+
+#: elements/cross-sells/cross-sells.php:82
+msgid ""
+"Click on <span style=\"color:#ff7171;\">Apply Params</span> button at below "
+"and apply changes."
+msgstr ""
+
+#: elements/cross-sells/cross-sells.php:89
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: elements/cross-sells/cross-sells.php:124
+msgid "Limit"
+msgstr ""
+
+#: elements/cross-sells/cross-sells.php:143
+msgid "Orderby"
+msgstr ""
+
+#: elements/cross-sells/cross-sells.php:159
+msgid "Order"
+msgstr ""
+
+#: elements/cross-sells/cross-sells.php:171
+msgid "Columns Inner Padding"
+msgstr ""
+
+#: elements/cross-sells/cross-sells.php:175
+msgid "Inner Contents Alignment"
+msgstr ""
+
+#: elements/cross-sells/cross-sells.php:236
+#: elements/review-ratings/review-ratings.php:38
+#: elements/review-ratings/review-ratings.php:91
+#: elements/review-ratings/review-ratings.php:139
+msgid "Display"
+msgstr ""
+
+#: elements/cross-sells/cross-sells.php:240
+msgid "Inline"
+msgstr ""
+
+#: elements/cross-sells/cross-sells.php:253
+msgid "Gap Between Prices"
+msgstr ""
+
+#: elements/cross-sells/cross-sells.php:260
+msgid "Color of Strikethrough Price"
+msgstr ""
+
+#: elements/cross-sells/cross-sells.php:265
+msgid "Font Size of Strikethrough Price"
+msgstr ""
+
+#: elements/cross-sells/cross-sells.php:270
+msgid "Font Weight of Strikethrough Price"
+msgstr ""
+
+#: elements/cross-sells/cross-sells.php:277
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:748
+#: elements/review-ratings/review-ratings.php:86
+msgid "Stars"
+msgstr ""
+
+#: elements/cross-sells/cross-sells.php:280
+msgid "Stars Size"
+msgstr ""
+
+#: elements/cross-sells/cross-sells.php:285
+#: elements/review-graph/review-graph.php:162
+#: elements/review-ratings/review-ratings.php:107
+msgid "Filled Stars Color"
+msgstr ""
+
+#: elements/cross-sells/cross-sells.php:290
+#: elements/review-graph/review-graph.php:156
+#: elements/review-ratings/review-ratings.php:102
+msgid "Empty Stars Color"
+msgstr ""
+
+#: elements/cross-sells/cross-sells.php:298
+msgid "Product Images"
+msgstr ""
+
+#: elements/cross-sells/cross-sells.php:329
+msgid "Sales Badge"
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:18
+#: includes/admin.php:195
+#: test-elements/free-shipping-notice/free-shipping-notice.php:15
+msgid "Free Shipping Notice"
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:44
+#: elements/myaccount-form-login/myaccount-form-login.php:415
+#: elements/myaccount-form-registration/myaccount-form-registration.php:349
+#: test-elements/free-shipping-notice/free-shipping-notice.php:41
+msgid "URL"
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:72
+#: elements/myaccount-form-login/myaccount-form-login.php:57
+#: elements/myaccount-form-registration/myaccount-form-registration.php:247
+#: test-elements/free-shipping-notice/free-shipping-notice.php:69
+msgid "Colors & Width"
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:107
+#: test-elements/free-shipping-notice/free-shipping-notice.php:104
+msgid "Animation"
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:111
+#: test-elements/free-shipping-notice/free-shipping-notice.php:108
+msgid "Enable Animation Effect"
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:119
+#: test-elements/free-shipping-notice/free-shipping-notice.php:116
+msgid "Transition Speed for Fade"
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:125
+#: test-elements/free-shipping-notice/free-shipping-notice.php:122
+msgid "Transition Speed for Slide"
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:137
+msgid ""
+"Click on <span style=\"color:#ff7171;\">Apply Params</span> button & see the "
+"message on builder editor."
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:144
+msgid "Message Type"
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:147
+msgid "Minimum Amount"
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:148
+msgid "Cart Quantity"
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:157
+msgid "Required Quantity"
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:164
+msgid "Threshold Quantity"
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:167
+msgid "Set here the minimum product quantity to show the message."
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:171
+msgid "Will quantity update automatically?"
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:185
+#: test-elements/free-shipping-notice/free-shipping-notice.php:154
+msgid "Minimum Order Amount"
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:188
+#: test-elements/free-shipping-notice/free-shipping-notice.php:156
+msgid ""
+"Do not enter the currency. Minimum order amount to encourage users to "
+"purchase more."
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:192
+#: test-elements/free-shipping-notice/free-shipping-notice.php:160
+msgid "Threshold Amount"
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:195
+#: test-elements/free-shipping-notice/free-shipping-notice.php:162
+msgid "Threshold amount after which notice should start appear."
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:199
+#: test-elements/free-shipping-notice/free-shipping-notice.php:166
+msgid "Exclude Coupons Amount"
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:208
+#: test-elements/free-shipping-notice/free-shipping-notice.php:174
+msgid "Will shipping price update automatically?"
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:227
+#: elements/free-shipping-notice/free-shipping-notice.php:237
+msgid "Enter Your Message"
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:231
+msgid ""
+"You can use <span style=\"color:#ff7171;\">{remaining_amount}</span> as "
+"remaining amount required to meet the minimum order amount."
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:254
+#: test-elements/free-shipping-notice/free-shipping-notice.php:235
+msgid "Outer Wrapper Selector"
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:256
+#: test-elements/free-shipping-notice/free-shipping-notice.php:237
+msgid "Setup when you will put this component into another wrapper."
+msgstr ""
+
+#: elements/free-shipping-notice/free-shipping-notice.php:303
+#: test-elements/free-shipping-notice/free-shipping-notice.php:280
+msgid "Child Elements Layout"
+msgstr ""
+
+#: elements/menucart/menucart.php:11 includes/admin.php:196
+msgid "Menu Cart"
+msgstr ""
+
+#: elements/menucart/menucart.php:40
+msgid "Menu Settings"
+msgstr ""
+
+#: elements/menucart/menucart.php:46
+#: elements/offcanvascart/offcanvascart.php:444
+msgid "Visibility"
+msgstr ""
+
+#: elements/menucart/menucart.php:49
+#: elements/offcanvascart/offcanvascart.php:447
+msgid "Always"
+msgstr ""
+
+#: elements/menucart/menucart.php:50
+#: elements/offcanvascart/offcanvascart.php:448
+msgid "When a product in cart"
+msgstr ""
+
+#: elements/menucart/menucart.php:58
+msgid "Show Cart Contents on"
+msgstr ""
+
+#: elements/menucart/menucart.php:61
+#: elements/offcanvascart/offcanvascart.php:460
+msgid "Hover"
+msgstr ""
+
+#: elements/menucart/menucart.php:62
+#: elements/offcanvascart/offcanvascart.php:459
+msgid "Click"
+msgstr ""
+
+#: elements/menucart/menucart.php:72
+msgid "Cart Counter Position"
+msgstr ""
+
+#: elements/menucart/menucart.php:75
+#: elements/offcanvascart/offcanvascart.php:472
+msgid "Bubble"
+msgstr ""
+
+#: elements/menucart/menucart.php:76
+#: elements/offcanvascart/offcanvascart.php:473
+msgid "Before"
+msgstr ""
+
+#: elements/menucart/menucart.php:77
+#: elements/offcanvascart/offcanvascart.php:474
+msgid "After"
+msgstr ""
+
+#: elements/menucart/menucart.php:87
+#: elements/offcanvascart/offcanvascart.php:484
+msgid "Display Price"
+msgstr ""
+
+#: elements/menucart/menucart.php:101 elements/menucart/menucart.php:793
+#: elements/minicart/minicart.php:642
+#: elements/offcanvascart/offcanvascart.php:498
+#: elements/offcanvascart/offcanvascart.php:1464
+msgid "Price Alignment"
+msgstr ""
+
+#: elements/menucart/menucart.php:116
+#: elements/offcanvascart/offcanvascart.php:514
+msgid "Cart Button Type"
+msgstr ""
+
+#: elements/menucart/menucart.php:121
+#: elements/offcanvascart/offcanvascart.php:519
+msgid "Icon + Text"
+msgstr ""
+
+#: elements/menucart/menucart.php:133
+#: elements/offcanvascart/offcanvascart.php:531
+msgid "Cart"
+msgstr ""
+
+#: elements/menucart/menucart.php:140
+#: elements/offcanvascart/offcanvascart.php:538
+msgid "Icon Type"
+msgstr ""
+
+#: elements/menucart/menucart.php:168 elements/minicart/minicart.php:399
+#: elements/offcanvascart/offcanvascart.php:566
+#: test-elements/timer/timer.php:430 test-elements/timer/timer.php:477
+msgid "Height"
+msgstr ""
+
+#: elements/menucart/menucart.php:179
+#: elements/offcanvascart/offcanvascart.php:577
+msgid "Alt"
+msgstr ""
+
+#: elements/menucart/menucart.php:197
+#: elements/myaccount-form-login/myaccount-form-login.php:283
+#: elements/offcanvascart/offcanvascart.php:386
+#: elements/offcanvascart/offcanvascart.php:595
+#: elements/review-graph/review-graph.php:89
+msgid "Icon Size"
+msgstr ""
+
+#: elements/menucart/menucart.php:209
+msgid "Style"
+msgstr ""
+
+#: elements/menucart/menucart.php:238
+#: elements/offcanvascart/offcanvascart.php:638
+msgid "Space Between Icon & Text"
+msgstr ""
+
+#: elements/menucart/menucart.php:279
+#: elements/offcanvascart/offcanvascart.php:679
+msgid "Icon Hover Color"
+msgstr ""
+
+#: elements/menucart/menucart.php:302 elements/menucart/menucart.php:927
+#: elements/menucart/menucart.php:977 elements/menucart/menucart.php:986
+#: elements/minicart/minicart.php:887 elements/minicart/minicart.php:949
+#: elements/offcanvascart/offcanvascart.php:705
+#: elements/offcanvascart/offcanvascart.php:1690
+#: elements/offcanvascart/offcanvascart.php:1744
+#: elements/offcanvascart/offcanvascart.php:1840
+msgid "Text Hover Color"
+msgstr ""
+
+#: elements/menucart/menucart.php:316
+#: elements/offcanvascart/offcanvascart.php:785
+msgid "Cart Counter"
+msgstr ""
+
+#: elements/menucart/menucart.php:332
+#: elements/offcanvascart/offcanvascart.php:821
+msgid "Number Hover Color"
+msgstr ""
+
+#: elements/menucart/menucart.php:346 elements/menucart/menucart.php:936
+#: elements/offcanvascart/offcanvascart.php:830
+#: elements/offcanvascart/offcanvascart.php:1699
+#: elements/offcanvascart/offcanvascart.php:1753
+#: elements/offcanvascart/offcanvascart.php:1848
+msgid "Border Hover Color"
+msgstr ""
+
+#: elements/menucart/menucart.php:364
+msgid "Bubble Config"
+msgstr ""
+
+#: elements/menucart/menucart.php:366
+#: elements/offcanvascart/offcanvascart.php:792
+msgid ""
+"Use line height feature(from Typography section) to vertically center align "
+"the number."
+msgstr ""
+
+#: elements/menucart/menucart.php:433
+msgid "Items Container"
+msgstr ""
+
+#: elements/menucart/menucart.php:459
+msgid "Position Top (for hover animation effect)"
+msgstr ""
+
+#: elements/menucart/menucart.php:491
+msgid "Cart Item"
+msgstr ""
+
+#: elements/menucart/menucart.php:504
+msgid "Odd Rows"
+msgstr ""
+
+#: elements/menucart/menucart.php:510
+msgid "Even Rows"
+msgstr ""
+
+#: elements/menucart/menucart.php:517 elements/minicart/minicart.php:128
+#: elements/offcanvascart/offcanvascart.php:942
+msgid "Divider"
+msgstr ""
+
+#: elements/menucart/menucart.php:520
+msgid "Separator Width"
+msgstr ""
+
+#: elements/menucart/menucart.php:532
+msgid "Separator Color"
+msgstr ""
+
+#: elements/menucart/menucart.php:543 elements/minicart/minicart.php:152
+#: elements/offcanvascart/offcanvascart.php:968
+msgid "Hide Image"
+msgstr ""
+
+#: elements/menucart/menucart.php:597
+msgid "Product Details"
+msgstr ""
+
+#: elements/menucart/menucart.php:600
+#: elements/offcanvascart/offcanvascart.php:1028
+msgid "Title Hover Color"
+msgstr ""
+
+#: elements/menucart/menucart.php:612
+msgid "Quantity Color"
+msgstr ""
+
+#: elements/menucart/menucart.php:618
+msgid "Quantity Font Size"
+msgstr ""
+
+#: elements/menucart/menucart.php:647 elements/minicart/minicart.php:271
+msgid "Hide Remove Icon?"
+msgstr ""
+
+#: elements/menucart/menucart.php:689 elements/minicart/minicart.php:309
+#: elements/offcanvascart/offcanvascart.php:1075
+msgid "Position Right"
+msgstr ""
+
+#: elements/menucart/menucart.php:697 elements/minicart/minicart.php:316
+#: elements/offcanvascart/offcanvascart.php:1083
+msgid "Gap Between Title & Icon"
+msgstr ""
+
+#: elements/menucart/menucart.php:706
+#: elements/offcanvascart/offcanvascart.php:1092
+msgid "Product Variation"
+msgstr ""
+
+#: elements/menucart/menucart.php:753 elements/minicart/minicart.php:255
+#: elements/offcanvascart/offcanvascart.php:1139
+msgid "Value Color"
+msgstr ""
+
+#: elements/menucart/menucart.php:758 elements/minicart/minicart.php:260
+#: elements/offcanvascart/offcanvascart.php:1144
+msgid "Value Font Weight"
+msgstr ""
+
+#: elements/menucart/menucart.php:820
+#: elements/offcanvascart/offcanvascart.php:1586
+msgid "Buttons Structure"
+msgstr ""
+
+#: elements/menucart/menucart.php:822
+msgid "Container Spacing"
+msgstr ""
+
+#: elements/menucart/menucart.php:846
+msgid "Buttons Spacing"
+msgstr ""
+
+#: elements/menucart/menucart.php:851
+msgid "Padding for Buttons"
+msgstr ""
+
+#: elements/menucart/menucart.php:868
+msgid "Gap Between Two Buttons"
+msgstr ""
+
+#: elements/menucart/menucart.php:878
+msgid ""
+"Default is 10px. You will set to 0 when buttons will stack one after another."
+msgstr ""
+
+#: elements/menucart/menucart.php:882
+msgid "Gap Bottom"
+msgstr ""
+
+#: elements/menucart/menucart.php:892
+msgid "This would work when buttons will stack vertically."
+msgstr ""
+
+#: elements/menucart/menucart.php:915
+#: elements/offcanvascart/offcanvascart.php:1678
+msgid "View Cart Button"
+msgstr ""
+
+#: elements/menucart/menucart.php:917 elements/minicart/minicart.php:858
+#: elements/offcanvascart/offcanvascart.php:1680
+msgid "Hide View Cart Button?"
+msgstr ""
+
+#: elements/menucart/menucart.php:923 elements/menucart/menucart.php:974
+#: elements/minicart/minicart.php:883 elements/minicart/minicart.php:946
+#: elements/offcanvascart/offcanvascart.php:1686
+#: elements/offcanvascart/offcanvascart.php:1741
+#: elements/offcanvascart/offcanvascart.php:1837
+msgid "Font & Colors"
+msgstr ""
+
+#: elements/menucart/menucart.php:945 elements/menucart/menucart.php:995
+#: elements/minicart/minicart.php:895 elements/minicart/minicart.php:957
+#: elements/offcanvascart/offcanvascart.php:1708
+#: elements/offcanvascart/offcanvascart.php:1762
+#: elements/offcanvascart/offcanvascart.php:1856
+msgid "BG Color"
+msgstr ""
+
+#: elements/menucart/menucart.php:955 elements/menucart/menucart.php:1005
+#: elements/minicart/minicart.php:903 elements/minicart/minicart.php:965
+#: elements/offcanvascart/offcanvascart.php:1718
+#: elements/offcanvascart/offcanvascart.php:1772
+#: elements/offcanvascart/offcanvascart.php:1865
+msgid "BG Hover Color"
+msgstr ""
+
+#: elements/menucart/menucart.php:966
+#: elements/offcanvascart/offcanvascart.php:1733
+msgid "Checkout Button"
+msgstr ""
+
+#: elements/menucart/menucart.php:968 elements/minicart/minicart.php:921
+#: elements/offcanvascart/offcanvascart.php:1735
+msgid "Hide Checkout Button?"
+msgstr ""
+
+#: elements/menucart/menucart.php:1019
+#: elements/offcanvascart/offcanvascart.php:1976
+msgid "Others Config"
+msgstr ""
+
+#: elements/menucart/menucart.php:1023
+msgid "Reveal Popup"
+msgstr ""
+
+#: elements/menucart/menucart.php:1027
+msgid "When product will add to cart."
+msgstr ""
+
+#: elements/menucart/menucart.php:1031
+#: elements/offcanvascart/offcanvascart.php:1980
+msgid "Enable AJAX add to cart function on single product page"
+msgstr ""
+
+#: elements/menucart/menucart.php:1039
+#: elements/offcanvascart/offcanvascart.php:1989
+msgid "Enable fly to cart animation effect"
+msgstr ""
+
+#: elements/menucart/menucart.php:1040
+#: elements/offcanvascart/offcanvascart.php:1990
+msgid ""
+"Product image will fly to cart section & it will indicate that the product "
+"was added."
+msgstr ""
+
+#: elements/menucart/menucart.php:1048
+#: elements/offcanvascart/offcanvascart.php:1998
+msgid "Offset value of Top Position"
+msgstr ""
+
+#: elements/menucart/menucart.php:1058
+#: elements/offcanvascart/offcanvascart.php:2008
+msgid "Offset value of Left Position"
+msgstr ""
+
+#: elements/menucart/menucart.php:1069
+msgid ""
+"You will add some items in the cart before customizing the design. Therefore "
+"you can see the live preview on builder editor."
+msgstr ""
+
+#: elements/menucart/menucart.php:1069
+msgid "Note"
+msgstr ""
+
+#: elements/menucart/menucart.php:1074
+msgid "Preview on Editor Mode"
+msgstr ""
+
+#: elements/menucart/menucart.php:1076
+msgid "Enable"
+msgstr ""
+
+#: elements/menucart/menucart.php:1133
+#: elements/offcanvascart/offcanvascart.php:98
+msgid "View your shopping cart"
+msgstr ""
+
+#: elements/minicart/minicart.php:10 includes/admin.php:200
+msgid "Ultimate Cart"
+msgstr ""
+
+#: elements/minicart/minicart.php:42
+msgid ""
+"Click on <span style=\"color:#ff7171;\">Apply Params</span> button, if "
+"content is not showing properly on Builder editor."
+msgstr ""
+
+#: elements/minicart/minicart.php:46
+msgid "Display Empty Cart Message"
+msgstr ""
+
+#: elements/minicart/minicart.php:52
+msgid "Enable Preview of Custom Empty Cart Message"
+msgstr ""
+
+#: elements/minicart/minicart.php:60
+#: elements/myaccount-form-login/myaccount-form-login.php:98
+#: elements/myaccount-form-registration/myaccount-form-registration.php:25
+#: elements/offcanvascart/offcanvascart.php:904
+#: elements/offcanvascart/offcanvascart.php:1588
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:665
+msgid "Container"
+msgstr ""
+
+#: elements/minicart/minicart.php:98
+#: elements/offcanvascart/offcanvascart.php:918
+msgid "Items Spacing"
+msgstr ""
+
+#: elements/minicart/minicart.php:117
+msgid "Odd Row(s)"
+msgstr ""
+
+#: elements/minicart/minicart.php:122
+msgid "Even Row(s)"
+msgstr ""
+
+#: elements/minicart/minicart.php:334
+#: elements/offcanvascart/offcanvascart.php:1160
+msgid "Gap Between Label & Price"
+msgstr ""
+
+#: elements/minicart/minicart.php:377
+#: elements/offcanvascart/offcanvascart.php:1203
+msgid "Text Transform"
+msgstr ""
+
+#: elements/minicart/minicart.php:383 elements/minicart/minicart.php:764
+#: elements/offcanvascart/offcanvascart.php:1279
+#: elements/offcanvascart/offcanvascart.php:1579
+msgid "Total Price"
+msgstr ""
+
+#: elements/minicart/minicart.php:389
+#: elements/myaccount-form-login/myaccount-form-login.php:276
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:195
+msgid "Wrapper Width"
+msgstr ""
+
+#: elements/minicart/minicart.php:460
+msgid "Font Weight"
+msgstr ""
+
+#: elements/minicart/minicart.php:473
+#: elements/offcanvascart/offcanvascart.php:1316
+msgid "Display Coupon Submission Form"
+msgstr ""
+
+#: elements/minicart/minicart.php:479
+msgid "General"
+msgstr ""
+
+#: elements/minicart/minicart.php:493
+#: elements/offcanvascart/offcanvascart.php:1420
+msgid "Gap Between Field & Button"
+msgstr ""
+
+#: elements/minicart/minicart.php:503
+#: elements/offcanvascart/offcanvascart.php:1429
+msgid "Wrapper Background Color"
+msgstr ""
+
+#: elements/minicart/minicart.php:527
+msgid "Fields Padding"
+msgstr ""
+
+#: elements/minicart/minicart.php:531
+#: elements/offcanvascart/offcanvascart.php:1326
+msgid "Padding for Field & Button"
+msgstr ""
+
+#: elements/minicart/minicart.php:536
+#: elements/offcanvascart/offcanvascart.php:1331
+msgid "Input Font"
+msgstr ""
+
+#: elements/minicart/minicart.php:537
+#: elements/offcanvascart/offcanvascart.php:1332
+msgid "Input Style"
+msgstr ""
+
+#: elements/minicart/minicart.php:553
+#: elements/offcanvascart/offcanvascart.php:1347
+msgid "Background Color on Focus"
+msgstr ""
+
+#: elements/minicart/minicart.php:558
+#: elements/offcanvascart/offcanvascart.php:1352
+msgid "Color on Focus"
+msgstr ""
+
+#: elements/minicart/minicart.php:569
+#: elements/offcanvascart/offcanvascart.php:1363
+msgid "Input Border"
+msgstr ""
+
+#: elements/minicart/minicart.php:570
+#: elements/offcanvascart/offcanvascart.php:1364
+msgid "Input Focus Border"
+msgstr ""
+
+#: elements/minicart/minicart.php:572
+#: elements/offcanvascart/offcanvascart.php:1366
+msgid "Button Font"
+msgstr ""
+
+#: elements/minicart/minicart.php:574
+#: elements/offcanvascart/offcanvascart.php:1368
+msgid "Button Style"
+msgstr ""
+
+#: elements/minicart/minicart.php:613
+msgid "Disable Subtotal Row"
+msgstr ""
+
+#: elements/minicart/minicart.php:671
+msgid "Coupon Details"
+msgstr ""
+
+#: elements/minicart/minicart.php:676
+msgid "Disable Coupon Details Row"
+msgstr ""
+
+#: elements/minicart/minicart.php:703
+#: elements/offcanvascart/offcanvascart.php:1517
+msgid "Coupon Text"
+msgstr ""
+
+#: elements/minicart/minicart.php:704
+#: elements/offcanvascart/offcanvascart.php:1518
+msgid "Coupon Price"
+msgstr ""
+
+#: elements/minicart/minicart.php:706
+#: elements/offcanvascart/offcanvascart.php:1520
+msgid "Delete Icon"
+msgstr ""
+
+#: elements/minicart/minicart.php:731
+msgid "New Total Row"
+msgstr ""
+
+#: elements/minicart/minicart.php:736
+msgid "Disable New Total Row"
+msgstr ""
+
+#: elements/minicart/minicart.php:763
+#: elements/offcanvascart/offcanvascart.php:1578
+msgid "Total Label"
+msgstr ""
+
+#: elements/minicart/minicart.php:771
+#: elements/offcanvascart/offcanvascart.php:1612
+msgid "Buttons"
+msgstr ""
+
+#: elements/minicart/minicart.php:774
+msgid "Remove Both Buttons"
+msgstr ""
+
+#: elements/minicart/minicart.php:848
+msgid "Padding of Both Buttons"
+msgstr ""
+
+#: elements/minicart/minicart.php:980
+#: elements/myaccount-form-login/myaccount-form-login.php:443
+#: elements/offcanvascart/offcanvascart.php:1907
+msgid "Notices"
+msgstr ""
+
+#: elements/minicart/minicart.php:982
+msgid "Disable Alert Message"
+msgstr ""
+
+#: elements/minicart/minicart.php:988
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 14px;\">Live preview is not available on Builder Editor. "
+"Enter &amp;apos; for single quote.</div>"
+msgstr ""
+
+#: elements/minicart/minicart.php:994
+#: elements/offcanvascart/offcanvascart.php:1925
+msgid "Add Notice"
+msgstr ""
+
+#: elements/minicart/minicart.php:996
+#: elements/offcanvascart/offcanvascart.php:1927
+msgid "Item added"
+msgstr ""
+
+#: elements/minicart/minicart.php:1001
+#: elements/offcanvascart/offcanvascart.php:1933
+msgid "Update Notice"
+msgstr ""
+
+#: elements/minicart/minicart.php:1003
+#: elements/offcanvascart/offcanvascart.php:1935
+msgid "Item updated"
+msgstr ""
+
+#: elements/minicart/minicart.php:1008
+#: elements/offcanvascart/offcanvascart.php:1941
+msgid "Remove Notice"
+msgstr ""
+
+#: elements/minicart/minicart.php:1010
+#: elements/offcanvascart/offcanvascart.php:1943
+msgid "Item removed"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:10
+msgid "Login"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:34
+msgid "Log In"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:137
+msgid "Hide Labels?"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:146
+#: elements/myaccount-form-registration/myaccount-form-registration.php:64
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:463
+msgid "Asterix Color"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:152
+msgid "Gap Between Label & Fields"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:180
+msgid "Gap Between Fields"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:187
+msgid "Placeholder"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:190
+msgid "Text for Username Field"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:195
+msgid "Text for Password Field"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:241
+msgid "Input Icon"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:245
+msgid "Display Icon"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:259
+msgid "Username Field"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:262
+msgid "Icon For Username Field"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:266
+msgid "Password Field"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:269
+msgid "Icon For Password Field"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:396
+msgid "Redirect URL(after login)"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:399
+#: elements/myaccount-form-registration/myaccount-form-registration.php:334
+msgid "Current Page"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:400
+msgid "HTTP Referer"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:401
+#: elements/myaccount-form-registration/myaccount-form-registration.php:335
+msgid "My Account Page"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:405
+msgid "Site will redirect to selected URL after login."
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:420
+msgid "Process Login"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:422
+msgid "On Submit"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:422
+msgid "By AJAX"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:454
+msgid "Login Success Message"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:456
+msgid ""
+"You logged in successfully. Do not close the page. We are redirecting now."
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:478
+#: elements/myaccount-form-registration/myaccount-form-registration.php:308
+msgid "Bold Text"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:786
+#: elements/myaccount-form-login/myaccount-form-login.php:799
+msgid "Error:"
+msgstr ""
+
+#: elements/myaccount-form-login/myaccount-form-login.php:786
+#: elements/myaccount-form-login/myaccount-form-login.php:799
+msgid "Username is required."
+msgstr ""
+
+#: elements/myaccount-form-registration/myaccount-form-registration.php:7
+msgid "Registration"
+msgstr ""
+
+#: elements/myaccount-form-registration/myaccount-form-registration.php:128
+msgid "Password Info"
+msgstr ""
+
+#: elements/myaccount-form-registration/myaccount-form-registration.php:167
+msgid "Hide Privacy Text?"
+msgstr ""
+
+#: elements/myaccount-form-registration/myaccount-form-registration.php:224
+msgid "Register"
+msgstr ""
+
+#: elements/myaccount-form-registration/myaccount-form-registration.php:282
+msgid "Error Notice"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:10 includes/admin.php:197
+msgid "Off Canvas Cart"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:76
+#: elements/offcanvascart/offcanvascart.php:1951
+msgid "No more products on stock"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:77
+#: elements/offcanvascart/offcanvascart.php:1959
+msgid "You entered wrong value."
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:256
+msgid "Off Canvas Panel"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:258
+msgid "Backdrop"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:259
+msgid "Disable Backdrop"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:284
+msgid "Sliding Panel"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:314
+msgid "Transition Duration"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:325
+msgid "Reveal Panel"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:331
+msgid ""
+"Panel will be visible automatically for few seconds, when product will add "
+"to cart."
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:335
+msgid "Panel Header"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:348
+msgid "My Cart"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:352
+msgid "Title Typography"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:354
+msgid "Panel Title Spacing"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:370
+msgid "Panel Header Borders"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:372
+msgid "Close Button"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:422
+msgid "Close Button Borders"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:423
+msgid "Close Button Spacing"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:440
+msgid "Cart Button"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:456
+msgid "Show Panel On"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:469
+msgid "Cart Number Position"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:608
+msgid "General Config"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:688
+msgid "Price Font & Color"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:699
+msgid "Text Font & Color"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:714
+msgid "Floating Settings"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:717
+msgid ""
+"<div class=\"oxygen-option-default\" style=\"color: #c3c5c7; line-height: "
+"1.3; font-size: 14px;\">Click on <span style=\"color:#ff7171;\">Apply "
+"Params</span> button at below, if preview is not working on Builder editor.</"
+"div>"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:723
+msgid "Enable Floating Effect"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:789
+msgid "Color & Spacing"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:854
+msgid "Bubble Position"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:929
+msgid "For Odd Items"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:935
+msgid "For Even Items"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1150
+msgid "Product Price"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1209
+msgid "Quantity Box"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1212
+msgid "Box Width"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1222
+msgid "Height of +/- Button & Quantity Field"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1230
+msgid "Background Color for Quantity Field"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1235
+msgid "Color for Quantity"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1240
+msgid "Font Size for Quantity"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1245
+msgid "Font Weight for Quantity"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1250
+msgid "Width of +/- Button"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1258
+msgid "Background Color for +/- Button"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1263
+msgid "Color for +/- Button"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1268
+msgid "Font Size for +/- Button"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1273
+msgid "Font Weight for +/- Button"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1283
+msgid "Cart Total Wrapper"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1417
+msgid "Others"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1491
+msgid "Coupons Details"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1545
+msgid "New Total Price"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1627
+msgid "Horizontal Gap Between Two Buttons"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1636
+msgid "This would work when buttons will stay horizontally."
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1640
+msgid "Vertical Gap Between Two Buttons"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1650
+msgid "This would work when buttons will stay vertically."
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1787
+msgid "Return To Shop"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1791
+msgid "Display Return To Shop Button"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1801
+msgid "Continue Shopping"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1805
+msgid "Click on Apply Params button to see the text on editor."
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1910
+msgid ""
+"Live preview is not available on Builder Editor. Enter &amp;apos; for single "
+"quote."
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1921
+msgid "Messages"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1949
+msgid "Out of Stock Notice"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1957
+msgid "Wrong Input Notice"
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:1981
+msgid ""
+"Single product page will not reload or refresh. Product will add to cart via "
+"AJAX."
+msgstr ""
+
+#: elements/offcanvascart/offcanvascart.php:2020
+msgid "Enable Preview of Off Canvas Panel"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:34
+msgid "Expand First Item"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:48
+msgid "Transition Duration for Slide Up/Down"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:55
+msgid "Tab Title"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:62
+msgid "Background Color - Initial State"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:68
+msgid "Gap Bewtween Two Tabs"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:79
+msgid "Transition Duration of Hover/Active State"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:108
+msgid "Hover State"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:135
+msgid "Active State"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:139
+msgid "Active Tab Text Color"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:144
+msgid "Active Tab Background Color"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:150
+msgid "Active Tab Border Color"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:189
+msgid "Toggle Button"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:208
+msgid "Default Color"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:236
+msgid "Active Color"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:263
+msgid "Headings"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:272
+msgid "Content"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:324
+msgid "Additional Info"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:334
+msgid "Value Typography"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:339
+msgid "Cell Content"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:351
+msgid "Background"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:356
+msgid "Alternating Background"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:373
+msgid "Reviews Form"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:405
+msgid "Wrapper Borders"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:410
+msgid "Wrapper Shadow"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:415
+msgid "Original Thumbs Shadow"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:422
+msgid "Form Heading"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:438
+msgid "Form Description"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:456
+msgid "Form Labels"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:470
+msgid "Stars Field"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:483
+msgid "Inputs Config"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:510
+msgid "Focused Text Color"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:519
+msgid "Focused Background Color"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:532
+msgid "Focused Border Color"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:578
+msgid "Button Config"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:621
+msgid "Button Font & Color"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:644
+msgid "Hover Border Color"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:658
+#: includes/helpers.php:97
+msgid "Reviews"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:713
+msgid "Container Border"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:714
+msgid "Container Shadow"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:718
+msgid "Author Image"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:725
+msgid "Image Size(max-width: 60px)"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:740
+msgid "Image Border"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:742
+msgid "Author"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:743
+msgid "Date"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:744
+msgid "Review Text"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:755
+msgid "Color of Empty Star"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:760
+msgid "Color of Full Star"
+msgstr ""
+
+#: elements/product-tabs-in-accordion/product-tabs-in-accordion.php:765
+msgid "Adjust Vertical Alignment"
+msgstr ""
+
+#: elements/review-graph/review-graph.php:8 includes/admin.php:224
+msgid "Graph"
+msgstr ""
+
+#: elements/review-graph/review-graph.php:20
+msgid "Values"
+msgstr ""
+
+#: elements/review-graph/review-graph.php:24
+#: elements/review-graph/review-graph.php:117
+#: elements/review-graph/review-graph.php:192 test-elements/timer/timer.php:532
+msgid "Type"
+msgstr ""
+
+#: elements/review-graph/review-graph.php:29
+msgid "Star Text"
+msgstr ""
+
+#: elements/review-graph/review-graph.php:30
+msgid "Num + Star Icon"
+msgstr ""
+
+#: elements/review-graph/review-graph.php:31
+msgid "Star Icons"
+msgstr ""
+
+#: elements/review-graph/review-graph.php:32
+msgid "Custom Text"
+msgstr ""
+
+#: elements/review-graph/review-graph.php:42
+msgid "Excellent"
+msgstr ""
+
+#: elements/review-graph/review-graph.php:50
+msgid "Good"
+msgstr ""
+
+#: elements/review-graph/review-graph.php:58
+msgid "Average"
+msgstr ""
+
+#: elements/review-graph/review-graph.php:66
+msgid "Not Bad"
+msgstr ""
+
+#: elements/review-graph/review-graph.php:74
+msgid "Very Poor"
+msgstr ""
+
+#: elements/review-graph/review-graph.php:81
+msgid "Gap Between Text & Icon"
+msgstr ""
+
+#: elements/review-graph/review-graph.php:113
+msgid "Progress Bar"
+msgstr ""
+
+#: elements/review-graph/review-graph.php:122
+msgid "Bar"
+msgstr ""
+
+#: elements/review-graph/review-graph.php:123
+msgid "Star"
+msgstr ""
+
+#: elements/review-graph/review-graph.php:131
+msgid "Primary Color"
+msgstr ""
+
+#: elements/review-graph/review-graph.php:137
+msgid "Secondary Color"
+msgstr ""
+
+#: elements/review-graph/review-graph.php:144
+msgid "Row Height"
+msgstr ""
+
+#: elements/review-graph/review-graph.php:198
+msgid "Percentage"
+msgstr ""
+
+#: elements/review-graph/review-graph.php:230
+#: elements/review-ratings/review-ratings.php:307
+msgid "Product ID"
+msgstr ""
+
+#: elements/review-graph/review-graph.php:232
+#: elements/review-ratings/review-ratings.php:309
+msgid "Left blank if you are using in single product or loop."
+msgstr ""
+
+#: elements/review-ratings/review-ratings.php:8 includes/admin.php:223
+msgid "Ratings"
+msgstr ""
+
+#: elements/review-ratings/review-ratings.php:33
+msgid "Average Rating"
+msgstr ""
+
+#: elements/review-ratings/review-ratings.php:61
+msgid "Rating"
+msgstr ""
+
+#: elements/review-ratings/review-ratings.php:134
+msgid "Total Reviews"
+msgstr ""
+
+#: elements/review-ratings/review-ratings.php:178
+msgid "Reverse Flex Direction"
+msgstr ""
+
+#: elements/review-ratings/review-ratings.php:190
+msgid "Popup"
+msgstr ""
+
+#: elements/review-ratings/review-ratings.php:197
+msgid "In Builder Mode"
+msgstr ""
+
+#: elements/review-ratings/review-ratings.php:264
+msgid "Top - Initial State"
+msgstr ""
+
+#: elements/review-ratings/review-ratings.php:271
+msgid "Top - Hover State"
+msgstr ""
+
+#: elements/review-ratings/review-ratings.php:353
+msgid "There have no reviews. This message is just for builder."
+msgstr ""
+
+#: elements/shipping-form/shipping-form.php:6 includes/admin.php:216
+msgid "Shipping Form"
+msgstr ""
+
+#: includes/admin.php:73 includes/admin.php:174 includes/helpers.php:73
+msgid "Oxy Ultimate Woo"
+msgstr ""
+
+#: includes/admin.php:90
+msgid "License Settings"
+msgstr ""
+
+#: includes/admin.php:97
+msgid "License Key"
+msgstr ""
+
+#: includes/admin.php:115
+msgid "The license key is used for automatic upgrades and support."
+msgstr ""
+
+#: includes/admin.php:137 includes/admin.php:141
+msgid "Activate"
+msgstr ""
+
+#: includes/admin.php:138 includes/admin.php:142
+msgid "Deactivate"
+msgstr ""
+
+#: includes/admin.php:145
+msgid "Reactivate"
+msgstr ""
+
+#: includes/admin.php:150
+msgid ""
+"Invalid or Expired Key : Please make sure you have entered the correct value "
+"and that your key is not expired."
+msgstr ""
+
+#: includes/admin.php:168
+msgid "Components"
+msgstr ""
+
+#: includes/admin.php:169
+msgid "License"
+msgstr ""
+
+#: includes/admin.php:199
+msgid "Tabs To Accordion"
+msgstr ""
+
+#: includes/admin.php:203
+msgid "Cart Page Builder"
+msgstr ""
+
+#: includes/admin.php:205
+msgid "Cart Totals Table"
+msgstr ""
+
+#: includes/admin.php:209
+msgid "Checkout Page Builder"
+msgstr ""
+
+#: includes/admin.php:219
+msgid "Registration Form"
+msgstr ""
+
+#: includes/admin.php:220
+msgid "Login Form"
+msgstr ""
+
+#: includes/admin.php:235
+msgid "Components Settings"
+msgstr ""
+
+#: includes/admin.php:259
+msgid "Selected components are deactivated successfully."
+msgstr ""
+
+#: includes/admin.php:316
+msgid "Settings"
+msgstr ""
+
+#: includes/admin.php:326 includes/admin.php:333
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: includes/admin.php:328
+msgid "View Details"
+msgstr ""
+
+#: includes/admin.php:335
+msgid "Changelog"
+msgstr ""
+
+#: includes/helpers.php:78
+msgid "Classic"
+msgstr ""
+
+#: includes/helpers.php:82
+msgid "Cart Page"
+msgstr ""
+
+#: includes/helpers.php:87
+msgid "Checkout Page"
+msgstr ""
+
+#: includes/helpers.php:92
+msgid "Account"
+msgstr ""
+
+#: includes/helpers.php:218
+msgid "Failed. Something went wrong"
+msgstr ""
+
+#: includes/helpers.php:256
+msgid "Enter coupon code"
+msgstr ""
+
+#: includes/helpers.php:256
+msgid "Apply"
+msgstr ""
+
+#: includes/updater.php:155
+msgid "An Unexpected HTTP Error occurred during the API request"
+msgstr ""
+
+#: includes/updater.php:160 includes/updater.php:424
+msgid "An unknown error occurred"
+msgstr ""
+
+#: includes/updater.php:207
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>. Your license key "
+"is expired. <a href=\"https://oxyultimate.com/contact/\">Contact here</a> to "
+"renew the license key."
+msgstr ""
+
+#: includes/updater.php:216
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>. Activate your "
+"license key to receive the automatic updates and support. Need a license "
+"key? <a href=\"https://oxyultimate.com\">Purchase one now</a>."
+msgstr ""
+
+#: includes/updater.php:225
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox open-plugin-details-modal\" href=\"%2$s\">View version %3$s "
+"details</a> or <a href=\"%4$s\" class=\"update-link\">update now</a>."
+msgstr ""
+
+#: includes/updater.php:259
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: includes/updater.php:259
+msgid "Error"
+msgstr ""
+
+#: includes/updater.php:288
+msgid "Your license key is deactivated successfully."
+msgstr ""
+
+#: includes/updater.php:292 includes/updater.php:298
+msgid "There have some internal issues. Please try again."
+msgstr ""
+
+#: includes/updater.php:317
+msgid "You entered an invalid license key."
+msgstr ""
+
+#: includes/updater.php:318
+msgid "This key is already activated. Try a new license key."
+msgstr ""
+
+#: includes/updater.php:319
+msgid "This key is expired. Renew or purchase a new license key."
+msgstr ""
+
+#: includes/updater.php:365
+msgid "You entered an invalid license key or did not renew it."
+msgstr ""
+
+#: includes/updater.php:418
+msgid "<p>An Unexpected HTTP Error occurred during the API request.</p>"
+msgstr ""
+
+#: oxyultimate-woo.php:31
+msgid "Sorry, you are not allowed to access this page directly."
+msgstr ""
+
+#: oxyultimate-woo.php:72
+msgid ""
+"Sorry, you can't use the Ultimate addon unless the Oxygen Builder Plugin is "
+"active."
+msgstr ""
+
+#: test-elements/categories/categories.php:7
+msgid "Terms"
+msgstr ""
+
+#: test-elements/free-shipping-notice/free-shipping-notice.php:136
+msgid "Before Text"
+msgstr ""
+
+#: test-elements/free-shipping-notice/free-shipping-notice.php:138
+#: test-elements/free-shipping-notice/free-shipping-notice.php:144
+msgid "Click on Apply Params button and see the changes"
+msgstr ""
+
+#: test-elements/free-shipping-notice/free-shipping-notice.php:142
+msgid "After Text"
+msgstr ""
+
+#: test-elements/free-shipping-notice/free-shipping-notice.php:151
+msgid "Amount"
+msgstr ""
+
+#: test-elements/gallery-images/gallery-images.php:10
+msgid "Gallery Images"
+msgstr ""
+
+#: test-elements/loop-builder/loop-builder.php:6
+msgid "Loop Builder"
+msgstr ""
+
+#: test-elements/timer/timer.php:10
+msgid "Timer"
+msgstr ""
+
+#: test-elements/timer/timer.php:22
+msgid "Source"
+msgstr ""
+
+#: test-elements/timer/timer.php:26
+msgid "Timer For"
+msgstr ""
+
+#: test-elements/timer/timer.php:28
+msgid "Sales Product"
+msgstr ""
+
+#: test-elements/timer/timer.php:28
+msgid "Coupon"
+msgstr ""
+
+#: test-elements/timer/timer.php:48
+msgid "Labels"
+msgstr ""
+
+#: test-elements/timer/timer.php:53
+msgid "Show Labels"
+msgstr ""
+
+#: test-elements/timer/timer.php:64
+msgid "Labels Tag"
+msgstr ""
+
+#: test-elements/timer/timer.php:67 test-elements/timer/timer.php:399
+msgid "H1"
+msgstr ""
+
+#: test-elements/timer/timer.php:68 test-elements/timer/timer.php:400
+msgid "H2"
+msgstr ""
+
+#: test-elements/timer/timer.php:69 test-elements/timer/timer.php:401
+msgid "H3"
+msgstr ""
+
+#: test-elements/timer/timer.php:70 test-elements/timer/timer.php:402
+msgid "H4"
+msgstr ""
+
+#: test-elements/timer/timer.php:71 test-elements/timer/timer.php:403
+msgid "H5"
+msgstr ""
+
+#: test-elements/timer/timer.php:72 test-elements/timer/timer.php:404
+msgid "H6"
+msgstr ""
+
+#: test-elements/timer/timer.php:73 test-elements/timer/timer.php:405
+msgid "DIV"
+msgstr ""
+
+#: test-elements/timer/timer.php:74 test-elements/timer/timer.php:406
+msgid "P"
+msgstr ""
+
+#: test-elements/timer/timer.php:85
+msgid "Label Position"
+msgstr ""
+
+#: test-elements/timer/timer.php:88
+msgid "Below Digit"
+msgstr ""
+
+#: test-elements/timer/timer.php:89
+msgid "Above Digit"
+msgstr ""
+
+#: test-elements/timer/timer.php:90
+msgid "Right Side of Digit"
+msgstr ""
+
+#: test-elements/timer/timer.php:91
+msgid "Left Side of Digit"
+msgstr ""
+
+#: test-elements/timer/timer.php:98
+msgid "Year"
+msgstr ""
+
+#: test-elements/timer/timer.php:102
+msgid "Show Year"
+msgstr ""
+
+#: test-elements/timer/timer.php:113 test-elements/timer/timer.php:146
+#: test-elements/timer/timer.php:179 test-elements/timer/timer.php:212
+#: test-elements/timer/timer.php:245 test-elements/timer/timer.php:278
+msgid "Label in Singular"
+msgstr ""
+
+#: test-elements/timer/timer.php:123 test-elements/timer/timer.php:156
+#: test-elements/timer/timer.php:189 test-elements/timer/timer.php:222
+#: test-elements/timer/timer.php:255 test-elements/timer/timer.php:288
+msgid "Label in Plural"
+msgstr ""
+
+#: test-elements/timer/timer.php:131
+msgid "Month"
+msgstr ""
+
+#: test-elements/timer/timer.php:135
+msgid "Show Month"
+msgstr ""
+
+#: test-elements/timer/timer.php:164
+msgid "Day"
+msgstr ""
+
+#: test-elements/timer/timer.php:168
+msgid "Show Day"
+msgstr ""
+
+#: test-elements/timer/timer.php:197
+msgid "Hour"
+msgstr ""
+
+#: test-elements/timer/timer.php:201
+msgid "Show Hour"
+msgstr ""
+
+#: test-elements/timer/timer.php:230
+msgid "Minute"
+msgstr ""
+
+#: test-elements/timer/timer.php:234
+msgid "Show Minutes"
+msgstr ""
+
+#: test-elements/timer/timer.php:263
+msgid "Second"
+msgstr ""
+
+#: test-elements/timer/timer.php:267
+msgid "Show Seconds"
+msgstr ""
+
+#: test-elements/timer/timer.php:295
+msgid "Width & Color"
+msgstr ""
+
+#: test-elements/timer/timer.php:336
+msgid "Action"
+msgstr ""
+
+#: test-elements/timer/timer.php:340
+msgid "Action after time expires"
+msgstr ""
+
+#: test-elements/timer/timer.php:344
+msgid "Hide Timer"
+msgstr ""
+
+#: test-elements/timer/timer.php:345
+msgid "Display Message"
+msgstr ""
+
+#: test-elements/timer/timer.php:346
+msgid "Redirect to URL"
+msgstr ""
+
+#: test-elements/timer/timer.php:376
+msgid "Target"
+msgstr ""
+
+#: test-elements/timer/timer.php:379
+msgid "Same Window"
+msgstr ""
+
+#: test-elements/timer/timer.php:379
+msgid "New Window"
+msgstr ""
+
+#: test-elements/timer/timer.php:391
+msgid "Digit Styles"
+msgstr ""
+
+#: test-elements/timer/timer.php:396
+msgid "Digit Tag"
+msgstr ""
+
+#: test-elements/timer/timer.php:464
+msgid "Block Styles"
+msgstr ""
+
+#: test-elements/timer/timer.php:516
+msgid "Separator"
+msgstr ""
+
+#: test-elements/timer/timer.php:521
+msgid "Display between blocks"
+msgstr ""
+
+#: test-elements/timer/timer.php:534
+msgid "Colon"
+msgstr ""
+
+#: test-elements/timer/timer.php:534
+msgid "Line"
+msgstr ""
+
+#: test-elements/timer/timer.php:589
+msgid "Hide on mobile"
+msgstr ""
+
+#: test-elements/timer/timer.php:823
+msgid "Current Product"
+msgstr ""

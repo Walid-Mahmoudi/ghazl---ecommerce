@@ -1,0 +1,430 @@
+# Copyright (C) 2024 WPClever
+# This file is distributed under the same license as the WPC Variation Swatches for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Variation Swatches for WooCommerce 4.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-variation-swatches\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-03-22T06:50:20+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wpc-variation-swatches\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Variation Swatches for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "WPC Variation Swatches is a beautiful color, image, radio and buttons variation swatches for WooCommerce product attributes."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: wpc-variation-swatches.php:213
+#: wpc-variation-swatches.php:357
+#: wpc-variation-swatches.php:367
+msgid "WPC Variation Swatches"
+msgstr ""
+
+#: wpc-variation-swatches.php:218
+msgid "Custom name"
+msgstr ""
+
+#: wpc-variation-swatches.php:329
+#: wpc-variation-swatches.php:658
+#: wpc-variation-swatches.php:660
+msgid "Add to cart"
+msgstr ""
+
+#: wpc-variation-swatches.php:330
+#: wpc-variation-swatches.php:664
+#: wpc-variation-swatches.php:666
+msgid "Select options"
+msgstr ""
+
+#: wpc-variation-swatches.php:331
+#: wpc-variation-swatches.php:670
+#: wpc-variation-swatches.php:672
+msgid "View cart"
+msgstr ""
+
+#: wpc-variation-swatches.php:357
+msgid "Variation Swatches"
+msgstr ""
+
+#. translators: stars
+#: wpc-variation-swatches.php:370
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: wpc-variation-swatches.php:372
+msgid "Reviews"
+msgstr ""
+
+#: wpc-variation-swatches.php:373
+msgid "Changelog"
+msgstr ""
+
+#: wpc-variation-swatches.php:374
+msgid "Discussion"
+msgstr ""
+
+#: wpc-variation-swatches.php:379
+msgid "Settings updated."
+msgstr ""
+
+#: wpc-variation-swatches.php:385
+#: wpc-variation-swatches.php:703
+msgid "Settings"
+msgstr ""
+
+#: wpc-variation-swatches.php:388
+msgid "Localization"
+msgstr ""
+
+#: wpc-variation-swatches.php:391
+msgid "Essential Kit"
+msgstr ""
+
+#: wpc-variation-swatches.php:414
+#: wpc-variation-swatches.php:652
+msgid "General"
+msgstr ""
+
+#: wpc-variation-swatches.php:418
+msgid "Button swatch by default"
+msgstr ""
+
+#: wpc-variation-swatches.php:421
+#: wpc-variation-swatches.php:432
+#: wpc-variation-swatches.php:474
+#: wpc-variation-swatches.php:499
+#: wpc-variation-swatches.php:555
+msgid "Yes"
+msgstr ""
+
+#: wpc-variation-swatches.php:422
+#: wpc-variation-swatches.php:433
+#: wpc-variation-swatches.php:475
+#: wpc-variation-swatches.php:500
+#: wpc-variation-swatches.php:556
+msgid "No"
+msgstr ""
+
+#: wpc-variation-swatches.php:424
+msgid "Turn the default type to button type."
+msgstr ""
+
+#: wpc-variation-swatches.php:429
+msgid "Enable second click to undo?"
+msgstr ""
+
+#: wpc-variation-swatches.php:435
+msgid "Enable/disable click again to undo the selection on current attribute."
+msgstr ""
+
+#: wpc-variation-swatches.php:440
+msgid "Tooltip library"
+msgstr ""
+
+#: wpc-variation-swatches.php:443
+msgid "Hint.css"
+msgstr ""
+
+#: wpc-variation-swatches.php:444
+msgid "Tippy.js"
+msgstr ""
+
+#: wpc-variation-swatches.php:445
+msgid "None (Disable)"
+msgstr ""
+
+#: wpc-variation-swatches.php:451
+msgid "Tooltip position"
+msgstr ""
+
+#: wpc-variation-swatches.php:454
+msgid "Top"
+msgstr ""
+
+#: wpc-variation-swatches.php:455
+msgid "Right"
+msgstr ""
+
+#: wpc-variation-swatches.php:456
+msgid "Bottom"
+msgstr ""
+
+#: wpc-variation-swatches.php:457
+msgid "Left"
+msgstr ""
+
+#: wpc-variation-swatches.php:462
+msgid "Style"
+msgstr ""
+
+#: wpc-variation-swatches.php:465
+msgid "Square"
+msgstr ""
+
+#: wpc-variation-swatches.php:466
+msgid "Rounded"
+msgstr ""
+
+#: wpc-variation-swatches.php:471
+#: wpc-variation-swatches.php:757
+msgid "Term groups"
+msgstr ""
+
+#: wpc-variation-swatches.php:482
+msgid "Single Product"
+msgstr ""
+
+#: wpc-variation-swatches.php:486
+msgid "Layout"
+msgstr ""
+
+#: wpc-variation-swatches.php:489
+msgid "Table (default)"
+msgstr ""
+
+#: wpc-variation-swatches.php:490
+msgid "Stacked"
+msgstr ""
+
+#: wpc-variation-swatches.php:492
+msgid "Choose the layout for swatches on the single product page."
+msgstr ""
+
+#: wpc-variation-swatches.php:496
+msgid "Change URL"
+msgstr ""
+
+#: wpc-variation-swatches.php:502
+msgid "Change the URL on address bar when choosing attribute term."
+msgstr ""
+
+#: wpc-variation-swatches.php:506
+msgid "Replacement"
+msgstr ""
+
+#: wpc-variation-swatches.php:509
+#: wpc-variation-swatches.php:552
+msgid "Enable"
+msgstr ""
+
+#: wpc-variation-swatches.php:510
+msgid "Disable"
+msgstr ""
+
+#: wpc-variation-swatches.php:512
+msgid "Enable it to replace the product name/price/description when choosing variations."
+msgstr ""
+
+#: wpc-variation-swatches.php:516
+#: wpc-variation-swatches.php:583
+msgid "Selector"
+msgstr ""
+
+#. translators: selector
+#: wpc-variation-swatches.php:520
+#: wpc-variation-swatches.php:587
+msgid "Product wrapper selector. Default: %s"
+msgstr ""
+
+#. translators: selector
+#: wpc-variation-swatches.php:526
+#: wpc-variation-swatches.php:599
+msgid "Product name selector. Default: %s"
+msgstr ""
+
+#. translators: selector
+#: wpc-variation-swatches.php:532
+#: wpc-variation-swatches.php:605
+msgid "Product price selector. Default: %s"
+msgstr ""
+
+#. translators: selector
+#: wpc-variation-swatches.php:538
+msgid "Product short description selector. Default: %s"
+msgstr ""
+
+#: wpc-variation-swatches.php:548
+msgid "Product Archive"
+msgstr ""
+
+#: wpc-variation-swatches.php:558
+msgid "Enable swatches for product archive page."
+msgstr ""
+
+#: wpc-variation-swatches.php:562
+msgid "Position"
+msgstr ""
+
+#: wpc-variation-swatches.php:565
+msgid "Before add to cart button"
+msgstr ""
+
+#: wpc-variation-swatches.php:566
+msgid "After add to cart button"
+msgstr ""
+
+#: wpc-variation-swatches.php:567
+msgid "None"
+msgstr ""
+
+#. translators: shortcode
+#: wpc-variation-swatches.php:569
+msgid "Swatches position on product archive page. You also can use the shortcode: %s"
+msgstr ""
+
+#: wpc-variation-swatches.php:574
+msgid "Limit"
+msgstr ""
+
+#: wpc-variation-swatches.php:578
+msgid "Maximum terms of each attribute will be shown on product archive page."
+msgstr ""
+
+#. translators: selector
+#: wpc-variation-swatches.php:593
+msgid "Product image selector. Default: %s"
+msgstr ""
+
+#. translators: selector
+#: wpc-variation-swatches.php:611
+msgid "Add to cart button selector. Default: %s"
+msgstr ""
+
+#. translators: selector
+#: wpc-variation-swatches.php:617
+msgid "Add to cart button text selector. Default: %s"
+msgstr ""
+
+#: wpc-variation-swatches.php:626
+msgid "Suggestion"
+msgstr ""
+
+#: wpc-variation-swatches.php:654
+msgid "Leave blank to use the default text and its equivalent translation in multiple languages."
+msgstr ""
+
+#: wpc-variation-swatches.php:676
+msgid "More"
+msgstr ""
+
+#. translators: count
+#: wpc-variation-swatches.php:679
+#: wpc-variation-swatches.php:1081
+msgid "+%d More"
+msgstr ""
+
+#: wpc-variation-swatches.php:719
+msgid "Community support"
+msgstr ""
+
+#: wpc-variation-swatches.php:734
+msgid "Select"
+msgstr ""
+
+#: wpc-variation-swatches.php:735
+#: wpc-variation-swatches.php:821
+msgid "Button"
+msgstr ""
+
+#: wpc-variation-swatches.php:736
+#: wpc-variation-swatches.php:827
+msgid "Color"
+msgstr ""
+
+#: wpc-variation-swatches.php:737
+#: wpc-variation-swatches.php:841
+msgid "Image"
+msgstr ""
+
+#: wpc-variation-swatches.php:738
+msgid "Radio"
+msgstr ""
+
+#: wpc-variation-swatches.php:768
+msgid "Fill in group labels then press Enter or select from the dropdown."
+msgstr ""
+
+#: wpc-variation-swatches.php:801
+#: wpc-variation-swatches.php:1125
+msgid "Group"
+msgstr ""
+
+#: wpc-variation-swatches.php:805
+msgid "Select a group"
+msgstr ""
+
+#: wpc-variation-swatches.php:822
+#: wpc-variation-swatches.php:828
+#: wpc-variation-swatches.php:853
+#: wpc-variation-swatches.php:859
+#: wpc-variation-swatches.php:1127
+msgid "Tooltip"
+msgstr ""
+
+#: wpc-variation-swatches.php:846
+msgid "Upload/Add image"
+msgstr ""
+
+#: wpc-variation-swatches.php:848
+msgid "Remove image"
+msgstr ""
+
+#: wpc-variation-swatches.php:858
+msgid "Label"
+msgstr ""
+
+#: wpc-variation-swatches.php:1126
+msgid "Value"
+msgstr ""
+
+#: wpc-variation-swatches.php:1211
+msgid "Choose"
+msgstr ""
+
+#: wpc-variation-swatches.php:1218
+msgid "Clear"
+msgstr ""
+
+#: wpc-variation-swatches.php:1239
+msgid "Above terms container"
+msgstr ""
+
+#: wpc-variation-swatches.php:1240
+msgid "Below terms container"
+msgstr ""
+
+#: wpc-variation-swatches.php:1241
+msgid "Before terms container"
+msgstr ""
+
+#: wpc-variation-swatches.php:1242
+msgid "After terms container"
+msgstr ""
+
+#: wpc-variation-swatches.php:1243
+msgid "Before term"
+msgstr ""
+
+#: wpc-variation-swatches.php:1244
+msgid "After term"
+msgstr ""
