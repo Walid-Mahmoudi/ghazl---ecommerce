@@ -27,7 +27,7 @@ function lit_wco_register_empty_cart_condition() {
 
         // Operators
         $oxy_condition_operators['simple'],
-
+        
         // Callback Function
         'lit_wco_condition_empty_cart_callback',
 
